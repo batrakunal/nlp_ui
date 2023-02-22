@@ -1,0 +1,26 @@
+
+{% extends "adminbase.html" %}
+
+{% block content %}
+  <div class="card-wrapper">
+        <div class="card">
+            <h1 class="center">Admin Log In</h1>
+            <label for = "heading-info" class="center" style = "margin-bottom:10px;">Please login to continue to sign up page</label>
+            <form name="admin_login_form">
+                <input type="hidden" name="csrf_token" value="{{ csrf_token()}}"/>
+
+            <label for="username">Username</label>
+            <input type="text" name="username" class="field" required>
+    
+            <label for="password">Password</label>
+            <input type="password" name="password" class="field" required>
+    
+            <p class="error error--hidden"></p>
+    
+            <input type="submit" value="Log In" class="btn">
+            
+            </form>
+            
+        </div>
+    </div>
+{% endblock %}

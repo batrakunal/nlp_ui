@@ -1,0 +1,123 @@
+body, html {
+    font-family: 'Montserrat', sans-serif;
+    min-width: fit-content;
+    
+  }
+
+body{
+    padding: 0;
+    margin:0; 
+    min-height: fit-content;
+    /* height: 100%; */
+    
+}
+  
+.logo {
+    background-color: #0D122B;
+    padding: 10px;
+    color: white;
+}
+
+.droparea {
+    width: 200px;  
+    height: 200px;
+    border-style: solid;
+    border-width: 3px;
+    border-color: red;
+    float: left;
+    line-height: 200px;
+    /* text-align: center; */
+}
+
+.dropzone_options{
+   bottom: -100px;
+   width: 100%;
+   position: absolute;
+   left: 0px;
+   /* display: inline; */
+
+}
+
+
+
+#upload-btn{
+  width: 210px;
+  display: block;
+  /* position: absolit; */
+}
+
+
+
+.tablearea {
+    width: 200px;
+    min-height: 200px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: gray;
+    float: left;
+    margin-left: 10px;
+}
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0px;
+    height: 40px;
+    width: 100%;
+    background-color: #7a7a7a;
+    
+    text-align: center;
+  }
+
+  #footer_text{
+    /* color:red; */
+    margin: 0px;
+    color: white;
+    padding-top: 7px;
+    font-size: 15px;
+  }
+
+ 
+.GFG { 
+background-color: white; 
+border: 2px solid black; 
+color: green; 
+padding: 5px 10px; 
+text-align: center; 
+display: inline-block; 
+font-size: 20px; 
+margin: 10px 30px; 
+cursor: pointer; 
+} 
+
+.image_wrapper {
+width: 100%;
+height:100%;
+background-position: center center;
+margin:auto;
+padding:0;
+}
+
+
+
+
+
+.footerSources{
+    line-height: 60px;
+    height: 60px;
+    width: 100%;
+    background-color: #7a7a7a;
+    color: white;
+    text-align: center;
+}
+
+.signout_btn{
+  position: relative;
+  right:10px;
+}
+
+.item{
+  width:100%;
+}
+
+

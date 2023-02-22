@@ -1,0 +1,1158 @@
+Seq.,sentence,similarity_to_bench,page,cluster
+0,"  
+  
+ Defense Acquisitions:  
+ How DOD Acquires Weapon Systems and 
+ Recent Efforts to Reform the Process 
+ Moshe Schwartz 
+ Specialist in Defense Acquisition 
+ May 23, 2014 
+ Congressional Research Service 
+ 7-5700 
+ www.crs.gov 
+ RL34026 
+ Defense Acquisitions: How DOD Acquires Weapon Systems 
+  
+ Congressional Research Service 
+ Summary 
+ ",0.6702809853924602,1,4
+1,"The Department of Defense (DOD) acquires goods and services from contractors, federal 
+ arsenals, and shipyards to support military operations. ",0.6114238171459611,2,4
+2," Acquisition  is a broad term that applies to 
+ more than just the purchase of an item or service; the acquisition process encompasses the design, 
+ engineering, construction, testing, deployment, sustainment, and disposal of weapons or related 
+ items purchased from a contractor. ",0.9404657990495023,2,3
+3,"
+ As set forth by statute and regulation, from concept to deployment, a weapon system must go 
+ through a three-step process of identifying a required (needed) weapon system, establishing a 
+ budget, and acquiring the system. ",1.2278249965408603,2,5
+4,"These three steps are organized as follows:  
+ 1. ",0.7382333616037153,2,0
+5,"  The Joint Capabilities Integration and Development System (JCIDS)—for 
+ identifying requirements. ",0.9661634722351035,2,2
+6,"
+ 2. ",0.0,2,-1
+7,"  The Planning, Programming, Budgeting, and Execution System (PPBE)—for 
+ allocating resources and budgeting. ",1.024912727036884,2,6
+8,"
+ 3. ",0.0,2,-1
+9,  The Defense Acquisition System (DAS)—for developing and/or buying the item. ,0.5935715601052101,2,8
+10," 
+ The Defense Acquisition System uses “milestones” to oversee and manage acquisition programs. ",0.7802443013493962,2,5
+11,"
+ At each milestone, a program must meet specific statutory and regulatory requirements before the 
+ program can proceed to the next phase of the acquisition process. ",0.7611861369179548,2,5
+12,"There are three milestones: 
+ •  
+ Milestone A—initiates technology maturation and risk reduction. ",0.6257903029206385,2,7
+13,"
+ •  
+ Milestone B—initiates engineering and manufacturing development. ",0.5093150704601962,2,7
+14,"
+ •  
+ Milestone C—initiates production and deployment. ",0.46300176425960016,2,7
+15,"
+ Both Congress and DOD have been active in trying to improve defense acquisitions. ",0.7276155688516753,2,8
+16,"A 
+ comprehensive legislative effort to improve weapon system acquisition occurred in May 2009, 
+ when Congress passed and the President signed into law the Weapon Systems Acquisition Reform 
+ Act of 2009 (S. 454/P.L. 111-23). ",0.9793181912612472,2,4
+17,"Key provisions in the act include appointment of a Director of 
+ Cost Assessment and Program Evaluation within DOD to establish guidance on cost estimating; 
+ appointment of a Director of Developmental Test and Evaluation; appointment of a Director of 
+ Systems Engineering; and a requirement that the Director of Defense Research and Engineering 
+ periodically assess technological maturity of Major Defense Acquisition Programs. ",1.3932370105284624,2,5
+18," 
+ DOD has undertaken a comprehensive effort to improve defense acquisitions, including rewriting 
+ elements of the regulatory structure that govern defense acquisitions and launching the  Better 
+ Buying Power  and  Better Buying Power II ",0.8973595369682789,2,8
+19," initiatives aimed at “implementing practices and 
+ policies designed to improve the productivity of the Department of Defense and of the industrial 
+ base.” ",0.8853979911270322,2,8
+20,"
+ An oversight issue for Congress is the extent to which the Weapon Systems Acquisition Reform 
+ Act and the various DOD initiatives are having a positive effect on acquisitions, and what 
+ additional steps, if any, Congress can take to further the effort to improve defense acquisitions. ",1.147714108572638,2,8
+21," 
+  
+ Defense Acquisitions: How DOD Acquires Weapon Systems 
+  
+ Congressional Research Service 
+ Contents 
+ Introduction ...................................................................................................................................... 1  
+ Background ...................................................................................................................................... 1  
+ Statutory and Regulatory Foundation ........................................................................................ 2  
+ The Process for Buying a Weapon System ...................................................................................... 2  
+ The Requirements Process: Joint Capabilities Integration and Development System 
+ (JCIDS) ................................................................................................................................... 3  
+ The Budgeting Process: Planning, Programming, Budgeting and Execution System 
+ (PPBE) .................................................................................................................................... 5  
+ The Defense Acquisition System ............................................................................................... 6  
+ Entering the Defense Acquisition System—Materiel Development Decision .................... 7  
+ Material Solution Analysis Phase—Determining the Right Solution ................................. 8  
+ Milestone A and the Technology Maturation and Risk Reduction Phase ............................ 9  
+ Milestone B and the Engineering and Manufacturing Development Phase ...................... 10  
+ Milestone C and the Production and Deployment Phase .................................................. 12  
+ Operations and Support Phase ........................................................................................... 13  
+ Acquisition Categories ................................................................................................................... 14  
+ Acquisition Reform ....................................................................................................................... 15  
+ DOD Reform Efforts ............................................................................................................... 16  
+ Congressional Reform Efforts ................................................................................................. 17  
+  
+ Figures 
+ Figure 1. ",1.2245999866509858,2,5
+22,"DOD’s Defense Acquisition Structure .............................................................................. 3  
+ Figure 2. ",0.44159783826725874,3,5
+23,"Defense Acquisition Milestones ....................................................................................... 7  
+ Figure 3. ",0.41658908423183505,3,0
+24,"Materiel Solution Analysis and the Pre-Milestone Phase ................................................. 8  
+ Figure 4. ",0.7407941110504204,3,7
+25,"Milestone A: The Technology Maturation and Risk Reduction Phase ............................. 9  
+ Figure 5. ",0.6295238937616593,3,7
+26,"Milestone B: The Engineering and Manufacturing Development Phase ....................... 11  
+ Figure 6. ",0.5760791592956497,3,7
+27,"Milestone C: The Production and Deployment Phase .................................................... 12  
+ Figure 7. ",0.5400377040024058,3,7
+28,"The Operations and Support Phase ................................................................................. 14  
+  
+ Tables 
+ Table 1. ",0.6201519476193585,3,0
+29,"Description of Acquisition Categories ............................................................................. 14  
+  
+ Contacts 
+ Author Contact Information........................................................................................................... 18  
+  
+ Defense Acquisitions: How DOD Acquires Weapon Systems 
+  
+ Congressional Research Service 
+ 1 
+ Introduction 
+ ",0.566104500929504,3,4
+30,"This report provides an overview of the process by which the Department of Defense (DOD) 
+ acquires weapon systems and briefly discusses recent major efforts by Congress and DOD to 
+ improve the performance of the acquisition system. ",1.0019753436277137,4,8
+31,"For a discussion on the process for dealing 
+ with significant cost growth in weapon systems, see CRS Report R41293,  The Nunn-McCurdy 
+ Act: Background, Analysis, and Issues for Congress , by Moshe Schwartz. ",0.9947453650430441,4,8
+32,"
+ Background 
+ The Department of Defense acquires goods and services from contractors, federal arsenals, and 
+ shipyards to support military operations. ",0.5974162901476833,4,4
+33," Acquisition  is a broad term that applies to more than just 
+ the purchase of an item or service; the acquisition process encompasses the design, engineering, 
+ construction, testing, deployment, sustainment, and disposal of weapons or related items 
+ purchased from a contractor. ",0.9404657990495023,4,3
+34,"1  From a policy perspective, federal regulations and federal law 
+ generally use the terms  acquisition  and  procurement  interchangeably. ",0.8269669134153471,4,4
+35,"2  The term procurement, 
+ when used within the context of acquisitions, is different from the budget definition of 
+ procurement that generally references the Procurement budget appropriations account—a funding 
+ stream that is distinct from Research and Development, Operations and Maintenance, and other 
+ budget categories. ",1.0275810239953866,4,3
+36,"
+ DOD’s acquisition process is highly complex and does not always produce systems that meet 
+ estimated cost or performance expectations. ",0.95125514332778,4,11
+37,"Congress has been concerned with the structure and 
+ performance of the defense acquisition system for many years. ",0.7405893057787594,4,8
+38,"For example, the House Armed 
+ Services Committee’s report of the FY2007 defense authorization bill stated 
+ Simply put, the Department of Defense (DOD) acquisition process is broken. ",0.6426557702362719,4,4
+39,"The ability of 
+ the Department to conduct the large scale acquisitions required to ensure our future national 
+ security is a concern of the committee. ",0.8240987732970486,4,11
+40,"The rising costs and lengthening schedules of major 
+ defense acquisition programs lead to more expensive platforms fielded in fewer numbers. ",0.8556592377055059,4,10
+41,"
+ The committee’s concerns extend to all three key components of the Acquisition process 
+ including requirements generation, acquisition and contracting, and financial management. ",0.8052182930413317,4,5
+42,"3  
+                                                                  
+ 1  The Federal Acquisition Regulation states that “[a]cquisition begins at the point when agency needs are established 
+ and includes the description of requirements to satisfy agency needs, solicitation and selection of source, award of 
+ contracts, contract financing, contract performance, contract administration, and those technical and management 
+ functions directly related to the process of fulfilling agency needs by contract.” ",1.1936356655821392,4,3
+43,See FAR 2.101. ,0.33973676917839535,4,1
+44," 
+ 2  In the section of the Federal Acquisition Regulation that defines terms (2.101), the entry for the definition of 
+ Procurement states “(see ‘acquisition’).” ",0.8242116117901791,4,3
+45," 
+ Title 10 of the  U.S. Code , Chapter 137 (Procurement Generally), adheres to a definition of  procurement  that “includes 
+ all stages of the process of acquiring property or services, beginning with the process for determining a need for 
+ property or services and ending with contract completion and closeout.” ",1.0787769927621549,4,3
+46,"See 10 U.S.C. §2302, referencing Title 41, 
+ §111. ",0.3850924207089241,4,1
+47,"Title 41, §131, defines  acquisition  as “the process of acquiring, with appropriated amounts, by contract for 
+ purchase or lease, property or services (including construction) that support the missions and goals of an executive 
+ agency, from the point at which the requirements of the executive agency are established ... ” and includes 
+ development, solicitation, contract award, and contract performance, through final delivery and payment. ",1.263930481229678,4,3
+48," 
+ 3  H.Rept. 109-452. ",0.27974027395248413,4,1
+49," Report of the Committee on Armed Services, House of Representatives on H.R. 5122 . ",0.49132475579726703,4,4
+50,"May 5, 2006, 
+ p. 350. ",0.0,4,-1
+51,"
+ Defense Acquisitions: How DOD Acquires Weapon Systems 
+  
+ Congressional Research Service 
+ 2 
+ Over the decades, congressional oversight has focused on many aspects of the acquisition 
+ process, from “micro-level” practices, such as characteristics of a particular contract, to “macro-
+ level” practices, such as management and execution of the Joint Strike Fighter and other Major 
+ Defense Acquisition Programs (MDAPs). ",0.8288153526931092,4,8
+52,"4  Congress has held oversight hearings and enacted 
+ legislation in an effort to improve the defense acquisition structure and its practices. ",0.9177262320194108,5,8
+53,"5   
+ Statutory and Regulatory Foundation 
+ Title 10 of the  United States Code  governs the organization, structure, and operation of the Armed 
+ Forces of the United States. ",0.7212159860151879,5,4
+54,"Several sections within the title charge the secretaries of the military 
+ departments (Army, Navy, and Air Force) with responsibility to “equip” the armed forces. ",0.5797661277143762,5,4
+55,"
+ General procurement provisions, many of which apply to MDAPs and MAISs (Major Automated 
+ Information Systems), are spread throughout the title, including assignment of responsibilities, 
+ establishment of acquisition procedures, and requirements for reporting to Congress. ",0.9309173566211544,5,9
+56,"The annual 
+ National Defense Authorization Acts are one of the principal mechanisms by which Congress 
+ modifies the defense acquisition structure, also set forth in Title 10. ",0.7724045708040472,5,4
+57,"
+ DOD procurement activities are generally governed by three sets of federal government 
+ regulations:  
+ •  
+  The first set of regulations applies to the entire federal government (including 
+ DOD unless stated otherwise) and is found in the Federal Acquisition Regulation 
+ (FAR). ",1.010583221779631,5,3
+58," 
+ •  
+ The second set of regulations applies only to DOD and is found in the Defense 
+ Federal Acquisition Regulation Supplement. ",0.7651222356301915,5,4
+59," 
+ •  
+ The third set of regulations applies only to individual DOD components and is 
+ found in component-unique FAR Supplements. ",0.7019896175264935,5,3
+60,"6   
+ Procurement actions in DOD must adhere to the various regulations, and program managers must 
+ take the regulations into account during the planning and execution of their programs. ",1.0849925178087916,5,5
+61,"
+ The Process for Buying a Weapon System 
+ Every weapon system in the U.S. arsenal is intended to satisfy a specific military need (often 
+ referred to as a  requirement) , must be paid for by the federal  budget , and is designed and built 
+ within an  acquisition system . ",1.0208121122506868,5,11
+62,"From concept to deployment, a weapon system must go through the 
+                                                                  
+ 4  MDAPs are the Department’s most expensive acquisition programs. ",0.5957694506499057,5,5
+63,"MDAPs are statutorily defined in 10 U.S.C. 
+ §2430 as DOD acquisition programs whose value based on FY1990 constant dollars exceeds $300 million of Research, 
+ Development, Test and Evaluation funding (approximately $442 million in FY2009 dollars), $1.8 billion of 
+ Procurement funding (approximately $2.578 billion in FY2009 dollars), or are designated MDAPs by the Under 
+ Secretary of Defense for Acquisition, Technology, and Logistics. ",1.0537178798956994,5,5
+64,"
+ 5  Congress’s authority to reorganize the defense acquisition process stems primarily from Article I, Section 8, of the 
+ Constitution, which vests the legislature with the power to “raise and support Armies ... provide and maintain a Navy ... ",0.7987917237673677,5,4
+65,"
+ [and] make Rules for the Government and Regulation of the land and naval Forces.” ",0.6729604410026291,5,1
+66,"
+ 6  Components with their own regulations include the Army, Air Force, Navy and Marine Corps, Defense Logistics 
+ Agency, and U.S. Special Operations Command. ",0.7559444056786451,5,4
+67,"
+ Defense Acquisitions: How DOD Acquires Weapon Systems 
+  
+ Congressional Research Service 
+ 3 
+ three-step process of identifying the required weapon system, establishing a budget, and acquiring 
+ the system. ",1.0173306165962108,5,8
+68,"These three steps are organized as follows: 
+ 1. ",0.7382333616037153,6,0
+69,"  The Joint Capabilities Integration and Development System—for identifying 
+ requirements. ",0.9700121386142528,6,2
+70,"
+ 2. ",0.0,6,-1
+71,"  The Planning, Programming, Budgeting, and Execution System—for allocating 
+ resources and budgeting. ",1.0469779318050243,6,6
+72," 
+ 3. ",0.0,6,-1
+73,  The Defense Acquisition System—for developing and/or buying the item. ,0.6274020855594462,6,8
+74," 
+ These three steps (each of which is a system onto itself), taken together, are often referred to as 
+ “Big ‘A’” acquisition, in contrast to the Defense Acquisition System, which is referred to as “little 
+ ‘a’” acquisition (see  Figure 1 ). ",0.4931491315442484,6,0
+75," 
+ Figure 1. ",0.24724451928140057,6,0
+76,"DOD’s Defense Acquisition Structure 
+  
+ Source:  Defense Acquisition Performance Assessment Report, February 2006, p. 4. ",0.8925132558522126,6,5
+77,"
+ The Requirements Process: Joint Capabilities Integration and 
+ Development System (JCIDS)  
+ The Joint Capabilities Integration and Development System is the process by which DOD 
+ identifies, assesses, and prioritizes what capabilities the military requires to fulfill its mission. ",1.0549478912448527,6,2
+78,"As 
+ such, JCIDS is often referred to as the requirements generation process. ",0.5727393788397112,6,2
+79,"Requirements identified 
+ through JCIDS can be addressed in a number of ways, including changes in doctrine, training, 
+ and organization, or the acquisition of a new item, such as a weapon system. ",1.051171497304558,6,2
+80," 
+ The JCIDS process was created in 2003 in an effort to fundamentally change the way DOD 
+ developed requirements. ",0.9411389194119074,6,2
+81,"Prior to 2003, DOD used a threat-based approach to identifying 
+ warfighter requirements. ",0.8903940436212753,6,2
+82,"7  With the advent of JCIDS, DOD shifted to a capabilities-based 
+ approach to identifying warfighter needs. ",0.8846058513269349,6,2
+83,"In other words, instead of developing, producing, and 
+                                                                  
+ 7  This threat-based approach was known as the Requirements Generation System. ",0.6922573566892668,6,0
+84,"
+ Defense Acquisitions: How DOD Acquires Weapon Systems 
+  
+ Congressional Research Service 
+ 4 
+ fielding systems based on specific perceived threats to the nation, DOD adopted a policy of 
+ identifying what capabilities it needs to meet the strategic direction and priorities set forth in 
+ high-level strategy and guidance documents such as the National Military Strategy, National 
+ Defense Strategy, and Quadrennial Defense Review. 8   
+ Many analysts suggest that under the threat-based approach, each military service identified a 
+ threat, and in response to the threat developed its own independent weapons. ",1.2921876643163472,6,11
+85,"The shift to a 
+ capabilities-based approach served to promote a more collaborative method of identifying 
+ capability gaps across services instead of each service developing its own response. ",0.9630398620449234,7,11
+86,"As a result, 
+ weapon systems are expected to be developed jointly among services. ",0.6885431516492879,7,11
+87," 
+ JCIDS is governed by the  Chairman of the Joint Chiefs of Staff Instruction   (CJCSI) 3170.01H  
+ and utilizes the procedures described in the  Manual for the Operation of the Joint Capabilities 
+ Integration and Development System . ",0.8889273193734256,7,2
+88,"  According to DOD policy, the first step in the process is to 
+ conduct a Capabilities Based Assessment (CBA), which analyzes the military’s capability needs 
+ and gaps, and recommends both materiel 9  and non-materiel ways to address the gaps. ",1.352689469352958,7,2
+89,"10  If, as a 
+ result of a CBA or a comparable study a materiel solution (such as a weapon system) is 
+ considered, an Initial Capabilities Document (ICD) is prepared. ",1.0517358017901512,7,7
+90,"11  The ICD justifies the need for a 
+ materiel solution to satisfy the identified capability gap. ",0.8103111239692347,7,7
+91," 
+ The Joint Requirements Oversight Council (JROC), the organization responsible for identifying 
+ and prioritizing warfighter requirements, must approve the ICD. ",0.9452575045741717,7,2
+92,"12  To approve the ICD, the JROC 
+ reviews and validates  
+ •  
+ the capabilities required to perform the defined mission, 
+ •  
+ the gap in capabilities required to perform the mission, and  
+ •  
+ how the identified capability gap will be addressed (in whole or in part). ",1.2224687150500597,7,2
+93,"
+ The JROC may approve an ICD and recommend a non-materiel solution to meeting the military 
+ need, such as a change to strategy or tactics. ",1.0014963980098326,7,2
+94,"If the JROC approves a materiel solution, the 
+ program enters the Defense Acquisition System (“little ‘a’”). ",0.5793518313268459,7,5
+95,"The documentation developed 
+ during the JCIDS process serves as the basis for decisions throughout the acquisition process. ",0.8030996785406012,7,5
+96," 
+ Despite its important role, the JROC does not have binding authority; it serves in an advisory role 
+ to the Chairman of the Joint Chiefs of Staff. ",0.8118297059102314,7,4
+97,"The Chairman is responsible for advising the 
+                                                                  
+ 8  Chairman of the Joint Chiefs of Staff Instruction 3170.01H,  Joint Capabilities Integration and Development System . ",1.01098146967513,7,2
+98,"
+ 9  A materiel item is any item “(including ships, tanks, self-propelled weapons, aircraft, etc., and related spares, repair 
+ parts, and support equipment, but excluding real property, installations, and utilities) necessary to equip, operate, 
+ maintain, and support military activities without distinction as to its application for administrative or combat purposes.” ",0.9769082054446235,7,10
+99,"
+ See DOD Dictionary of Military Terms,www.dtic.mil/doctrine/dod_dictionary/index.html. ",0.4603680833957445,7,1
+100,"
+ 10  CJCSI 3170.01H. 
+ 11  Urgent or emergency operational needs may result in an Urgent Operational Need or Emergent Operational Need 
+ document instead of an ICD. ",0.7527891933940555,7,0
+101,"
+ 12  Capability requirement documents such as the ICD can be delegated to components in certain circumstances. ",0.7581572111497402,7,3
+102,"The 
+ JROC is a statutorily established council, defined in 10 U.S.C. §181. ",0.8120109400796146,7,9
+103,"The roles and responsibilities of the JROC are 
+ delineated in CJCSI 5123.01F. ",0.34719247912265755,7,1
+104,The Vice Chairman of the Joint Chiefs of Staff serves as the JROC Chairman. ,0.6336113832454352,7,1
+105,"Each 
+ military service has a representative on the JROC. ",0.3319937586784363,7,4
+106,"Combatant Commands can serve as voting members and are 
+ encouraged to participate when issues related to the jurisdiction of the particular combatant command are before the 
+ council. ",0.8239788020193379,7,4
+107,"See CJCSI 5123.01F, p. A-4. ",0.19795815035512954,7,1
+108,"
+ Defense Acquisitions: How DOD Acquires Weapon Systems 
+  
+ Congressional Research Service 
+ 5 
+ Secretary of Defense on “the priorities of the requirements identified by the commanders of the 
+ unified and specified combatant commands” and on the “extent to which the program 
+ recommendations and budget proposals of the military departments and other components of the 
+ Department of Defense” conform to the priorities established in strategic plans. ",1.083153412444124,7,4
+109,"13  Ultimately, the 
+ Secretary of Defense, as head of DOD, has authority, direction, and control over requirements and 
+ acquisitions (subject to the President and Congress). ",0.7814635392942892,8,4
+110,"14  
+ The Budgeting Process: Planning, Programming, Budgeting and 
+ Execution System (PPBE) 
+ ",0.9574770520376804,8,6
+111,"The Planning, Programming, Budgeting, and Execution system develops DOD’s proposed budget 
+ for all acquisitions, including MDAPs. ",1.1921348637959033,8,5
+112,"15  The PPBE is intended to provide DOD with the best mix 
+ of forces, equipment, manpower, and support within fiscal constraints. ",0.8060476809610799,8,11
+113,"16   
+ The PPBE is an annual process consisting of four stages: planning, programming, budgeting, and ",0.8566387900016139,8,6
+114,"
+ execution. ",0.5183011118716504,8,6
+115," 
+ •  
+ Planning:  During this stage, a national defense strategy is defined and a plan is 
+ developed for executing the strategy. ",1.2436717092749034,8,5
+116,"The plan sets forth priorities for developing 
+ programs (including military force modernization, readiness, and business 
+ processes and infrastructure support) and is published in the Joint Programming 
+ Guidance. 17  This document helps guide the DOD components’ efforts to propose 
+ or modify acquisition programs. ",1.2539583194075061,8,5
+117,"18   
+ •  
+ Programming:  During this stage, proposed programs are fleshed out and a 
+ Program Objective Memorandum (a document that outlines the anticipated 
+ missions and objectives of the proposed weapon system and anticipated budget 
+ requirements) is submitted. ",0.9368384410746328,8,5
+118,"These memoranda are reviewed and, as deemed 
+ appropriate, integrated into an overall defense program. ",0.7842975818457445,8,5
+119," 
+ •  
+ Budgeting:  Budgeting occurs concurrently with the programming stage. ",0.5935494494146973,8,6
+120,"
+ Proposed budgets are reviewed in a different manner than proposed programs. ",0.848083832687658,8,0
+121,"
+ Upon completion of a program decision or as a result of a budget review, 
+ Program Budget Decisions are issued. ",1.1012870251482985,8,5
+122," 
+ •  
+ Execution:  During execution, programs are evaluated and measured against 
+ preestablished performance metrics, including rates of funding obligations and 
+ expenditures. ",1.2253183075173724,8,0
+123,"
+                                                                  
+ 13  10 U.S.C. §153(a)(4). ",0.0,8,-1
+124,"
+ 14  10 U.S.C. §113. ",0.0,8,-1
+125,"
+ 15  DAU offers an online course on PPBE at https://learn.dau.mil/html/clc/Clc.jsp. ",0.46659877923824106,8,1
+126,"
+ 16  Department of Defense Directive 7045.14,  The Planning, Programming, Budgeting, and Execution (PPBE) Process , 
+ January 25, 2013, p. 2. ",1.0236540614857284,8,6
+127,"
+ 17  See https://dap.dau.mil/aphome/ppbe/Pages/Programming.aspx. ",0.4404211210084464,8,1
+128,"
+ 18  DOD components include the Office of the Secretary of Defense; the Military Departments; the Chairman, Joint 
+ Chiefs of Staff and Joint Staff; the Unified Combatant Commands; the Defense Agencies; and DOD field activities. ",0.8548409401875696,8,4
+129,"
+ Defense Acquisitions: How DOD Acquires Weapon Systems 
+  
+ Congressional Research Service 
+ 6 
+ The Defense Acquisition System 
+ ",0.37496074723942774,8,4
+130,"The Defense Acquisition System is the management process by which DOD develops and buys 
+ weapons and other systems. ",0.7560649604167297,9,11
+131,"19  It is governed by Directive 5000.01,  The Defense Acquisition 
+ System , 20  and Instruction 5000.02,  Operation of the Defense Acquisition System , 21  and utilizes the 
+ procedures described in the Defense Acquisition Guidebook. ",0.733958501226778,9,4
+132,"22  
+ The Defense Acquisition System is not intended to be a rigid, one-size-fits-all process. ",0.4458546753226869,9,0
+133,"Acquiring 
+ information technology systems is different than acquiring missiles, which is different than 
+ acquiring a nuclear attack submarine. ",0.5035536495163692,9,10
+134,"As Instruction 5000.02 states: 
+ the structure of a DOD acquisition program and the procedures used should be tailored as 
+ much as possible to the characteristics of the product being acquired, and to the totality of 
+ circumstances associated with the program including operational urgency and risk factors. ",0.9728545983701362,9,5
+135,"
+ Despite these differences, and the variations of the process contained in the 5000.02 instruction, 
+ the general framework of the acquisition system remains the same. ",0.5951680716633331,9,0
+136,"This section of the report 
+ outlines that framework (based on the hardware-intensive model), pointing out selected instances 
+ where deviations may occur. ",0.6410075243907727,9,0
+137," 
+ Generally, the defense acquisition system uses “milestones” to oversee and manage acquisition 
+ programs (see  Figure 2 ). ",0.7579462074824083,9,5
+138,"The milestones serve as gates that must be passed through before the 
+ program can proceed to the next phase of the acquisition process. ",0.6003253097002684,9,5
+139,"To pass a milestone, a program 
+ must meet specific statutory and regulatory requirements and be deemed ready to proceed to the 
+ next phase of the acquisition process. ",0.7189877761473733,9,7
+140,"There are three milestones: 
+ •  
+ Milestone A—initiates technology maturation and risk reduction. ",0.6257903029206385,9,7
+141,"
+ •  
+ Milestone B—initiates engineering and manufacturing development. ",0.5093150704601962,9,7
+142,"
+ •  
+ Milestone C—initiates production and deployment. ",0.46300176425960016,9,7
+143,"
+                                                                  
+ 19  The policies and regulations governing the defense acquisition process are set forth in Department of Defense 
+ Directive 5000.01,  The Defense Acquisition System  (a 10-page document that describes the overarching principles of 
+ the acquisition system), and the more detailed Department of Defense Instruction (DODI) 5000.02,  Operation of the 
+ Defense Acquisition System  (a 150-page document that describes the process and requirements associated with 
+ acquisitions). ",1.0381107291860643,9,5
+144,"The Defense Acquisition Guidebook serves as a reference for acquisition professionals and contains best 
+ practices, detailed guidance, and additional background information. ",0.6858397369009626,9,5
+145,"Whereas Directive 5000.01 (issued May 12, 2003, 
+ and certified as current November 20, 2007) and Instruction 5000.02 (issued as a new interim instruction November 26, 
+ 2013) are static documents, the Defense Acquisition Guidebook is constantly updated to reflect best practices and 
+ updated guidance. ",0.9404534691127586,9,5
+146,"As of September 16, 2013, the guidebook was more than 1,200 pages. ",0.36102257302208846,9,1
+147,"
+ 20  Department of Defense,  The Defense Acquisition System,  DOD Directive 5000.01, Certified Current, November 20, 
+ 2007. ",0.6064391238179043,9,4
+148,"
+ 21  Office of the Under Secretary of Defense (AT&L),  Operation of the Defense Acquisition System , DOD Instruction 
+ 5000.02, November 26, 2013. ",0.5211318481621926,9,4
+149,"
+ 22  The Guidebook can be viewed at https://acc.dau.mil/CommunityBrowser.aspx?id=654219. ",0.39445639479792083,9,1
+150,"
+ Defense Acquisitions: How DOD Acquires Weapon Systems 
+  
+ Congressional Research Service 
+ 7 
+ Figure 2. ",0.38733364268683546,9,4
+151,"Defense Acquisition Milestones 
+  
+ Source:  CRS graphic based on DODI 5000.02, p.12. ",0.5399014051493558,10,0
+152,"
+ Each acquisition program, such as the F-35, Littoral Combat Ship, or Joint Light Tactical Vehicle, 
+ is managed by an acquisition program office. ",0.552309739631377,10,11
+153,"The program office is headed by a Program 
+ Manager. ",0.5695091265300126,10,4
+154,Program managers can be military officers or federal civil servants. ,0.6138723781734396,10,4
+155,"They are supported 
+ by a staff that can include engineers, logisticians, contracting officers and specialists, budget and 
+ financial managers, and test and evaluation personnel. ",1.1313472500995854,10,10
+156,"Program managers usually report to a 
+ Program Executive Officer. 23  Program executive officers can have many program managers who 
+ report to them. ",0.6625601360995511,10,4
+157,"Like program managers, program executive officers can be military officers or 
+ federal civil servants. ",0.6295733986934687,10,4
+158,"They, in turn, report to a Component Acquisition Executive. ",0.4141667377008273,10,9
+159,"24  Most 
+ component acquisition executives report to the Under Secretary of Defense for Acquisition, 
+ Technology, and Logistics, who also serves as the Defense Acquisition Executive. ",0.6285550074719523,10,4
+160,"25   
+ The official responsible for deciding whether a program meets the milestone criteria and proceeds 
+ to the next phase of the acquisition process is referred to as the Milestone Decision Authority 
+ (MDA). ",0.7180472232533498,10,9
+161,"Depending on the program, the MDA can be the Under Secretary of Defense 
+ (Acquisition, Technology, & Logistics), the head of the relevant DOD component, or the 
+ component acquisition executive. ",0.6678189770666878,10,9
+162," 
+ Entering the Defense Acquisition System—Materiel Development Decision 
+ For a program to enter the Defense Acquisition System, it must pass a Materiel Development 
+ Decision review, which determines whether a new weapon system is required to fill the identified 
+                                                                  
+ 23  Some program managers are labeled “Direct Reporting Program Managers” and report directly to the component 
+ acquisition executive or milestone decision authority. ",1.0100285755620713,10,5
+163,"
+ 24  The component acquisition executive for one of the military services (e.g., the Army or the Air Force) is known as 
+ the Service Acquisition Executive. ",0.45401855885212133,10,10
+164," 
+ 25  DODD 5000.1 states that the Defense Acquisition Executive takes precedence on all acquisition matters after the 
+ Secretary and the Deputy Secretary of Defense. ",0.6793969144651197,10,4
+165,"Examples of some other reporting chains include the Defense 
+ Information Systems Agency (DISA) acquisition executive, who reports to the director of DISA, and the Special 
+ Operations Command (SOCOM) acquisition executive, who reports to the SOCOM commander. ",0.7465355721722498,10,4
+166,"
+ Defense Acquisitions: How DOD Acquires Weapon Systems 
+  
+ Congressional Research Service 
+ 8 
+ gap (or whether a non-materiel solution, such as a change in training or strategy, is sufficient). ",0.8557499704633504,10,11
+167,"
+ The Material Development Decision is based on the requirements validated by the JROC and set 
+ forth in the Initial Capabilities Document (or equivalent document). ",0.9175927789998825,11,7
+168," 
+ To pass the Material Development Decision, the MDA must 
+ •  
+ determine that a material solution is necessary,  
+ •  
+ approve the plan for developing an Analysis of Alternatives (described in the next 
+ section), 
+ •  
+ designate the DOD component that will lead the program, and  
+ •  
+ identify at which phase of the acquisition system the program should begin. ",1.223292828950531,11,7
+169,"26  
+ MDA decisions made at the Material Development Decision review are documented in an 
+ Acquisition Decision Memorandum. ",0.8163213176080387,11,5
+170,"
+ Material Solution Analysis Phase—Determining the Right Solution  
+ The Materiel Solution Analysis Phase is where competing systems are analyzed to determine 
+ which one is best suited to meet the validated requirements. ",0.9927120656702408,11,7
+171,"This phase occurs prior to any of the 
+ milestones (see  Figure 3 ). ",0.5344309922172963,11,7
+172," 
+ Figure 3. ",0.24724451928140057,11,0
+173,"Materiel Solution Analysis and the Pre-Milestone Phase 
+  
+ During this phase, the Analysis of Alternatives is conducted. ",0.9129741919972334,11,7
+174,"The Analysis of Alternatives 
+ explores the competing methods of meeting the identified requirement. ",0.8759113982912972,11,0
+175,"This analysis should 
+ include the comparative effectiveness, cost, schedule, concepts of operations, overall risks, and 
+                                                                  
+ 26  A program can enter the acquisition system at any point in the process as long as the program meets the requirements 
+ for that phase of the system. ",1.1881860716020163,11,7
+176,"For example, a program can begin at Milestone B (or C) if a Material Development 
+ Decision is made, the program meets the criteria for entering into Milestone B (or C) as set forth by statute and DOD 
+ policy, and the MDA authorizes the program to enter at Milestone B (or C). ",0.8324972550380496,11,5
+177,"
+ Defense Acquisitions: How DOD Acquires Weapon Systems 
+  
+ Congressional Research Service 
+ 9 
+ critical technologies associated with each proposed alternative, including the sensitivity of each 
+ alternative to possible changes in key assumptions or variables. ",0.9630054347903354,11,0
+178,"The Analysis of Alternatives also 
+ addresses total life-cycle costs. ",1.0508538747933593,12,0
+179,"During this phase, a program manager is selected and a program 
+ office is established. ",0.8511882332680412,12,5
+180,"
+ The materiel solution phase ends when the Analysis of Alternatives is completed, a specific 
+ solution is chosen to continue through the acquisition process, and the program meets the criteria 
+ for the milestone where the program will enter the acquisition system. ",0.9543850351013038,12,7
+181,"
+ Milestone A and the Technology Maturation and Risk Reduction Phase 
+ A program must pass through Milestone A to proceed to the Technology Maturation and Risk 
+ Reduction phase (see  Figure 4 ). ",0.6704441670387373,12,7
+182,"
+ Figure 4. ",0.24724451928140057,12,0
+183,"Milestone A: The Technology Maturation and Risk Reduction Phase 
+  
+ To pass Milestone A,  
+ •  
+ the Milestone Decision Authority must approve the proposed materiel solution 
+ (based on the Analysis of Alternatives) and the Acquisition Strategy,  
+ •  
+ the lead component must submit a cost estimate for the proposed solution 
+ (including life-cycle costs), 27   
+ •  
+ the program must have full funding for the length of the Future Years Defense 
+ Program, 28  and  
+                                                                  
+ 27  Life-cycle costs are the total estimated cost of a program over its full life, including costs for research and 
+ development, testing, production, facilities, operations, maintenance, personnel, environmental compliance, and ",1.475666600541106,12,7
+184,"
+ disposal. ",0.31832542175436807,12,10
+185," 
+ 28  The Future Years Defense Program documents the links between DOD resources and programs. ",0.7509316494350938,12,5
+186,"The report 
+ summarizes resources (such as manpower, equipment, and forces) by fiscal year, with associated programs. ",0.8221197499776874,12,11
+187,"This 
+ document reflects the decisions embodied in the various Planning, Programming, Budgeting, and Execution (PPBE) 
+ (continued...) ",0.9967015804620004,12,6
+188,"
+ Defense Acquisitions: How DOD Acquires Weapon Systems 
+  
+ Congressional Research Service 
+ 10 
+ •  
+ if technology maturation is to be contracted out, the program must have a 
+ Request for Proposal (RFP) that is approved by the MDA and ready for release. ",0.7634648386916404,12,9
+189," 
+ MDA decisions made at this milestone are documented in an Acquisition Decision Memorandum. ",0.6250698573765142,13,5
+190,"
+ The Technology Maturation and Risk Reduction phase is when nascent technologies and the 
+ system design are matured to the point that a decision can be made with reasonable confidence 
+ that a system can be developed to meet military requirements and fit within affordability caps. ",0.884476339764196,13,7
+191,"To 
+ meet these twin objectives, requirements are refined and cost caps are finalized. ",0.8793925850903713,13,0
+192," 
+ During this phase, a Capability Development Document 29  and Reliability, Availability, and 
+ Maintainability strategy 30  must be developed and approved. ",0.9085156691476822,13,7
+193,"These documents will inform the 
+ Preliminary Design Review, which is held during this phase to ensure that the preliminary design 
+ and basic system architecture are complete, and that there is technical confidence the capability 
+ need can be satisfied within cost and schedule goals. ",1.1805345010294037,13,7
+194,"31  This phase is also where competitive 
+ prototyping occurs, which is when industry teams develop competing prototypes of a required 
+ system. ",0.7551635610310389,13,7
+195,"
+ The Development RFP Release Decision Point is held during this phase. ",0.5920566944873307,13,7
+196,"This is one of the critical 
+ decision points in the acquisition process because this is when the acquisition strategy is initiated 
+ and industry is asked to bid for the development contract. ",0.762348870610731,13,5
+197,"As the DODI 5000.02 emphasizes,  
+ [P]rior to the release of the final RFP(s), there needs to be confidence that the program 
+ requirements to be bid against are firm and clearly stated; the risk of committing to 
+ development and presumably production has been or will be adequately reduced prior to 
+ contract award and/or option exercise; the program structure, content, schedule, and funding 
+ are executable; and the business approach and incentives are structured to both provide 
+ maximum value to the government and treat industry fairly and reasonably. ",1.2324919031190493,13,0
+198,"32  
+ Milestone B and the Engineering and Manufacturing Development Phase 
+ Most programs begin at Milestone B, the point at which a program becomes a program of record. ",0.6852382877670836,13,7
+199,"
+ A program must pass through Milestone B to proceed to the Engineering and Manufacturing 
+ Development Phase (see  Figure 5 ). ",0.6309190983957337,13,7
+200," 
+                                                                  
+ (...continued) 
+ documents, such as the Strategic Planning Guidance. ",0.995050665143225,13,5
+201,"The Future Years Defense Program is updated with every 
+ program and budget submission to OSD and with the President’s budget submission each year. ",0.9146374242708866,13,4
+202,"
+ 29  A Capability Development Document details the operational performance parameters for the anticipated system. ",0.9326409801754004,13,7
+203,"
+ 30  Reliability, Availability, and Maintainability (RAM) refers to the reliability, availability, and maintainability of a 
+ system. ",0.4564841698009132,13,10
+204,"Reliability is the probability of a system performing a specific function under stated conditions for a specified 
+ time. ",0.8290643043924711,13,10
+205,Availability is the measure of time a system is operable and able to be committed to a mission. ,0.6899211899767915,13,10
+206,"Maintainability is 
+ the extent to which a system can be kept in or restored to a specific operating condition. ",0.4946325636324459,13,10
+207,"See Department of Defense, 
+ DOD Guide for Achieving Reliability, Availability, and Maintainability,  August 3, 2005, p. 1-1, at 
+ http://www.acq.osd.mil/sse/docs/RAM_Guide_080305.pdf. ",0.6827345116500066,13,1
+208,"
+ 31  See  Defense Acquisition Guidebook  (https://acc.dau.mil/docs/dag_pdf/dag_complete.pdf), p. 261. ",0.5855511981902863,13,1
+209,"Preliminary 
+ Design Review is held prior to Milestone B unless waived by the MDA. ",0.691504885603445,13,7
+210,"See DODI 5000.02, p. 19. ",0.4159833385124835,13,1
+211,"
+ 32  Ibid., p. 22. ",0.199461447889321,13,1
+212,"
+ Defense Acquisitions: How DOD Acquires Weapon Systems 
+  
+ Congressional Research Service 
+ 11 
+ Figure 5. ",0.38733364268683546,13,4
+213,"Milestone B: The Engineering and Manufacturing Development Phase 
+  
+ To pass Milestone B,  
+ •  
+ a program must have passed the Development RFP Release Decision Point;  
+ •  
+ requirements must be validated and approved; 33  
+ •  
+ the program must have full funding for the length of the Future Years Defense 
+ Program; 
+ •  
+ an independent cost estimate must be submitted to the MDA;  
+ •  
+ all sources of risk (including cost, technology development, 34  integration, and 
+ sustainment) must be sufficiently mitigated to justify fully committing to the 
+ development of the program; and  
+ •  
+ the Milestone Decision Authority must approve an updated Acquisition Strategy. ",1.2745740502276226,14,7
+214," 
+ Upon passing Milestone B, the MDA approves the Acquisition Program Baseline (APB), which 
+ details the performance, schedule, and cost goals of the program. ",1.1433269282844607,14,5
+215,"35  The APB is signed by the 
+ MDA and the program manager, and serves as the basis against which execution of the program 
+ will be measured. ",0.8530712171428557,14,5
+216,"MDA decisions made at this milestone are documented in an Acquisition 
+ Decision Memorandum. ",0.6250698573765142,14,5
+217,"
+ The Engineering and Manufacturing Development Phase is where a system is designed and 
+ developed, all technologies and capabilities are fully integrated into a single system (full system 
+                                                                  
+ 33  Before Engineering and Manufacturing Development can occur, a program must have approved Key Performance 
+ Parameters (KPPs). ",1.0392415413519434,14,7
+218,These KPPs can be amended later. ,0.43242737182672614,14,1
+219,"
+ 34  Not all technologies intended for the system are required to be mature to proceed to Milestone B. ",0.683306052783475,14,7
+220,"Some technologies 
+ that are still immature may remain in technology development while others proceed to Milestone B as long as the 
+ technologies proceeding to Milestone B provide an affordable, militarily useful capability. ",0.9215011279853782,14,7
+221,"DOD’s approach to 
+ proceeding with detailed design and integration of mature technologies while continuing risk reduction of other less 
+ mature technologies that will be integrated later is called Evolutionary Acquisition. ",0.8228780665562263,14,7
+222,"
+ 35  The APB contains both objective (desired) and threshold (acceptable) values. ",0.6443512738334701,14,0
+223,"
+ Defense Acquisitions: How DOD Acquires Weapon Systems 
+  
+ Congressional Research Service 
+ 12 
+ integration), and preparations are made for manufacturing (including developing manufacturing 
+ processes, designing for mass production, and managing cost). ",0.9394515854091819,14,11
+224,"
+ During the detail design effort, the office of Developmental Test and Evaluation tests the maturity 
+ and adequacy of the design and provides the results of its analyses to the Program Manager. ",1.102899949413938,15,7
+225,"
+ During system integration, the various subsystems are integrated into one system and a 
+ development model or prototype is produced. ",0.5885820742991787,15,0
+226,"36  For example, on an aircraft carrier, system 
+ integration would be when the aircraft launching system, radar, nuclear reactor, and other 
+ subsystems are all integrated onto the ship. ",0.46083678788217186,15,10
+227,"Operational testing and evaluation also takes place 
+ during this phase, both at the subsystem and integrated-system level. ",0.853385172301523,15,7
+228,"Operational testing and 
+ evaluation is intended to determine whether a system is operationally effective, suitable, and 
+ survivable. ",0.7603349423740989,15,0
+229,"
+ Milestone C and the Production and Deployment Phase 
+ A program must pass through Milestone C to proceed to the Production and Deployment phase 
+ (see  Figure 6 ). ",0.6038600425015257,15,7
+230,"
+ Figure 6. ",0.24724451928140057,15,0
+231,"Milestone C: The Production and Deployment Phase  
+  
+ To pass Milestone C, 
+ •  
+ the production design must be stable,  
+ •  
+ the system must pass developmental testing and operational assessment, 
+ •  
+ software must meet the predetermined maturity, 
+                                                                  
+ 36  Programs that have very expensive units, such as satellites or ships, may not build test prototypes. ",0.9974148086016124,15,7
+232,"In such cases, 
+ Milestone B & C may occur simultaneously and the first unit will serve as the test unit and then be fielded. ",0.684473314455505,15,7
+233,"See DODI 
+ 5000.02, p. 26. ",0.4159833385124835,15,1
+234,"
+ Defense Acquisitions: How DOD Acquires Weapon Systems 
+  
+ Congressional Research Service 
+ 13 
+ •  
+ the system must demonstrate that it is interoperable with other relevant systems 
+ and can be supported operationally,  
+ •  
+ estimated costs must be within the cost caps,  
+ •  
+ the program must have full funding for the length of the Future Years Defense 
+ Program,  
+ •  
+ the Capability Production Document must be approved, 37  and  
+ •  
+ the Milestone Decision Authority must approve the updated Acquisition Strategy. ",1.1929361493511412,15,5
+235,"
+ MDA decisions made at this milestone are documented in an Acquisition Decision Memorandum. ",0.6250698573765142,16,5
+236,"
+ During the Production and Deployment phase, the MDA authorizes the beginning of low-rate 
+ initial production, which is intended to both prepare manufacturing and quality control processes 
+ for a higher rate of production and provide test models for operational test and evaluation. ",1.1894351810344104,16,7
+237,"A 
+ program can enter full-rate production when it has completed sufficient operational testing and 
+ evaluation, demonstrated adequate control over manufacturing processes, and received approval 
+ of the MDA to proceed with production. ",0.9539147337579437,16,7
+238," 
+ When enough systems are delivered and other predefined criteria are met, an Initial Operating 
+ Capability can be attained, allowing for some degree of operations. ",0.7114717368584506,16,7
+239,"Full Operational Capability is 
+ achieved when the system is ready to operate as required. ",0.8860666963002438,16,10
+240,"
+ Operations and Support Phase 
+ Operations and Support is the final phase of a weapon system’s life (see  Figure 7 ). ",0.6273542140533491,16,7
+241,"In this phase, 
+ the system is fully deployed, operated, supported, and ultimately retired. ",0.505770501177614,16,10
+242,"Up to 70% of the total 
+ life cycle costs of a system can occur in the operations and support phase. ",0.8667222638499511,16,7
+243,"38   
+                                                                  
+ 37  The Capability Production Document refines the performance attributes and Key Performance Parameters contained 
+ in the Capability Development Document. ",0.9270875872707891,16,7
+244,Cost and engineering estimates are also refined in this document. ,0.9779945175992854,16,0
+245,"
+ 38  Systems that consume fuel, require more frequent maintenance, and rely on a more extensive support infrastructure 
+ tend to have higher operations and support costs. ",0.9304513322673083,16,10
+246,"As such, operations and support represent a higher percentage of total 
+ cost for aircraft and ships, and a lower percentage of costs for satellites and missiles. ",0.9774125687761723,16,10
+247," 
+ Defense Acquisitions: How DOD Acquires Weapon Systems 
+  
+ Congressional Research Service 
+ 14 
+ Figure 7. ",0.38733364268683546,16,4
+248,"The Operations and Support Phase  
+  
+ Acquisition Categories  
+ Programs are divided into acquisition categories (ACATs) based primarily on program cost. ",0.8461194427086889,17,5
+249,"The 
+ level of management oversight of an acquisition program increases as the cost of the program 
+ increases. ",1.163263809095754,17,5
+250,"The most significant DOD and congressional oversight activities apply to MDAPs, 39  
+ which are categorized as ACAT I programs. ",0.7319919241560081,17,9
+251,"40   Table 1  illustrates the thresholds and decision 
+ authorities for all ACATs. ",0.4873624879149022,17,0
+252,"
+ Table 1. ",0.4413020785051189,17,0
+253,"Description of Acquisition Categories  
+ Category 
+ Reason for Acquisition Category (ACAT) ",0.4802379150243851,17,0
+254,"Designation 
+ Decision Authority 
+ ACAT ",0.41365254945706864,17,9
+255,"I 
+ Program is a Major Defense Acquisition Program  
+ •  
+ Value of the program (including all increments) is estimated by 
+ the Under Secretary of Defense (Acquisition, Technology, and 
+ Logistics) to require  
+ - Research, Development, Technology, and Engineering in excess of 
+ $480 million; or 
+ - is estimated to have procurement costs of more than $2.79 billion 
+ (in FY2014 constant dollars) 
+ or 
+ •  
+ Milestone Decision Authority designates program as an ACAT I  
+ ACAT ID: ",1.0772895657840635,17,9
+256,"Under 
+ Secretary of Defense 
+ (Acquisition, Technology, 
+ and Logistics) or as 
+ delegated 
+  
+ ACAT 1C: Head of 
+ DOD Component or, if 
+ delegated, the 
+ Component Acquisition 
+ Executive  
+                                                                  
+ 39  A number of statutory reporting and oversight requirements applicable only to MDAPs are codified at 10 U.S.C. 
+ §144. ",0.8957414388406015,17,9
+257,"
+ 40  Major Automated Information Systems (MAIS) have different dollar thresholds than MDAPs, as shown in  Table 1. ",0.5674861718286518,17,0
+258," 
+ Defense Acquisitions: How DOD Acquires Weapon Systems 
+  
+ Congressional Research Service 
+ 15 
+ Category 
+ Reason for Acquisition Category (ACAT) ",0.4417767090868218,17,4
+259,"Designation 
+ Decision Authority 
+ ACAT IA a,b  
+ Program is a Major Automated Information System (MAIS) ",0.5766852789265446,18,9
+260," 
+ •  
+ An Automated Information System b  that is estimated (in 
+ FY2014 constant dollars) to require more than  
+  - $40 million for all expenditures directly related to the system, 
+ incurred in any single year (including all increments); or 
+  - $165 million for all expenditures directly related to the system, 
+ incurred from the start of the Material Solution Analysis Phase 
+ through deployment at all sites (including all increments); or  
+  - $520 million for all expenditures directly related to the system, 
+ incurred from the start of the Material Solution Analysis Phase 
+ through sustainment for the estimated life of the system 
+ (including all increments) 
+ or 
+ •  
+ Milestone Decision Authority designates program as an 
+ ACAT IA 
+ ACAT IAM: Under 
+ Secretary of Defense 
+ (Acquisition, Technology, 
+ and Logistics) or as 
+ delegated 
+  
+ ACAT IAC: Head of the 
+ DOD Component or, if 
+ delegated, the 
+ Component Acquisition 
+ Executive 
+ ACAT II c  
+ Program does not meet criteria for ACAT I or IA and is a Major System 
+ • ",1.1936336674609231,18,9
+261," 
+ Value of the program estimated to require 
+ - Research, Development, Technology, and Engineering in excess of 
+ $185 million; or 
+ - is estimated to have procurement costs of more than $835 
+ million (in FY2014 constant dollars) ",1.033489168183671,18,0
+262,"
+ or 
+ •  
+ Milestone Decision Authority designates program as an 
+ ACAT II 
+ Component Acquisition 
+ Executive or as delegated 
+ ",0.5770281608826519,18,9
+263,"ACAT III 
+ Program does not meet criteria for ACAT I, IA, or II, or is an Automated 
+ Information System that is not a Major Automated Information System 
+ As Designated by the 
+ Component Acquisition 
+ Executive 
+ Source:  Department of Defense Instruction 5.000.02. ",0.6902334734780204,18,9
+264,"
+ a.  
+ When a MAIS program also meets the definition of a Major Defense Acquisition Program, the Defense 
+ Acquisition Executive will determine whether the program will be classified as an MDAP or a MAIS program 
+ and will be the Decision Authority unless delegated. ",0.7208326321134871,18,9
+265," 
+ b.  
+ An Automated Information System is a system of computer hardware, computer software, data, or 
+ telecommunications that performs functions such as collecting, processing, storing, transmitting, and 
+ displaying information. ",0.6953685524958699,18,10
+266,"Some computer resources are excluded, including hardware and software systems 
+ that are an integral part of a weapon system. ",0.9556934773004017,18,10
+267," 
+ c.  
+ Major Automated Information System programs cannot be categorized as an ACAT II. ",0.4489384544003823,18,9
+268," 
+ Acquisition Reform 
+ Concerns over defense acquisitions generally center around significant cost overruns, schedule 
+ delays, and an inability to provide troops in the field with the equipment they need when they 
+ need it. ",1.23734603664982,18,8
+269,"Many analysts believe that cost overruns and schedule delays have a debilitating effect on 
+ Defense Acquisitions: How DOD Acquires Weapon Systems 
+  
+ Congressional Research Service 
+ 16 
+ the nation’s military and threaten America’s technological advantage and military capabilities. ",1.0521896969815798,18,8
+270,"41  
+ For more than 50 years, both Congress and DOD have initiated numerous attempts to improve 
+ defense acquisitions. ",0.6873426268702748,19,8
+271,"Despite the numerous initiatives, studies and reports (many of which echo 
+ the same themes and highlight the same weaknesses in the acquisition process), congressional 
+ hearings, and legislative fixes, DOD acquisition reform efforts have failed to rein in cost and 
+ schedule growth. ",1.0118836500466668,19,8
+272,"
+ In recent years, DOD and Congress have taken another look at defense acquisitions and embarked 
+ on an effort to improve the process. ",0.8143381321104153,19,8
+273,"Some analysts believe that the efforts currently underway are 
+ the most comprehensive in more than 20 years. ",0.6216313566717667,19,8
+274," 
+ DOD Reform Efforts 
+ In recent years, DOD has embarked on a number of initiatives aimed at improving the process for 
+ buying weapon systems. ",0.8602965989755946,19,8
+275,"For example: 
+ •  
+ On January 10, 2012, DOD issued updated versions of the instructions  Charter of 
+ the Joint Requirements Oversight Council  and  Joint Capabilities Integration and 
+ Development System. ",1.043780838619236,19,5
+276," 
+ •  
+ On January 19, 2012, DOD issued an updated version of the  Manual for the 
+ Operation of the Joint Capabilities Integration and Development System . ",0.9616181704886548,19,2
+277,"42  
+ •  
+ On November 26, 2013, DOD issued an updated “interim” instruction  Operation 
+ of the Defense Acquisition System  (5000.02). ",0.8393223338177319,19,4
+278,"
+ DOD has also undertaken a comprehensive effort to improve the overall operation of the defense 
+ acquisition system. ",0.7632167120254015,19,11
+279,"On September 14, 2010, then-Under Secretary of Defense for Acquisition, 
+ Technology and Logistics Ashton Carter issued the memorandum  Better Buying Power: 
+ Guidance for Obtaining Greater Efficiency and Productivity in Defense Spending . ",0.8374297834382405,19,4
+280,"The 
+ memorandum outlined 23 principal actions to improve efficiency, including making affordability 
+ a requirement, increasing competition, and decreasing the time it takes to acquire a system. ",1.3601547808636936,19,11
+281,"In 
+ November 2012, Secretary Carter’s successor, Frank Kendall, launched the Better Buying Power 
+ 2.0 initiative, an update to the original Better Buying Power effort, aimed at “implementing 
+ practices and policies designed to improve the productivity of the Department of Defense and of 
+ the industrial base that provides the products and services” to the warfighters. ",0.9568156443787749,19,8
+282,"43  Better Buying 
+ Power 2.0 contained 34 separate initiatives, including reducing the frequency of senior-level 
+ reviews and improving requirements and market research. ",1.1510197631729087,19,11
+283,"44  According to officials, Better Buying 
+ Power 3.0 is in development. ",0.5683421824046199,19,8
+284," 
+                                                                  
+ 41  Other issues include the impact of the overall cost of defense acquisitions on the federal budget and the health of the 
+ defense industrial base. ",1.0974675289886446,19,8
+285," 
+ 42  The manual can be found at https://dap.dau.mil/policy/Documents/2012/
+ JCIDS%20Manual%2019%20Jan%202012.pdf. ",0.5044065324798636,19,1
+286,"A four-page errata sheet was issued on September 20, 2012 (see 
+ https://dap.dau.mil/policy/Documents/2012/JCIDS%20Manual%20Errata%20-%2020%20Sept%202012.pdf). ",0.6538660535622771,19,1
+287,"
+ 43  While much of the original effort remains intact, the new version does contain some changes. ",0.6826022415062465,19,10
+288,"For example, the 
+ original effort called for increased use of fixed-price contracts, whereas the newer version emphasizes the use of an 
+ appropriate contract type, depending on the circumstances. ",1.0503182787194894,19,10
+289,"Quote taken from document provided to CRS by DOD 
+ entitled  Better Buying Power (BBP) 2.0 Summary . ",0.6365287763435373,19,8
+290," 
+ 44  The full text of the  Better Buying Power 2.0  memorandum is available at http://bbp.dau.mil/doc/USD-
+ ATL%20Memo%2024Apr13%20-%20BBP%202.0%20Implementation%20Directive.pdf. ",0.7618767304623048,19,1
+291,"
+ Defense Acquisitions: How DOD Acquires Weapon Systems 
+  
+ Congressional Research Service 
+ 17 
+ These and other related DOD initiatives generally focus on  
+ •  
+ rewriting the rules and regulations to create a more efficient and effective 
+ acquisition process,  
+ •  
+ improving the culture and professionalism of the acquisition workforce, and  
+ •  
+ improving the overall performance of the acquisition system. ",1.0337095699528334,19,8
+292,"
+ Although these efforts are not aimed solely at weapon system acquisition, if such efforts succeed 
+ in improving acquisitions  writ large , weapon system acquisitions should similarly improve. ",0.8281691377294134,20,8
+293,"
+ Congressional Reform Efforts 
+ In recent years, the primary mechanism through which Congress has exercised its legislative 
+ powers to reform the defense acquisition structure has been the annual National Defense 
+ Authorization Act (NDAA). ",0.8696917065952071,20,4
+294,"Sections of the acts have prescribed requirements applicable to both 
+ specific acquisition programs and acquisition structure overall, the latter of which has typically 
+ been addressed in Section VIII, usually titled “Acquisition Policy, Acquisition Management, and 
+ Related Matters.” ",0.9421412010250079,20,3
+295,"Generally, the requirements prescribed in this section have focused on specific 
+ issues rather than a comprehensive overhaul of the entire defense acquisition structure. ",0.8803270311108669,20,5
+296,"In the 
+ National Defense Authorization Acts for FY2008-2012, the titles dealing with acquisitions 
+ included more than 240 sections. ",0.716492319953732,20,4
+297,"45  
+ The most recent legislation that had a significant impact on weapon system acquisitions was 
+ enacted in May 2009, when Congress passed and the President signed into law the Weapon 
+ Systems Acquisition Reform Act of 2009 (S. 454/P.L. 111-23). ",0.9154797436804879,20,4
+298,"Key provisions in the act included 
+ •  
+ the appointment of a Director of Cost Assessment and Program Evaluation within 
+ DOD who communicates directly with the Secretary of Defense and Deputy 
+ Secretary of Defense and who issues policies and establishes guidance on cost 
+ estimating and developing confidence levels for such cost estimates;  
+ •  
+ the appointment of a Director of Developmental Test and Evaluation who serves 
+ as principal advisor to the Secretary of Defense on developmental test and 
+ evaluation and develops polices and guidance for conducting developmental 
+ testing and evaluation in DOD, as well as reviewing, approving, and monitoring 
+ such testing for each Major Defense Acquisition Program;  
+ •  
+ the appointment of a Director of Systems Engineering who serves as principal 
+ advisor to the Secretary of Defense on systems engineering and who will develop 
+ policies and guidance for the use of systems engineering, as well as review, 
+ approve, and monitor such testing for each MDAP;  
+ •  
+ a requirement that the Director of Defense Research and Engineering periodically 
+ assess technological maturity of MDAPs and annually report findings to 
+ Congress, requiring the use of prototyping, when practical;  
+ •  
+ a requirement that combatant commanders have more influence in the 
+ requirements-generation process;  
+                                                                  
+ 45  Based on a CRS review of the National Defense Authorization Acts for FY2008-FY2012. ",1.7346134276146672,20,5
+299," 
+ Defense Acquisitions: How DOD Acquires Weapon Systems 
+  
+ Congressional Research Service 
+ 18 
+ •  
+ changes to the Nunn-McCurdy Act, including rescinding the most recent 
+ milestone approval for any program experiencing critical cost growth;  
+ •  
+ a requirement that DOD revise guidelines and tighten regulations governing 
+ conflicts of interest by contractors working on MDAPs; and  
+ •  
+ a requirement that a principal official in the Office of the Secretary of Defense be 
+ responsible for conducting performance assessments and analyses of major 
+ defense acquisition programs that experience certain levels of cost growth. ",1.3664325944130915,20,5
+300,"
+  
+ Author Contact Information 
+  
+ Moshe Schwartz 
+ Specialist in Defense Acquisition 
+ mschwartz@crs.loc.gov, 7-1463 
+   
+  
+  
+",0.4341907068076183,21,1

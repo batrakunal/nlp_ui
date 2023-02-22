@@ -1,0 +1,2218 @@
+Seq.,sentence,similarity_to_bench,page,cluster
+0," A Brief History
+ of the U.S. Army
+ in World War II
+ CENTER OF MILITARY HISTORY
+ UNITED STATES ARMY
+ WASHINGTON, D.C., 1992
+ Introduction
+ World War II was the largest and most violent armed conﬂict in
+ the history of mankind. ",0.5156540224146153,1,4
+1,"However, the half century that now separates
+ us from that conﬂict has exacted its toll on our collective knowledge.",0.3590911099076266,2,11
+2,"
+ While World War II continues to absorb the interest of military schol-
+ ars and historians, as well as its veterans, a generation of Americans
+ has grown to maturity largely unaware of the political, social, and mil-
+ itary implications of a war that, more than any other, united us as a
+ people with a common purpose. ",0.6188811754949987,2,5
+3,"
+ Highly relevant today, World War II has much to teach us, not only
+ about the profession of arms, but also about military preparedness,
+ global strategy, and combined operations in the coalition war against
+ fascism. ",0.6267954922480534,2,4
+4,"During the next several years, the U.S. Army will participate
+ in the nation’s 50th anniversary commemoration of World War II. ",0.4596479006522853,2,4
+5,"The
+ commemoration will include the publication of various materials to
+ help educate Americans about that war. ",0.7977832956571735,2,11
+6,"The works produced will pro-
+ vide great opportunities to learn about and renew pride in an Army
+ that fought so magnificently in what has been called “the mighty
+ endeavor.” ",0.4746970273556751,2,11
+7,"
+ A Brief History of the U.S. Army in World War II  highlights the
+ major ground force campaigns during the six years of the war, offers
+ suggestions for further reading, and provides Americans an opportuni-
+ ty to learn about the Army’s role in World War II. ",0.6113432844291117,2,4
+8,"This brochure was
+ prepared at the U.S. Army Center of Military History by Wayne M.
+ Dzwonchyk (Europe) and John Ray Skates (Pacific). ",0.6038118498751359,2,4
+9,"I hope this
+ absorbing account of that period will enhance your appreciation of
+ American achievements during World War II. ",0.5232679234483592,2,0
+10,"
+ M. P. W. Stone 
+ Secretary of the Army 
+ Contents
+ The War in Europe   . . . . . . . . . . . . . . . . . . . . . . . . . . . .",0.3764866652739936,2,4
+11,"
+ 3
+ The Outbreak of War  . . . . . . . . . . . . . . . . . . . . . . . . . . .",0.2624981390728135,3,9
+12,"
+ 4
+ The United States Enters the War . . . . . . . . . . . . . . . . . .",0.34722556488279693,3,5
+13,"
+ 8
+ The North African Campaign . . . . . . . . . . . . . . . . . . . . .",0.4001464406379574,3,3
+14,"
+ 10
+ Sicily and Italy  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .",0.25487577212386464,3,3
+15,"
+ 15
+ The Cross-Channel Attack  . . . . . . . . . . . . . . . . . . . . . . .",0.24673475872510772,3,0
+16,"
+ 17
+ Battles of Attrition  . . . . . . . . . . . . . . . . . . . . . . . . . . . . .",0.22565782677434795,3,0
+17,"
+ 21
+ The Battle of the Bulge . . . . . . . . . . . . . . . . . . . . . . . . . .",0.20374583344764596,3,4
+18,"
+ 22
+ The Final Offensive  . . . . . . . . . . . . . . . . . . . . . . . . . . . .",0.3403239660344836,3,0
+19,"
+ 23
+ The Paciﬁc War   . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .",0.22070038534778932,3,9
+20,"
+ 29
+ Japan on the Offensive  . . . . . . . . . . . . . . . . . . . . . . . . . .",0.25162732529266824,3,8
+21,"
+ 31
+ The Tide Turns  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .",0.1911946162340536,3,11
+22,"
+ 34
+ Twin Drives to American Victory . . . . . . . . . . . . . . . . . .",0.3032965370612015,3,5
+23,"
+ 39
+ Aftermath  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .",0.16299802746524658,3,0
+24,"
+ 43
+ Maps
+ Allied Operations in World War II, 1942–1945  . . . . . . . . . .",0.35173245973307304,3,4
+25,"
+ 12
+ The Paciﬁc and Adjacent Theaters, 1942–1945  . . . . . . . . . .",0.24940923368166845,3,0
+26,"
+ ",0.0,3,-1
+27,"36
+ Further Readings   . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .",0.13788205718029262,3,11
+28,"
+ 45
+ “OMAHA Beach” by Gary Sheahan. ",0.2235674012831918,3,11
+29,"This was the one sector of the
+ Normandy coast where the German defenses had begun to reach the
+ expectations of Field Marshal Rommel, and here the Allied invasion of
+ France faced its greatest crisis. ",0.4564772325339807,4,10
+30,"(Army Art Collection) 
+ ",0.2964570353632376,4,11
+31,"The War in Europe 
+ The War in Europe 
+ World War I left unresolved the question of who would dominate
+ Europe. ",0.3987123692743558,5,4
+32,"The tremendous dislocations caused by the war laid the
+ groundwork for the collapse of democratic institutions there and set
+ the stage for a second German attempt at conquest. ",0.5923666562801373,6,12
+33,"A worldwide de-
+ pression that began in 1929 destroyed the fragile democratic regime 
+ in Germany. ",0.34777973435485937,6,5
+34,"In 1933 Adolf Hitler led to power the National Social-
+ ist German Workers’ (Nazi) Party, a mass movement that was viru-
+ lently nationalistic, antidemocratic, and anti-Semitic. ",0.4484782750062555,6,3
+35,"He ended par-
+ liamentary government, assumed dictatorial powers, and proclaimed
+ the Third Reich. ",0.34292163003772175,6,11
+36,"The Nazi government increased the strength of the
+ German armed forces and sought to overturn the Versailles Treaty, 
+ to recover German territory lost at the peace settlement, and to re-
+ turn to the so-called Fatherland German-speaking minorities within
+ the borders of surrounding countries. ",0.5735202750831153,6,5
+37,"
+ The ultimate goal of Hitler’s policy was to secure “living space” for
+ the German “master race” in eastern Europe. ",0.4856605155666581,6,3
+38,"A gambler by instinct,
+ Hitler relied on diplomatic bluff and military innovation to overcome
+ Germany’s weaknesses. ",0.4186871481518069,6,5
+39,"He played skillfully on the divisions among
+ the European powers to gain many of his aims without war. ",0.34329378373887093,6,5
+40,"With the
+ Italian Fascist dictator Benito Mussolini he announced a Rome-
+ Berlin alliance (the Axis) in 1935. ",0.3447722797402633,6,3
+41,"Meanwhile, in the Far East, the
+ Japanese—the only Asian industrial power—coveted the natural re-
+ sources of China and Southeast Asia, but found their expansion
+ blocked by European colonial powers or by the United States. ",0.5239269236473301,6,5
+42,"Hav-
+ ing seized Manchuria in 1931, they began a war against China in 1937.",0.390523605222725,6,9
+43,"
+ The League of Nations failed to counter effectively Japanese aggres-
+ sion in Manchuria and an Italian invasion of Ethiopia. ",0.4239640036795387,6,8
+44,"Soon Ger-
+ many, Italy, and Japan became allies, facing Western democratic gov-
+ ernments that wanted to avoid another war and the Soviet Union
+ whose Communist government was widely distrusted. ",0.6093663429925807,6,9
+45,"
+ The people of the United States, having rejected the Versailles
+ Treaty and the Covenant of the League of Nations after World War 
+ I, remained largely indifferent to most international concerns. ",0.516875865615798,6,5
+46,"They
+ firmly discounted the likelihood of American involvement in an-
+ 4
+ other major war, except perhaps with Japan. ",0.5671085697953343,6,5
+47,"Isolationist strength in
+ Congress led to the passage of the Neutrality Act of 1937, making it
+ unlawful for the United States to trade with belligerents. ",0.7099022533082863,7,11
+48,"American
+ policy aimed at continental defense and designated the Navy as the
+ first line of such defense. ",0.48031554824198436,7,0
+49,"The Army’s role was to serve as the nu-
+ cleus of a mass mobilization that would defeat any invaders who 
+ managed to ﬁght their way past the Navy and the nation’s powerful
+ coastal defense installations. ",0.5493574166345139,7,4
+50,"The National Defense Act of 1920 al-
+ lowed an Army of 280,000, the largest in peacetime history, but until
+ 1939 Congress never appropriated funds to pay for much more than
+ half of that strength. ",0.7530067273120818,7,11
+51,"Most of the funds available for new equip-
+ ment went to the ﬂedgling air corps. ",0.6166528087998199,7,0
+52,"Throughout most of the inter-
+ war period, the Army was tiny and insular, filled with hard-bitten,
+ long-serving volunteers scattered in small garrisons throughout the
+ continental United States, Hawaii, the Philippines, and Panama. ",0.5443977760185069,7,2
+53,"
+ Yet some innovative thinking and preparation for the future took
+ place in the interwar Army. ",0.5529894745225346,7,11
+54,"Experiments with armored vehicles and
+ motorization, air-ground cooperation, and the aerial transport of
+ troops came to nothing for lack of resources and of consistent high-
+ level support. ",0.648988730982905,7,1
+55,"The Army did, however, develop an interest in am-
+ phibious warfare and in related techniques that were then being pi-
+ oneered by the U.S. Marine Corps. ",0.6331959785832741,7,11
+56,"By the outbreak of war the Signal
+ Corps was a leader in improving radio communications, and Amer-
+ ican artillery practiced the most sophisticated ﬁre-direction and -con-
+ trol techniques in the world. ",0.713473368176592,7,1
+57,"In addition, war plans for various con-
+ tingencies had been drawn up, as had industrial and manpower 
+ mobilization plans. ",0.5645700709772764,7,11
+58,"During the early 1930s Col. George C. Marshall,
+ assistant commandant of the Infantry School at Fort Benning, Geor-
+ gia, had earmarked a number of younger ofﬁcers for leadership po-
+ sitions. ",0.6069473224218749,7,0
+59,"Despite such preparations, the Army as a whole was unready
+ for the war that broke out in Europe on 1 September 1939. ",0.3960275999807682,7,2
+60,"
+ The Outbreak of War 
+ During March 1938 German troops had occupied Austria, in-
+ corporating it into the Reich. ",0.4024324466068314,7,10
+61,"In September Hitler announced that 
+ the “oppression” of ethnic Germans living in Czechoslovakia was in-
+ tolerable and that war was near. ",0.38607748254101115,7,9
+62,"England and France met with 
+ Hitler (the Munich Pact) and compelled Czechoslovakia to cede its
+ frontier districts to Germany in order to secure “peace in our time.”",0.4947610322068548,7,3
+63,"
+ Peace, however, was only an illusion. ",0.17650218307971954,7,0
+64,"During March 1939 Hitler
+ seized the rest of Czechoslovakia by force of arms and then turned 
+ 5
+ his attention to Poland. ",0.44225672335796956,7,2
+65,"Although Britain and France had guaran-
+ teed the integrity of Poland, Hitler and Josef Stalin, dictator of the
+ Soviet Union, signed a secret, mutual nonaggression pact in Au-
+ gust 1939. ",0.44952727954691396,8,5
+66,"With the pact Stalin bought time to build up his strength 
+ at the expense of Britain and France, and Hitler gained a free hand 
+ to deal with Poland. ",0.6153990892896558,8,12
+67,"When Hitler’s army invaded Poland on 1
+ September 1939, World War II began. ",0.41818578438610576,8,2
+68,"
+ While German forces overran western Poland, Soviet troops en-
+ tered from the east to claim their portion of that country. ",0.5663648061216708,8,10
+69,"France and
+ Britain declared war on Germany and mobilized their forces. ",0.3435894307635861,8,9
+70,"The 
+ subsequent period of deceptive inactivity, lasting until spring, became
+ known as the Phony War. ",0.4072997369514721,8,11
+71,"Nothing happened to indicate that World
+ War II would differ signiﬁcantly in style or tempo from World War I. 
+ But the years since 1918 had brought important developments in
+ the use of tanks. ",0.5791624933249683,8,11
+72,"A number of students of war—the British Sir Basil
+ Liddell Hart and J. F. C. Fuller, the Frenchman Charles de Gaulle, 
+ the American George S. Patton, and the Germans Oswald Lutz and
+ Heinz Guderian—believed that armored vehicles held the key to
+ restoring decision to the battlefield. ",0.5618441234299584,8,10
+73,"But only the Germans con-
+ ceived the idea of massing tanks in division-size units, with infantry,
+ artillery, engineers, and other supporting arms mechanized and all
+ moving at the same pace. ",0.4791053528589628,8,6
+74,"Moreover, only Lutz and Guderian re-
+ ceived the enthusiastic support of their government. ",0.41163463686868074,8,0
+75,"
+ In the spring of 1940 their theories were put to the test as Ger-
+ man forces struck against Norway and Denmark in April; invaded 
+ the Netherlands, Belgium, and Luxembourg in May; and late in the
+ same month broke through a hilly, wooded district in France. ",0.5758113370299289,8,2
+76,"Their
+ columns sliced through to the English Channel, cutting off British 
+ and French troops in northern France and Belgium. ",0.3807440285552358,8,10
+77,"The French 
+ Army, plagued by low morale, divided command, and primitive com-
+ munications, fell apart. ",0.451629163666634,8,1
+78,"The British evacuated their forces from
+ Dunkerque with the loss of most of their equipment. ",0.473154368447811,8,6
+79,"The Germans
+ entered Paris on 14 June, and the French government, defeatist and
+ deeply divided politically, sued for an armistice. ",0.4365989054118931,8,3
+80,"The success of the
+ German  Blitzkrieg  forced the remaining combatants to rethink their
+ doctrine and restructure their armies. ",0.4199258387410035,8,9
+81,"
+ With his forces occupying northern France and with a puppet
+ French government established in the south, Hitler launched the
+ Luftwaffe  against the airﬁelds and cities of England to pave the way 
+ for an invasion. ",0.616770210468859,8,10
+82,Britain’s survival hung by a thread. ,0.293346833555445,8,0
+83,"From July to Oc-
+ tober 1940, while German landing barges and invasion forces waited
+ on the Channel coasts, the Royal Air Force, greatly outnumbered,
+ 6
+ drove the  Luftwaffe  from the daytime skies in the legendary Battle 
+ of Britain. ",0.4749038440963784,8,10
+84,"At sea the British Navy, with increasing American coop-
+ eration, fought a desperate battle against German submarine packs 
+ to keep the North Atlantic open. ",0.5643191936308829,9,10
+85,"British pugnacity finally forced 
+ Hitler to abandon all plans to invade England. ",0.4873350082963775,9,7
+86,"
+ In February Hitler sent troops under Lt. Gen. Erwin Rommel to
+ aid the Italians who were fighting against the British in North
+ Africa. ",0.4781164678609501,9,10
+87,"German forces coming to the aid of the Italians in the
+ Balkans routed a British expedition in Greece, and German para-
+ troopers seized the important island of Crete. ",0.5045508699842587,9,10
+88,"Then, in June 1944,
+ Hitler turned against his supposed ally, the Soviet Union, with the
+ full might of the German armed forces. ",0.376115150350666,9,9
+89,"
+ Armored spearheads thrust deep into Soviet territory, driving to-
+ ward Leningrad, Moscow, and the Ukraine and cutting off entire Soviet
+ armies. ",0.37962188007026365,9,9
+90,"Despite tremendous losses, Russian military forces withdrew
+ farther into the country and continued to resist. ",0.5731223748796572,9,9
+91,"Nazi expectations of a
+ quick victory evaporated, and the onset of winter caught the Germans
+ unprepared. ",0.3511666637604659,9,7
+92,"Thirty miles short of Moscow their advance ground to a
+ halt, and the Soviets launched massive counterattacks. ",0.3998471913970365,9,6
+93,"
+ The Germans withstood the counterattacks and resumed their
+ offensive the following spring. ",0.5125946274720131,9,7
+94,"The Soviets, now locked in a titanic
+ death struggle, faced the bulk of the German land forces—over two
+ hundred divisions. ",0.3841937848732656,9,9
+95,"The front stretched for 2,000 miles, from the
+ Arctic Circle to the Black Sea. ",0.30795436262505615,9,0
+96,Soon casualties ran into the millions.,0.2988779050673377,9,0
+97,"
+ Waging war with the implacable ruthlessness of totalitarian regimes,
+ both sides committed wholesale atrocities—mistreatment of pris-
+ oners of war, enslavement of civilian populations, and, in the case of
+ the Jews, outright genocide. ",0.416531368107289,9,5
+98,"
+ In the United States preparations for war moved slowly. ",0.36430966822495275,9,2
+99,"General
+ George C. Marshall took over as Chief of Staff in 1939, but the Army
+ remained hard pressed simply to carry out its mission of defending the
+ continental United States. ",0.6643417793947166,9,4
+100,"Defending overseas possessions like the
+ Philippines seemed a hopeless task. ",0.5622453559440928,9,5
+101,"In early 1939, prompted by fears
+ that a hostile power might be able to establish air bases in the Western
+ Hemisphere, thus exposing the Panama Canal or continental United
+ States to aerial attack, President Franklin D. Roosevelt launched a lim-
+ ited preparedness campaign. ",0.6359204429864898,9,10
+102,"The power of the Army Air Corps in-
+ creased; Army and Navy leaders drafted a new series of war plans to
+ deal with the threatening international situation. ",0.6239282283046218,9,1
+103,"The focus of military
+ policy changed from continental to hemisphere defense. ",0.914876136354289,9,11
+104,"
+ After the outbreak of war in Europe the President proclaimed a
+ limited emergency and authorized increases in the size of the Regu-
+ lar Army and the National Guard. ",0.711321574212559,9,5
+105,"Congress amended the Neutrality
+ Act to permit munitions sales to the French and British, and large or-
+ ders from them stimulated retooling and laid the basis for the ex-
+ pansion of war production in the future. ",0.7192699765119062,10,5
+106,"The Army concentrated on
+ equipping its regular forces as quickly as possible and in 1940 held
+ the first large-scale corps and army maneuvers in American history.
+ ",0.5278791893353681,10,9
+107,"The rapid defeat of France and the possible collapse of Britain 
+ dramatically accelerated defense preparations. ",0.4485186779880693,10,8
+108,"Roosevelt directed 
+ the transfer of large stocks of World War I munitions to France and
+ Britain in the spring of 1940 and went further in September when he
+ agreed to the transfer of fifty over-age destroyers to Britain in ex-
+ change for bases in the Atlantic and Caribbean. ",0.6833763159699521,10,2
+109,"In March 1941
+ Congress repealed some provisions of the Neutrality Act. ",0.8361914867992709,10,11
+110,"Passage of
+ the Lend-Lease Act, which gave the President authority to sell, 
+ transfer, or lease war goods to the government of any country whose
+ 7
+ “Barrage Balloon” by Alexander Brook. ",0.640115393547766,10,0
+111,"The reported ability of bal-
+ loons to interfere with low-level bombardment in Great Britain and
+ Germany spurred the Army to develop a barrage balloon force for
+ continental defense. ",0.6594168713810967,10,1
+112," (Army Art Collection)
+ defenses he deemed vital to the defense of the United States, spelled
+ the virtual end of neutrality. ",0.48131070430108946,10,0
+113,"The President proclaimed that the
+ United States would become the “arsenal of democracy.” ",0.39607917638494855,11,5
+114,"In the
+ spring of 1941 American and British military representatives held
+ their first combined staff conferences to discuss strategy in the event
+ of active U.S. participation in the war, which seemed increasingly
+ likely to include Japan as well as Germany. ",0.837759052776603,11,5
+115,"The staffs agreed that if
+ the United States entered the war the Allies should concentrate on
+ the defeat of Germany first. ",0.4778649201575083,11,9
+116,"The President authorized active naval
+ patrols in the western half of the Atlantic, and in July, American
+ troops took the place of British forces guarding Iceland. ",0.5708602953229739,11,10
+117,"
+ Meanwhile, General Marshall and Secretary of War Henry L.
+ Stimson made plans to expand the Army to 1.5 million men. ",0.6524425356092242,11,4
+118,"On 27
+ August 1940, Congress approved inducting the National Guard into
+ federal service and calling up the reserves. ",0.5273148297447955,11,11
+119,"A few weeks later the
+ lawmakers passed the Selective Service and Training Act, the first
+ peacetime draft in American history. ",0.6955934120322796,11,11
+120,"By mid-1941 the Army had
+ achieved its planned strength, with 27 infantry, 5 armored, and 2 cav-
+ alry divisions; 35 air groups; and a host of support units. ",0.6408142573134206,11,1
+121,"But it re-
+ mained far from ready to deploy overseas against well-equipped, ex-
+ perienced, and determined foes. ",0.5082120015083729,11,0
+122,"
+ The United States Enters the War 
+ On 7 December 1941, while German armies were freezing be-
+ fore Moscow, Japan suddenly pushed the United States into the
+ struggle by attacking the American naval base at Pearl Harbor,
+ Hawaii. ",0.521262493005331,11,10
+123,Four days later Hitler declared war on the United States.,0.4437397805904911,11,4
+124,"
+ President Roosevelt called on Congress for immediate and massive
+ expansion of the armed forces. ",0.4794252134912928,11,5
+125,"Twenty years of neglect and indif-
+ ference, however, could not be overcome in a few days. ",0.39501969038772894,11,11
+126,"
+ Helpless as American garrisons in the Paciﬁc fell to the Japanese
+ in the spring of 1942, military leaders in Washington worked fever-
+ ishly to create a headquarters that could direct a distant war effort
+ and to turn the fledgling ground and air units into viable, balanced
+ fighting forces. ",0.7063148115711363,11,9
+127,"In early 1942 the Joint Chiefs of Staff emerged as a
+ committee of the nation’s military leaders to advise the President 
+ and to coordinate strategy with the British. ",0.9521944052063389,11,11
+128,"In March the War De-
+ partment General Staff was reorganized and the Army divided into
+ three major commands: the Air Forces, Ground Forces, and Service
+ Forces. ",0.6085551148234444,11,1
+129,"Thirty-seven Army divisions were in some state of training,
+ but only one was fully trained, equipped, and deployable by January
+ 8
+ 9
+ 1942. ",0.7331954324040901,11,0
+130,"Army planners of the time estimated that victory would re-
+ quire an Army of nearly 9 million men, organized into 215 combat
+ divisions, estimates that proved accurate regarding overall man-
+ power but too ambitious for the 90 divisions that eventually were es-
+ tablished and supported on far-flung battlefields. ",0.8214100167710042,12,12
+131,"
+ Lt. Gen. Lesley J. McNair, head of Army Ground Forces and an
+ ardent advocate of mobile war, oversaw the development of armored
+ and airborne divisions. ",0.489969764886358,12,2
+132,"He directed the restructuring of existing or-
+ ganizations as well, turning the old World War I “square” division
+ based on four infantry regiments into a lighter, more maneuverable 
+ triangular division with three infantry regiments. ",0.6156571124374616,12,4
+133,"A serious and con-
+ tinuing shortage of Allied shipping space placed absolute limits on 
+ the size and capabilities of Army units. ",0.6111906555637964,12,0
+134,"New tables of organization
+ stressed leanness and mobility, sometimes at the expense of ﬁghting
+ power and endurance. ",0.45204590107519915,12,11
+135,"Billeting, training areas, and equipment were 
+ all in short supply. ",0.7034355111510262,12,11
+136,"American industry had to support the nation’s Al-
+ lies as well as its own military expansion. ",0.44630951099604516,12,5
+137,"Britain needed large
+ amounts of munitions and equipment; and lend-lease aid, including
+ tens of thousands of trucks and other vehicles and equipment, played
+ “Ex-Luxury Liner” by Barse Miller. ",0.6660088419831891,12,0
+138,"The largest liners used by the Army,
+ the British ships  Queen Elizabeth  and  Queen Mary , could each carry up
+ to 15,000 troops. ",0.49542648152168156,12,12
+139," (Army Art Collection)
+ 10
+ an important part in mechanizing the Soviet Army. ",0.39888207788875485,12,0
+140,"Amphibious war-
+ fare required large numbers of landing craft and support vessels, yet 
+ to be built. ",0.7017975654234101,13,12
+141,"The ﬁrst U.S. troops arrived in the British Isles in January
+ 1942, but nearly a year passed before they went into action against 
+ the Axis. ",0.5628243620962796,13,7
+142,"Meanwhile, air power provided virtually the only means for
+ the Allies to strike at Germany. ",0.422604408114219,13,3
+143,"The Royal Air Force began its air of-
+ fensive against Germany in May 1942, and on 4 July the ﬁrst Amer-
+ ican crews participated in air raids against the Continent. ",0.4180410681208186,13,2
+144,"
+ In early 1942 British and American leaders reafﬁrmed the prior-
+ ity of the European theater. ",0.5237611836928243,13,1
+145,"General Marshall argued for an imme-
+ diate buildup of American forces in Great Britain, a possible diver-
+ sionary attack on the Continent in the fall, and a definite full-scale
+ invasion in 1943. ",0.479517769961587,13,9
+146,The British greeted this program with caution. ,0.41749599765087775,13,0
+147,"Re-
+ membering the enormous casualties of World War I, they preferred
+ to strike at German power in the Mediterranean, rather than risk a
+ direct confrontation in haste. ",0.5430732975618666,13,12
+148,"Although acknowledging the eventual
+ necessity for an invasion of France, they hoped to defer it until much
+ later. ",0.3654673929891624,13,7
+149,"Instead, Prime Minister Winston S. Churchill suggested Anglo-
+ American landings in North Africa, bringing the French armies in
+ France’s colonies there back into the war on the side of the Allies and
+ aiding the British in their ﬁght against the Italians and the forces of
+ German Field Marshal Erwin Rommel. ",0.6811966991507884,13,10
+150,"Months of lively debate fol-
+ lowed, but ultimately President Roosevelt directed General Mar-
+ shall to plan and carry out amphibious landings on the coast of North
+ Africa before the end of 1942. ",0.7807143295781641,13,3
+151,"
+ The North African Campaign 
+ Marshall ordered Lt. Gen. Dwight D. Eisenhower, then in Eng-
+ land, to take command of the invasion. ",0.4339876227153323,13,2
+152,"Meeting the November 
+ deadline required improvisation of every kind Army troops were 
+ hurriedly trained in amphibious warfare. ",0.7020789540449729,13,7
+153,"Technicians modified com-
+ mercial vessels to serve as landing ships. ",0.39587469927681923,13,11
+154,"While General Eisenhower
+ monitored operations from Gibraltar, American forces, convoyed
+ directly from the United States, landed along the Atlantic coast of
+ French Morocco, near Casablanca. ",0.5508329531486402,13,10
+155,"Meanwhile, American and Brit-
+ ish troops sailing from England landed in Algeria. ",0.41791055983515346,13,10
+156,"Despite efforts to
+ win support among French military officers in North Africa, some
+ fighting occurred. ",0.5609024401373577,13,9
+157,"Nevertheless negotiations soon led to a cease-
+ fire, and French units joined the Allied forces. ",0.4353710076917324,13,9
+158,"
+ While the Allies tightened their grip on Morocco and Algeria, their
+ troops raced to reach strategic positions in neighboring Tunisia. ",0.485597617046357,13,9
+159,"A
+ 11
+ month earlier the British in Egypt under Lt. Gen. Sir Bernard L. Mont-
+ gomery had mounted a powerful attack on the Germans at El Alamein,
+ sending Rommel and his  German-Italian Panzer Army  reeling back
+ into Libya. ",0.506929053189776,13,10
+160,"If strong Allied forces could reach the coast of Tunisia,
+ Rommel would be trapped between them and Montgomery’s troops. ",0.38789411618107195,14,10
+161,"
+ Awake to the threat, the Germans poured troops into Tunisia by
+ air and sea, brushing aside weak French forces there. ",0.4093324284031133,14,10
+162,"Axis air power,
+ based in Sicily, Sardinia, and Italy, pounded the advancing Allied
+ columns. ",0.4189625424132183,14,3
+163,"As torrential December rains turned the countryside into a
+ quagmire, the Allies lost the race. ",0.33748491864486174,14,7
+164,"Instead of catching Rommel, they
+ faced a protracted struggle. ",0.3229119288011537,14,7
+165,"While his forces dug in along the south-
+ ern border of Tunisia opposite Montgomery, a second powerful Axis
+ force, the  Fifth Panzer Army , barred the way to the Tunisian coast. ",0.559728292504041,14,10
+166,"
+ A chain of mountains separates coastal Tunisia from the arid in-
+ terior. ",0.3593260140596654,14,0
+167,"In a plain between two arms of the mountains and behind the
+ passes in the west lay important Allied airﬁelds and supply dumps. ",0.4610147807035708,14,3
+168,"On
+ 14 February 1943, the Axis commanders sent German and Italian
+ forces through the passes, hoping to penetrate the American positions
+ and either envelop the British in the north or seize Allied supply ",0.5564766525837598,14,10
+169,"de-
+ “Hill 609” by Fletcher Martin. ",0.21696850483588495,14,0
+170,"Much of the Army’s ﬁghting in the ﬁnal of-
+ fensive in northern Tunisia involved dismounted infantry attacks on pre-
+ pared defensive positions in rugged hill country. ",0.5574189171452489,14,6
+171,"      (Army Art Collection)
+ pots. ",0.2964570353632376,14,11
+172,"German forces quickly cut off and overwhelmed two battalions
+ of American infantry positioned too far apart for mutual support, 
+ and the experienced  panzers  beat back counterattacks by American
+ reserves, including elements of the U.S. 1st Armored Division. ",0.6379026843055723,15,6
+173,"U.S.
+ troops began evacuating airﬁelds and supply depots on the plain and
+ falling back to the western arm of the mountains. ",0.42278336384953746,15,2
+174,"Dug in around the
+ oasis town of Sbeitla, American infantry and armor managed to hold
+ off the Germans through 16 February, but defenses there began to 
+ disintegrate during the night, and the town lay empty by midday on 
+ the 17th. ",0.5131307711337894,15,6
+175,"From the oasis, roads led back to two passes, the Sbiba and
+ the Kasserine. ",0.3810952789199004,15,3
+176,"By 21 February the Germans had pushed through both
+ and were poised to seize road junctions leading to the British rear. ",0.3905952251318698,15,6
+177,"
+ Rommel and other German commanders, however, could not
+ agree on how to exploit their success. ",0.44362909535638145,15,8
+178,"Meanwhile Allied reinforce-
+ ments rushed to the critical area. ",0.5436478464344078,15,0
+179,"The 1st Armored Division turned
+ back German probes toward Tebessa, and British armor met a more
+ powerful thrust toward Thala, where four battalions of ﬁeld artillery
+ from the U.S. 9th Infantry Division arrived just in time to bolster 
+ sagging defenses. ",0.5235119633904003,15,6
+180,"On the night of 22 February the Germans began to
+ pull back. ",0.3094674565140623,15,7
+181,A few days later Allied forces returned to the passes. ,0.40306838682859164,15,7
+182,"
+ The first American battle with German forces had cost more than
+ 6,000 U.S. casualties, including 300 dead and two-thirds of the tank
+ strength of the 1st Armored Division. ",0.6758367444554746,15,10
+183,"
+ In March, after the British repulsed another German attack, the
+ Allies resumed the offensive. ",0.35461491271425705,15,10
+184,"The U.S. II Corps, now under the com-
+ mand of Maj. ",0.32225201854337654,15,4
+185,"Gen. George S. Patton, attacked in coordination with an
+ assault on the German line by Montgomery’s troops. ",0.5037342111907274,15,6
+186,"American and
+ British forces in the south met on 7 April as they squeezed Axis forces
+ into the northeastern tip of the country. ",0.48247594589650533,15,10
+187,"The ﬁnal drive to clear Tunisia
+ began on 19 April. ",0.37367866553212775,15,11
+188,"On 7 May British armor entered Tunis, and Amer-
+ ican infantry entered Bizerte. ",0.37185782287848107,15,6
+189,"Six days later the last Axis resistance in
+ Africa ended with the surrender of over 275,000 prisoners of war. ",0.5031934857398054,15,10
+190,"
+ The U.S. Army learned bitter lessons about the inadequacy of its
+ training, equipment, and leadership in the North African campaign.",0.8165134825805129,15,1
+191,"
+ Army Ground Forces acted quickly to ensure that American soldiers
+ would receive more realistic combat training. ",0.6552849026182456,15,1
+192,"Higher commanders re-
+ alized that they could not interfere with their subordinates by dictat-
+ ing in detail the positions of their units. ",0.4849783371400901,15,11
+193,"Troops had to be committed 
+ in division-size, combined arms teams, not in driblets. ",0.5574111746050386,15,1
+194,"The problem
+ posed by American tanks, outgunned by the more heavily armed and
+ armored German panzers, took far longer to correct. ",0.4880335910030036,15,12
+195,"But the artillery
+ established itself as the Army’s most proﬁcient arm.",0.5353073568220079,15,0
+196,"
+ 14
+ Sicily and Italy 
+ Meeting in Casablanca in January 1943, President Roosevelt,
+ Prime Minister Churchill, and the Combined Chiefs of Staff de-
+ cided that the large Italian island of Sicily would be their next target.",0.7467399100018741,15,3
+197,"
+ Montgomery’s British forces landed on the southeast coast, while
+ Patton’s newly activated Seventh Army landed on the southwest, 
+ with the mission of seizing airfields and protecting the flank of the
+ British drive. ",0.6156953745848188,16,10
+198,"Airborne troops spearheading the attacks scattered
+ wide of their targets but managed to disrupt enemy communica-
+ tions. ",0.4692090191209696,16,7
+199,"Hours after the initial landings on 9 July, German armor 
+ struck the American beaches. ",0.44048942943025715,16,6
+200,"Naval gunfire, infantry counterat-
+ tacks, and the direct fire of field artillery landing at the critical junc-
+ ture broke up the German formations. ",0.6660036292875066,16,6
+201,"But two attempts to rein-
+ force the beaches with parachute and glider-borne troops ended in
+ disaster when Allied antiaircraft batteries mistook the transport
+ planes for enemy aircraft and opened fire, causing severe losses. ",0.5008335202191819,16,6
+202,"
+ Meanwhile, the Germans solidly blocked the British drive on 
+ the Sicilian capital, Messina. ",0.36655520191922947,16,8
+203,"General Sir Harold R. L. G. Alexander,
+ Allied ground commander, ordered Patton to push toward Palermo,
+ at the western tip of the island. ",0.43112770201338446,16,2
+204,"Once in Palermo, since the British
+ drive was still stalled, his forces attacked Messina from the north.",0.3932364833138142,16,10
+205,"
+ Patton used a series of small amphibious end runs to outflank Ger-
+ man positions on the northern coastal road. ",0.5680946608671797,16,1
+206,"American and British
+ troops arrived in Messina on 17 August, just as the last Axis troops
+ evacuated Sicily. ",0.4293857737530335,16,10
+207,"
+ In late July the Allies decided to follow up their success in Sicily
+ with an invasion of Italy. ",0.5388928260346407,16,7
+208,"Having lost hope of victory, the  Italian 
+ High Command , backed by the king, opened secret negotiations 
+ with the Allies. ",0.45452564266539086,16,8
+209,"The Germans, suspecting that Italy was about to 
+ desert the Axis, rushed in additional troops. ",0.40160904112581375,16,6
+210,"
+ The Germans swiftly disarmed the Italian Army and took over its
+ defensive positions. ",0.4247503543006824,16,6
+211,"A British ﬂeet sailed into the harbor of Taranto
+ and disembarked troops onto the docks, while the U.S. Fifth Army
+ under Lt. Gen. Mark W. Clark landed on the beaches near Salerno 
+ on 9 September. ",0.4674167582598205,16,2
+212,The Germans reacted in strength. ,0.24190066164605323,16,8
+213,"For four days 
+ vigorous attacks by German armor threatened the beaches. ",0.368405784415139,16,6
+214,"But on 
+ 16 September American and British forces made contact, and two
+ weeks later American troops entered Naples, the largest city south of
+ Rome. ",0.5100317499070903,16,10
+215,"Allied plans called for a continued advance to tie down Ger-
+ man troops and prevent their transfer to France or Russia, while 
+ Hitler decided to hold as much of Italy as possible. ",0.6964676918879449,16,9
+216,"
+ 15
+ As the Allies advanced up the mountainous spine of Italy, they
+ confronted a series of heavily fortified German defensive positions,
+ anchored on rivers or commanding terrain features. ",0.4312581900755559,16,6
+217,"The brilliant de-
+ 16
+ “Bailey Bridge” by Tom Craig. ",0.2706156897902677,17,11
+218,"Mechanized warfare demanded a sub-
+ stantial increase in tactical bridging; in Italy the Bailey Bridge proved
+ versatile and adaptable to a variety of weights and situations. ",0.5322334416502104,17,0
+219," (Army
+ Art Collection)
+ 17
+ laying tactics of the German commander in Italy, Field Marshal Al-
+ bert Kesselring, exacted a high price for every Allied gain. ",0.5901168672740496,17,9
+220,"The cam-
+ paign in Italy became an endless siege, fought in rugged terrain, in
+ often appalling conditions, and with limited resources. ",0.6463100173059879,18,3
+221,"
+ Moving north from Naples, the Allies forced a crossing of the
+ Volturno River in October 1943 and advanced to the Winter Line, a
+ main German defensive position anchored on mountains around
+ Cassino. ",0.47523539967168543,18,10
+222,"Repeated attempts over the next six months to break or 
+ outﬂank it failed. ",0.39910960743379126,18,11
+223,"An amphibious end run, landing the U.S. VI 
+ Corps under Maj. ",0.35294718281139453,18,7
+224,"Gen. John P. Lucas at Anzio in January 1944,
+ failed to turn the German flank, for Lucas waited too long to build
+ up his reserves before moving aggressively against the German de-
+ fenses. ",0.5536839537587803,18,7
+225,"Kesselring had time to call in reinforcements, including ar-
+ tillery, which soon brought every inch of Allied-held ground under
+ fire. ",0.5577657282114771,18,7
+226,"As the defenders dug in, the end run turned into another siege,
+ as American and British troops repulsed repeated counterattacks. ",0.44228621491412906,18,10
+227,"
+ Meanwhile, an American attempt to cross the Rapido River,
+ timed to coincide with the Anzio landing, miscarried with heavy ca-
+ sualties. ",0.4199824548305878,18,7
+228,"Allied efforts to blast a way through the enemy’s mountain
+ defenses proved futile, despite the use of medium and heavy bombers
+ to support ground attacks around Cassino. ",0.5921488884740503,18,6
+229,"Finally, in May 1944, a se-
+ ries of coordinated attacks by the Fifth Army and Eighth Army pried
+ the Germans loose, and they began to fall back. ",0.5325112858083803,18,1
+230,"On 4 June 1944, two
+ days before the Normandy invasion, Allied troops entered Rome. ",0.41053673184341577,18,10
+231,"
+ The Normandy invasion made Italy a secondary theater, and Al-
+ lied strength there gradually decreased. ",0.4973273912661908,18,12
+232,"Nevertheless, the fighting 
+ continued. ",0.6343980215771658,18,4
+233,"The Allies attacked a new German defensive line in the
+ Northern Appenines in August but were unable to make apprecia-
+ ble headway through the mountains. ",0.5543163626725345,18,10
+234,"Not until spring of 1945 did 
+ they penetrate the final German defenses and enter the Po valley.",0.421083502097198,18,7
+235,"
+ German forces in Italy surrendered on 2 May 1945. ",0.3011974427222793,18,10
+236,"
+ The Cross-Channel Attack 
+ Preparations for an attack on German-occupied France contin-
+ ued as did the campaigns in the Mediterranean. ",0.41323357210389255,18,6
+237,"The defeat of the
+ German U-boat threat, critical to the successful transport of men 
+ and materiel across the Atlantic, had been largely accomplished by
+ the second half of 1943. ",0.6233500639752896,18,9
+238,"The success of the war against the U-boats
+ was immeasurably aided by secret intelligence, code-named U LTRA ,
+ garnered by Anglo-American breaking of German radio communi-
+ 18
+ cations codes. ",0.6457514334196457,18,1
+239,"Such information also proved valuable to the com-
+ manders of the ground campaign in Italy and France. ",0.3713738221772093,19,1
+240,"
+ By early 1944 an Allied strategic bombing campaign so reduced
+ German strength in fighters and trained pilots that the Allies effec-
+ tively established complete air superiority over western Europe. ",0.8754269356845806,19,9
+241,"Al-
+ lied bombers now turned to systematic disruption of the trans-
+ portation system in France in order to impede the enemy’s ability to
+ respond to the invasion. ",0.4823314198198703,19,12
+242,"At the same time, American and British
+ leaders orchestrated a tremendous buildup in the British Isles, trans-
+ porting 1.6 million men and their equipment to England and pro-
+ viding them with shelter and training facilities. ",0.6887351133753458,19,1
+243,"
+ Detailed planning for the cross-Channel assault had begun in 1943
+ when the American and British Combined Chiefs of Staff appointed 
+ a British ofﬁcer, Lt. Gen. Frederick E. Morgan, as Chief of Staff to the
+ as yet unnamed Supreme Allied Commander. ",0.7852434462324537,19,1
+244,"When General Eisen-
+ hower arrived in January 1944 to set up Supreme Headquarters, Al-
+ lied Expeditionary Force (SHAEF), Morgan’s work served as the 
+ basis for the ﬁnal plan of assault. ",0.7223111746216856,19,0
+245,"The Allies would land in Normandy
+ and seize the port of Cherbourg. ",0.30620846204079616,19,3
+246,"They would establish an expanded
+ lodgment area extending as far east as the Seine River. ",0.6996780115915048,19,11
+247,"Having built 
+ up reserves there, they would then advance into Germany on a broad
+ front. ",0.5339796086650463,19,0
+248,"Ground commander for the invasion would be General Mont-
+ gomery. ",0.35365959619446496,19,1
+249,"The British Second Army would land on the left, while the
+ American First Army, under Lt. Gen. Omar N. Bradley, landed on 
+ the right. ",0.40445782100255406,19,2
+250,"Intensive exercises and rehearsals occupied the last months
+ before the invasion. ",0.37573503810280584,19,7
+251,"An elaborate deception plan convinced the Ger-
+ mans that the Normandy landings were a feint, and that larger, more
+ important landings would take place farther east, around the Pas de
+ Calais. ",0.6076282734453757,19,3
+252,"Here the Germans held most of their reserves, keeping their
+ armored formations near Paris. ",0.3411853118204617,19,6
+253,"
+ Developments on the Eastern Front also aided the success of the
+ invasion. ",0.3429945147758785,19,0
+254,"In early 1943 the Russians destroyed a German army at
+ Stalingrad. ",0.40940468701956445,19,10
+255,"The Germans tried to regain the initiative in the summer 
+ of 1943, attacking a Soviet-held salient near the Russian city of 
+ Kursk. ",0.4248807095840609,19,10
+256,"In the largest tank battle known to history, they suffered a re-
+ sounding defeat. ",0.33588168850967004,19,12
+257,"Henceforth, they remained on the defensive, in 
+ constant retreat, while the Soviets advanced westward, retaking 
+ major portions of the Ukraine and White Russia during the fall and
+ winter and launching an offensive around Leningrad in January 
+ 1944. ",0.471369571494046,19,8
+258,"By March 1944 Soviet forces had reentered Polish territory, 
+ and a Soviet summer offensive had prevented the Germans from 
+ transferring troops to France. ",0.45078321714420133,19,10
+259,"
+ 19
+ On 5 June 1944, General Eisenhower took advantage of a break
+ in stormy weather to order the invasion of “fortress Europe.” ",0.5678123548289803,19,2
+260,"In the
+ hours before dawn, 6 June 1944, one British and two U.S. airborne
+ divisions dropped behind the beaches. ",0.37805160210208805,20,1
+261,"After sunrise, British, Cana-
+ dian, and U.S. troops began to move ashore. ",0.294281019109276,20,10
+262,"The British and Cana-
+ dians met modest opposition. ",0.3383455949616312,20,0
+263,"Units of the U.S. VII Corps quickly
+ broke through defenses at a beach code-named U TAH  and began
+ moving inland, making contact with the airborne troops within 
+ twenty-four hours. ",0.6512295437584745,20,1
+264,"But heavy German fire swept O MAHA , the other
+ American landing area. ",0.3746668354196619,20,6
+265,"Elements of the 1st and 29th Infantry Divi-
+ sions and the 2d and 5th Ranger Battalions clung precariously to a
+ narrow stretch of stony beach until late in the day, when they were
+ finally able to advance, outflanking the German positions. ",0.5155227761689163,20,6
+266,"
+ American and British beachheads linked up within days. ",0.36443134814714845,20,7
+267,"While 
+ the Allies raced to build up supplies and reserves, American and
+ British fighter aircraft and guerrillas of the French resistance 
+ blocked movement of German reinforcements. ",0.5711416038457154,20,10
+268,"On the ground, Al-
+ lied troops besieged Cherbourg and struggled to expand southward
+ “Sherman Tanks Passing Stream of German Prisoners” by Ogden
+ Pleissner. ",0.5314757312055461,20,6
+269,"After seven weeks of slow, costly advances against deter-
+ mined German defenders in the hedgerows, Army armored forma-
+ tions seized the initiative at St. Lô and made rapid advances against a
+ demoralized enemy. ",0.6141820792267647,20,6
+270," (Army Art Collection)
+ 20
+ through the entangling Norman hedgerows. ",0.2993895673424032,20,11
+271,"Earthen embankments
+ hundreds of years old, matted with the roots of trees and shrubs, the
+ hedgerows divided the countryside into thousands of tiny fields. ",0.4093410454219854,21,11
+272,"
+ The narrow roads, sunk beneath the level of the surrounding coun-
+ tryside, became deathtraps for tanks and vehicles. ",0.4383221637648242,21,0
+273,"Crossroads vil-
+ lages were clusters of solidly built medieval stone buildings, ideal for
+ defense. ",0.5417977889790367,21,11
+274,"Small numbers of German infantry, dug into the embank-
+ ments with machine guns and mortars and a tank or two or a few an-
+ titank guns for support, made advancing across each ﬁeld costly. ",0.5772848004779135,21,6
+275,"
+ With time short and no room to maneuver, the struggle to break
+ out became a battle of attrition. ",0.3920712997679488,21,12
+276,"Allied troops advanced with ago-
+ nizing slowness from hedgerow to hedgerow, in a seemingly endless
+ series of small battles. ",0.3738813315220321,21,9
+277,"Advances were measured in hundreds of 
+ yards. ",0.556632405548324,21,11
+278,"Requirements for fire support far exceeded preinvasion plan-
+ ning, resulting in a severe shortage of artillery shells. ",0.748065147698129,21,11
+279,"The British
+ made several powerful attempts to break through to the open coun-
+ try beyond the town of Caen, but were stopped by the Germans, who
+ concentrated most of their armor in this threatened area. ",0.524358421466933,21,6
+280,"By 18 
+ July the U.S. First Army had clawed its way into St. Lô and, on 25
+ July, launched Operation C OBRA . ",0.4371879429516297,21,7
+281,"As heavy and medium bombers 
+ from England pummeled German frontline positions, infantry and
+ armor finally punched through the defenses. ",0.375444672225102,21,6
+282,"Pouring through the 
+ gap, American troops advanced forty miles within a week. ",0.3921768189668522,21,1
+283,"
+ Rejecting his generals’ advice, Hitler ordered a counterattack
+ against the widening breakout by Germany’s last available mobile
+ forces in France. ",0.4897985829391461,21,10
+284,"U.S. First Army forces stopped the Germans and
+ joined Canadian, British, and Polish troops in catching the enemy in 
+ a giant pocket around the town of Falaise. ",0.5573130038617301,21,10
+285,"Allied fighter-bombers 
+ and artillery now aided a massive destruction of twenty enemy divi-
+ sions. ",0.36912929467034694,21,6
+286,"Suddenly, it seemed the Allies might end the war before win-
+ ter. ",0.3189173908274903,21,12
+287,"Calling off a planned halt and logistical buildup, Eisenhower or-
+ dered the Allied forces to drive all-out for the German frontier. ",0.5290527932294827,21,9
+288,"
+ With enemy forces in full retreat, French and American troops
+ rolled into Paris on 25 August 1944. ",0.39208885480608746,21,10
+289,"Meanwhile, veteran U.S. and
+ French divisions, pulled out of Italy, landed on the beaches of the French
+ Riviera. ",0.36299602373987594,21,2
+290,"While French forces liberated the ports, the U.S. Seventh Army
+ drove northward in an effort to cut off withdrawing German troops.",0.468545553251495,21,10
+291,"
+ Moving rapidly through the cities of Lyon and Besançon, they joined up
+ with Allied forces advancing from Normandy on 11 September. ",0.3857690991235001,21,10
+292,"
+ Victory seemed to be at hand. ",0.2157880545056884,21,0
+293,"But by mid-September Allied 
+ communications were strained. ",0.36044622257426295,21,7
+294,"Combat troops had outrun their 
+ supplies. ",0.33596255375075773,21,12
+295,"British and Canadian forces advanced into the Nether-
+ 21
+ lands, and American troops crossed Belgium and Luxembourg and
+ entered German territory. ",0.441225528918474,21,10
+296,Then both met strong resistance. ,0.41183212554004933,22,11
+297,"Bad 
+ weather curtailed unloading of supplies directly across the Nor-
+ mandy invasion beaches, while the ports on the North Sea and the
+ Mediterranean were in ruins. ",0.4880561631455038,22,3
+298,"As logistical problems piled up, Eisen-
+ hower rejected as too dangerous British pleas to channel all avail-
+ able resources into one deep thrust into Germany. ",0.5563118591312307,22,8
+299,"He did, how-
+ ever, sanction one last bold gamble: ",0.2962621984293526,22,11
+300,Operation M ARKET -G ARDEN . ,0.3559328223988973,22,11
+301,"
+ Two U.S. and one British airborne division were to open the way for 
+ a British armored thrust to seize a bridge across the lower Rhine at
+ Arnhem in the Netherlands. ",0.4598062725612187,22,6
+302,"The airborne troops took most of their
+ objectives, but German resistance was much stronger than expected,
+ and the operation failed to gain a bridgehead across the Rhine. ",0.5557986285382308,22,6
+303,"
+ Battles of Attrition 
+ There was to be no early end to the war. ",0.39040487395312967,22,12
+304,"Despite its recent de-
+ feats, the  German Army  remained a dangerous foe, fighting for its
+ life in prepared defenses. ",0.5639722785269242,22,9
+305,"Furthermore, as the Allies approached the
+ frontiers of the Reich, they encountered a series of formidable ter-
+ rain obstacles—major rivers, mountains, and forests—and the worst
+ weather in over thirty years. ",0.4739473993660718,22,12
+306,"Yet Eisenhower, believing that un-
+ remitting pressure against the enemy would shorten the war, called
+ for the offensive to continue. ",0.5439775247618786,22,9
+307,"Battles of attrition followed through-
+ out October and November, all along the front. ",0.5341369259312451,22,0
+308,"
+ Canadian and British soldiers trudged through the frozen mud
+ and water of the flooded tidal lowlands in the Netherlands to free the
+ great Belgian port of Antwerp. ",0.4305822782381939,22,6
+309,"The U.S. First Army took the German
+ city of Aachen on 21 October. ",0.406132273039977,22,10
+310,"The drive of General Patton’s Third
+ Army toward the German border halted on 25 September due to
+ shortages of gasoline and other critical supplies. ",0.5769103051774711,22,1
+311,"Resuming the offen-
+ sive in November, Patton’s men fought for two bloody weeks around
+ the fortress town of Metz, ultimately winning bridgeheads over the
+ Saar River and probing the Siegfried Line. ",0.49024285256787087,22,10
+312,"In the south the U.S. Sev-
+ enth Army and the First French Army fought their way through the
+ freezing rain and snow of the Vosges Mountains to break out onto the
+ Alsatian plain around Strasbourg, becoming the only Allied armies to
+ reach the Rhine in 1944. ",0.49383558997035715,22,10
+313,"But there were no strategic objectives di-
+ rectly east of Strasbourg, and a pocket of tough German troops re-
+ mained on the west bank, dug in around the old city of Colmar. ",0.5127377278766715,22,10
+314,"
+ The attacks by the U.S. First and Ninth Armies toward the Roer
+ River were extremely difﬁcult. ",0.3447084532960163,22,8
+315,"The Huertgen Forest through which
+ 22
+ they moved was thickly wooded, cut by steep defiles, fire breaks,
+ and trails. ",0.32994313891888044,22,0
+316,"The Germans built deep, artillery-proof log bunkers, sur-
+ rounded by ﬁghting positions. ",0.5087958831942624,23,12
+317,"They placed thousands of mines in the
+ forest. ",0.2991362439143113,23,0
+318,"In addition, they felled trees across the roads and wired,
+ mined, and booby-trapped them; and registered their artillery, mor-
+ tars, and machine guns on the roadblocks. ",0.41202573779866497,23,0
+319,"Tree-high artillery bursts,
+ spewing thousands of lethal splinters, made movement on the forest
+ floor difficult. ",0.3758736581469584,23,12
+320,Armor had no room to maneuver. ,0.2599592833637766,23,0
+321,"Two months of
+ bloody, close-quarters fighting in mud, snow, and cold was devastat-
+ ing to morale. ",0.4358771708141327,23,12
+322,"Parts of at least three U.S. divisions, pushed beyond all
+ human limits, experienced breakdowns of cohesion and discipline. ",0.5470741964167636,23,11
+323,"
+ The Battle of the Bulge 
+ While the Allies bludgeoned their way into the border marches of
+ the Reich, Hitler carefully husbanded Germany’s last reserves of tanks
+ and infantry for a desperate attempt to reverse the situation in the
+ west. ",0.46826752034194485,23,10
+324,"On 16 December powerful German forces struck the lightly held
+ sector of the First Army front south of Monschau in the Ardennes.",0.48200665247339114,23,10
+325,"
+ German armored spearheads drove toward the Meuse River, aiming
+ at Antwerp. ",0.3518388260791614,23,6
+326,"Aided by bad weather, a variety of deceptive measures,
+ and the failure of Allied intelligence correctly to interpret the signs of
+ an impending attack, they achieved complete surprise. ",0.7229564459134411,23,0
+327,"Elements of
+ five U.S. divisions plus support troops fell back in confusion. ",0.5369398151191814,23,1
+328,"Two reg-
+ iments of the 106th Infantry Division, cut off and surrounded atop the
+ mountainous Schnee Eiffel, surrendered after only brief ﬁghting—the
+ largest battlefield surrender of U.S. troops in World War II. ",0.483605478608056,23,10
+329,"
+ Partly as a result of the decision to continue attacking throughout
+ the autumn, U.S. forces were spread thin in areas such as the Ar-
+ dennes, and the Americans had few reserves to meet the attack.",0.6430643716782396,23,8
+330,"
+ SHAEF immediately ordered available units into the threatened area,
+ sending an airborne division into the important communications cen-
+ ter of Bastogne. ",0.5495765353294692,23,0
+331,"By 18 December the magnitude of the German effort
+ was clear, and Eisenhower ordered Patton’s Third Army to disengage
+ from its offensive toward the Saar and to attack the enemy’s ",0.5030632841977141,23,6
+332,"southern
+ ﬂank. ",0.2708207849471477,23,0
+333,"Scattered American units, ﬁghting desperate rearguard actions,
+ disrupted the German timetable, obstructing or holding key choke
+ points—road junctions, narrow deﬁles, and single-lane bridges across
+ unfordable streams—to buy time. ",0.6353860138770592,23,12
+334,"Defenders at the town of St. Vith
+ held out for six days; V Corps troops at Elsenborn Ridge repelled fu-
+ rious attacks, jamming the northern shoulder of the enemy advance.",0.5467787094338473,23,6
+335,"
+ To the south armored and airborne troops, although completely sur-
+ 23
+ rounded and under heavy German attack, held Bastogne for the du-
+ ration of the battle. ",0.44109128433204353,23,6
+336,"German efforts to widen the southern shoulder of
+ the bulge along the Sauer River came to nothing. ",0.41046890036971356,24,6
+337,"
+ Short of fuel, denied critical roadnets, hammered by air attacks,
+ and confronted by American armor, the German spearheads recoiled
+ short of the Meuse. ",0.5484486424080293,24,6
+338,"Meanwhile, Patton had altered the Third Army’s
+ axis of advance and attacked northward, relieving Bastogne on 26
+ December. ",0.45098437144756204,24,7
+339,"On 3 January First and Ninth Army troops and British
+ forces launched attacks against the northern shoulder of the bulge.
+ ",0.43667860670517483,24,10
+340,"Meanwhile, a secondary German offensive, Operation  NORD-
+ WIND , failed in the south. ",0.4322352833718352,24,6
+341,"Eisenhower had ordered the Sixth Army
+ Group to fall back, pulling out of Strasbourg. ",0.38684905099538563,24,4
+342,"General de Gaulle, the
+ French leader, was enraged. ",0.6245030162589803,24,0
+343,"After heated negotiations, Allied troops
+ remained in Strasbourg, and the German attack lost its momentum.",0.4171612623415286,24,10
+344,"
+ By the end of January the Allies had retaken all the ground lost in
+ both German offensives. ",0.3135599184845605,24,9
+345,The Battle of the Bulge was over. ,0.20374583344764596,24,4
+346,"
+ Just as the Allies’ August breakout had failed to achieve a war-
+ winning decision, so, too, the German attempt to reenact its victory 
+ of June 1940 failed. ",0.5343899915201898,24,9
+347,"The Allies, however, could make good their 
+ losses, while Hitler had squandered almost all his remaining armor
+ and ﬁghter aircraft. ",0.6538470912242487,24,12
+348,"To make matters worse for the Reich, the Sovi-
+ ets on 12 January opened a large-scale offensive in Poland and East
+ Prussia that carried their troops to within forty miles of Berlin. ",0.5815600328108936,24,10
+349,"Ger-
+ man forces that survived the Ardennes fighting had to be hurriedly
+ shifted eastward to meet the growing Russian threat. ",0.5153800604165582,24,9
+350,"
+ The Final Offensive 
+ With the elimination of the “bulge” and the repulse of  NORD-
+ WIND , the campaign in the west moved into its final phases. ",0.45926456926473075,24,7
+351,"The
+ Allies paused only briefly before resuming the offensive. ",0.2781516167423879,24,8
+352,"Eisen-
+ hower had earlier decided that his armies should advance to the 
+ Rhine all along its length before crossing; he wanted to shorten Al-
+ lied lines, provide a defensible position in the event of further Ger-
+ man counterattacks, and free troops to build up strong reserves. ",0.6807343873335947,24,8
+353,"If
+ Hitler persisted in defending every inch of German territory, most of
+ the enemy’s remaining forces would be destroyed west of the Rhine.",0.47081573407926885,24,10
+354,"
+ Once across the river, American and British forces would be able to
+ advance into Germany almost at will. ",0.4208349934954679,24,10
+355,"
+ Harmonizing conflicting British and American views remained
+ one of Eisenhower’s major problems. ",0.46429105704621365,24,5
+356,"Rejecting British proposals to
+ concentrate on one thrust north of the Ruhr under Montgomery’s 
+ 24
+ leadership, Eisenhower planned concentric attacks from the north 
+ by the British 21 Army Group and the U.S. Ninth Army and from 
+ the south by the U.S. First Army. ",0.7344341578108138,24,6
+357,"Meanwhile, the Third Army 
+ would drive straight across Germany, and the Seventh Army would
+ turn southward into Bavaria. ",0.3562788902041988,25,7
+358,"Because the United States now dom-
+ inated the alliance, most of the significant tasks of the final cam-
+ paign went to American commanders. ",0.6040463845639871,25,3
+359,"
+ First, a pocket of German resistance at Colmar had to be elimi-
+ nated. ",0.3053853459524388,25,7
+360,"Eisenhower assigned ﬁve additional U.S. divisions and 10,000
+ service troops to the effort. ",0.5154728652581028,25,0
+361,"The Franco-American attack against the
+ pocket began on 20 January and was over by early February. ",0.4310367562456975,25,7
+362,"Mean-
+ time, the Canadian First Army cleared the area between the Maas 
+ and Rhine Rivers. ",0.4376028206439792,25,0
+363,"At the same time, the First Army advanced and
+ ﬁnally seized the Roer River dams but found that the Germans had
+ destroyed the controls. ",0.5821499460226464,25,6
+364,"The resultant flooding delayed the Ninth
+ Army’s advance by two weeks. ",0.44200065253774734,25,0
+365,"That attack finally began in late
+ February and linked up with the Canadians, cutting off German 
+ forces facing the British. ",0.41681002136080786,25,10
+366,"Meanwhile, the First Army’s drive to the
+ Rhine culminated in the capture of Cologne and on 7 March the
+ seizure of an intact bridge at the town of Remagen. ",0.5876529034573554,25,7
+367,"
+ As American divisions poured into the bridgehead, the Third 
+ and Seventh Armies launched coordinated attacks to the south. ",0.5625446462375415,25,10
+368,"On 
+ the 22d and the 25th, Third Army troops made assault crossings of 
+ the Rhine. ",0.39014149542498516,25,10
+369,"On 23 March the British Second Army and the U.S. 
+ Ninth Army staged massive crossings in the Rees-Wesel–Dinslaken 
+ area, supported by the largest airborne landings of the war, while the
+ Seventh Army crossed on the 26th near Worms. ",0.5103052827249397,25,10
+370,"Now Allied 
+ columns fanned out across Germany, overrunning isolated pockets 
+ of resistance. ",0.5023464273463567,25,8
+371,"While Montgomery’s forces drove northward toward 
+ the great German ports of Bremen, Hamburg, and Luebeck, the 
+ Ninth Army advanced along the axis Muenster-Magdeburg. ",0.4262223684363427,25,10
+372,"Ninth 
+ and First Army troops met on 1 April, encircling the industrial re-
+ gion of the Ruhr and capturing 325,000 prisoners. ",0.5974944639528793,25,1
+373,"The First Army
+ continued eastward toward Kassel and Leipzig while the Third 
+ Army rolled through Frankfurt, Eisenach, and Erfurt toward Dres-
+ den, then southward toward Czechoslovakia and Austria. ",0.5301462775253866,25,1
+374,"The Sixth
+ Army Group advanced into Bavaria toward Munich and Salzburg,
+ denying the Germans a last-ditch defense in the Bavarian or Aus-
+ trian Alps. ",0.4127116114991714,25,1
+375,Germany was shattered. ,0.23638781671090062,25,4
+376,"
+ Nevertheless, Eisenhower resisted British pressure to drive on to
+ Berlin. ",0.35825613267401685,25,7
+377,"He saw no point in taking casualties to capture ground that, 
+ in line with earlier agreements between Allied leaders, would have 
+ 25
+ to be relinquished to the Soviets once hostilities ceased. ",0.6967262966701371,25,9
+378,"His objec-
+ tive remained to capture or destroy the remnants of the German 
+ armed forces. ",0.5571936127390587,26,9
+379,"The Soviets massed 1.2 million men and 22,000 pieces
+ of artillery and on 16 April began their assault upon the city. ",0.4015048556593039,26,6
+380,"As that
+ battle raged, British, American, and Soviet forces neared previously
+ negotiated stop lines along the Elbe and Mulde Rivers. ",0.5799840069015155,26,10
+381,"The First 
+ Army made contact with Soviet troops on 25 April around Torgau.",0.37358986785291143,26,1
+382,"
+ Meanwhile, as the Third Army entered Czechoslovakia and British
+ troops reached the Baltic, the Russians moved through the streets of
+ Berlin. ",0.44085354241106767,26,10
+383,"On 30 April 1945, Hitler committed suicide in a bunker be-
+ neath the ruins of his capitol. ",0.3368354202987449,26,0
+384,"
+ German forces in Italy surrendered effective 2 May and those in
+ the Netherlands, northwestern Germany, and Denmark on 4 May. ",0.38444167610949986,26,10
+385,"Pa-
+ trols of the U.S. Seventh Army driving eastward through Austria and
+ the Fifth Army driving north from Italy met near the Brenner Pass. ",0.483104071768908,26,7
+386,"
+ On 7 May the  German High Command  surrendered all its forces un-
+ conditionally, and 8 May was ofﬁcially proclaimed V–E Day. ",0.4058982032631272,26,6
+387,"Though
+ peace had come to Europe, one of the most culturally and economi-
+ cally advanced areas of the globe lay in ruins. ",0.39913407270320245,26,5
+388,"Germany, the industrial
+ engine of the Continent, lay prostrate, occupied by British, French,
+ American, and Soviet troops. ",0.4257732905172347,26,10
+389,"Britain, exhausted by its contribution to
+ the victory, tottered near economic collapse, while France was totally
+ dependent on the United States. ",0.4692706867750599,26,8
+390,"The Soviet Union had suffered in ex-
+ cess of 20 million casualties and untold devastation, but its armed
+ forces remained powerful and its intentions obscure. ",0.4231256908251579,26,9
+391,"To the victory in
+ western Europe and Italy, the United States had contributed 68 divi-
+ sions, 15,000 combat aircraft, well over 1 million tanks and motor ve-
+ hicles, and 135,000 dead. ",0.4676468611143788,26,2
+392,"The country now turned its focus to a war a
+ half a world away and to the defeat of Japan in the Paciﬁc. ",0.515027029524863,26,9
+393,"
+ “Follow Me” by H. Charles McBarron. ",0.6600612488929839,26,11
+394,"Amphibious assaults by Army
+ and Marine infantry characterized the war in the Paciﬁc. ",0.36021036389191785,27,2
+395," (Army Art
+ Collection)
+ ",0.2964570353632376,27,11
+396,"The Paciﬁc War 
+ The Paciﬁc War 
+ Even before Pearl Harbor, President Franklin D. Roosevelt and
+ the American military chiefs had agreed on a common strategy with
+ Great Britain: Germany, the most powerful and dangerous of the
+ Axis powers, must be defeated first. ",0.5613977704062808,28,2
+397,"Only enough military resources
+ would be devoted to the Pacific to hold the Japanese west of an
+ Alaska-Hawaii-Panama defensive line. ",0.5496262082869267,29,2
+398,"
+ Competition for limited resources between the Allied command-
+ ers of the European and Pacific theaters was actually less intense
+ than might have been expected. ",0.7496009095402434,29,5
+399,"The Pacific was a naval war, and lit-
+ tle U.S. offensive naval power was required in the Atlantic besides
+ landing craft. ",0.5407182525380263,29,2
+400,"Aside from the U-boats, the Germans posed no threat
+ in Atlantic waters. ",0.3267002184810862,29,7
+401,"U-boat defense primarily required many small, fast
+ escort vessels. ",0.5291662015589705,29,11
+402,"Then too, almost the entire British Navy was deployed
+ in the Atlantic. ",0.3021814843689762,29,1
+403,"Thus, American offensive naval power—especially 
+ the fast carrier task forces—could be committed to the Paciﬁc war. ",0.5392237094164137,29,9
+404,"
+ More than distance separated the two wars; they differed funda-
+ mentally in strategy and command and in the character of the ﬁghting.",0.423684128689892,29,11
+405,"
+ In Europe the war was planned and conducted in combination with
+ powerful Allies. ",0.8902441964912667,29,5
+406,"Strategic decisions had to be argued and agreed to by
+ the American and British chiefs of staff, and, on occasion, even by
+ President Roosevelt and Prime Minister Winston Churchill. ",0.6705138005950699,29,5
+407,"Opera-
+ tional planning was conducted, at least at the higher levels, by com-
+ bined Anglo-American staffs. ",0.7292485305634744,29,11
+408,"In the Pacific the United States also 
+ had Allies—Australia and New Zealand. ",0.36958987838184315,29,5
+409,"Yet the ratio of U.S. to Al-
+ lied forces was much higher there than in Europe, and in consequence
+ strategy and planning were almost wholly in American hands. ",0.6483340488885465,29,5
+410,"
+ Eisenhower, the Supreme Commander in Europe, had no coun-
+ terpart in the Pacific. ",0.3639390493969072,29,3
+411,"From the beginning of the war, rivalry be-
+ tween the Army and the Navy marked the conﬂict. ",0.38947521931181733,29,4
+412,"The two services
+ competed for command, territory, and resources. ",0.6392653431029591,29,11
+413,"In the vast Pa-
+ cific, an ocean dotted with thousands of coral islands, there should
+ have been ample room for both. ",0.3694631002249561,29,0
+414,"But interservice rivalries and great
+ distances prevented a single unified commander from being named,
+ until General Douglas MacArthur became Supreme Commander,
+ Allied Powers (SCAP), in the last days of the war. ",0.5116133989404344,29,2
+415,"Instead, the Pa-
+ ciﬁc was divided into area commands. ",0.3856773988729798,30,11
+416,"The two most important were
+ MacArthur’s Southwest Pacific Area (SWPA) and Admiral Chester
+ Nimitz’s Pacific Ocean Areas (POA). ",0.5215025918660662,30,3
+417,"POA, in turn, was subdivided
+ into North Pacific, Central Pacific, and South Pacific commands.",0.5037168779090287,30,3
+418,"
+ Nimitz personally retained command of the Central Paciﬁc. ",0.3812776878165096,30,11
+419,"
+ Fighting in the Pacific was unlike fighting in Europe. ",0.2960124125150598,30,9
+420,"The cam-
+ paigns in Europe were characterized by huge ground forces driving
+ overland into the heart of the enemy’s country. ",0.389422052654856,30,9
+421,"Both in MacArthur’s
+ SWPA and Nimitz’s POA, the Pacific war was a seemingly endless
+ series of amphibious landings and island-hopping campaigns where
+ naval power, air power, and shipping, rather than large and heavy
+ ground forces, were of paramount importance. ",0.53709305508477,30,2
+422,"
+ Yet for the soldiers and marines who assaulted the countless beaches,
+ the Paciﬁc war was even more brutal and deadly than the war in Europe.",0.3679117266896303,30,9
+423,"
+ Japanese defenders always dug in, reinforced their bunkers with coconut
+ logs, and fought until they were killed. ",0.4167732548983435,30,6
+424,They almost never surrendered.,0.2004141161110412,30,0
+425,"
+ On Betio in the Tarawa Atoll in November 1943 the marines suffered
+ 30
+ “West Coast Dock” by Barse Miller. ",0.40388887096428566,30,7
+426,"Roughly 40 percent of the cargo
+ moved overseas by the Army during the war went to the Paciﬁc theater.",0.43447251355316574,30,1
+427,"
+ (Army Art Collection)
+ 3,301 casualties, including 900 killed in action, for a bit of coral 3 miles
+ long and 800 yards wide. ",0.6756113497495165,30,12
+428,"At Iwo Jima in February and March 1945 the
+ marines lost almost 6,000 dead and over 17,000 wounded and fought for
+ ﬁve weeks to take an island less than ﬁve miles long. ",0.474888589188285,31,7
+429,"At Iwo no battalion
+ suffered fewer than 50 percent casualties, and many sustained even 
+ higher losses. ",0.6888792752678787,31,0
+430,"In the southwest Paciﬁc, MacArthur’s casualties were pro-
+ portionately fewer. ",0.36114888755621327,31,12
+431,"Fighting on the larger land masses of New Guinea
+ and the Philippines, he had more room to maneuver, and he could almost
+ always “hit ‘em where they ain’t.” ",0.4122604352416592,31,9
+432,"
+ The history of the war in the Paciﬁc falls neatly into three periods.",0.3120193600363622,31,0
+433,"
+ The ﬁrst six months of the war, from December 1941 to May 1942,
+ were a time of unbroken Japanese military victory. ",0.47648669003351585,31,2
+434,"At the-height of
+ Japanese expansion in mid-1942, the tide turned. ",0.31842855850520146,31,8
+435,"The period from
+ mid-1942 to mid-1943 saw Japanese strategic thrusts into the south
+ and central Paciﬁc blunted by the carrier battles of the Coral Sea 
+ (May 1942) and Midway (June 1942). ",0.506390454711273,31,2
+436,"Limited U.S. offensives in the
+ Solomons and in the Papuan area of eastern New Guinea were
+ launched in the last months of 1942. ",0.6025465934454307,31,12
+437,"Both offensives were begun on a
+ shoestring, and both came close to failure. ",0.3275920500285642,31,0
+438,"Yet they represented the
+ end of defeat in the Paciﬁc and the ﬁrst tentative steps toward victory.",0.38471557092373904,31,0
+439,"
+ Those steps became great leaps in 1944 and 1945. ",0.3949273114893934,31,11
+440,"Two amphibious of-
+ fensives developed, as MacArthur advanced across the northern coast
+ of New Guinea into the Philippines and Nimitz island-hopped 2,000
+ miles across the central Paciﬁc from the Gilbert Islands to Okinawa. ",0.5938141345918836,31,2
+441,"
+ Japan on the Offensive 
+ Japan, largely devoid of natural resources to-feed its industries,
+ looked overseas for supplies of strategic materials such as ores and
+ petroleum. ",0.5756240948299556,31,5
+442,"Before 1939 the United States was Japan’s major sup-
+ plier. ",0.3573255420234992,31,0
+443,"But President Roosevelt and Secretary of State Cordell Hull 
+ shut off American supplies in an effort to force the Japanese to end
+ hostilities against China. ",0.5509505537909061,31,4
+444,"The Japanese had long coveted the re-
+ source-rich British and Dutch colonies of Southeast Asia, and as the
+ U.S. trade embargo tightened, the Japanese increasingly looked 
+ southward for raw materials and strategic resources. ",0.6286811901605635,31,5
+445,"
+ Only the United States stood in Japan’s path. ",0.3603620330997327,31,5
+446,"The U.S. Paciﬁc
+ Fleet at Pearl Harbor was the only force capable of challenging 
+ Japan’s navy, and American bases in the Philippines could threaten
+ lines of communications between the Japanese home islands and the
+ East Indies. ",0.590199349662089,31,2
+447,"Every oil tanker heading for Japan would have to pass 
+ by American-held Luzon. ",0.3962827364573016,31,3
+448,"From these needs and constraints, Japan’s
+ 31
+ war plans emerged. ",0.6126277543045043,31,5
+449,"First, its navy would neutralize the American
+ fleet with a surprise attack on Pearl Harbor. ",0.4125032956369896,32,2
+450,"Japan would also seize
+ America’s central Pacific bases at Guam and Wake islands and in-
+ vade the Philippines. ",0.43559468433641063,32,3
+451,"With American naval power crippled, Japan’s
+ military would be free to seize Burma, Malaya, Singapore, and the
+ Dutch East Indies in a series of rapid amphibious operations. ",0.5049223512069656,32,2
+452,"Japan
+ would then establish a defensive ring around its newly conquered
+ empire by fortifying islands in the south and the central Pacific.",0.5552092611147629,32,2
+453,"
+ Japan’s leaders were convinced that Americans, once involved in the
+ European war, would be willing to negotiate peace in the Pacific. ",0.6039964928324624,32,5
+454,"
+ To block Japanese ambitions, the United States Army had scant
+ resources. ",0.6024075962109395,32,4
+455,"Two small forces constituted the heart of the American 
+ land defenses in the Paciﬁc—the garrison in the Territory of Hawaii
+ and General Douglas MacArthur’s command in the Commonwealth 
+ of the Philippines. ",0.5181685720794618,32,2
+456,"Both were peacetime organizations, whose days
+ were given to rounds of ceremonies, inspections, and languid train-
+ ing. ",0.628936932866171,32,11
+457,"Officers and their wives occupied evenings and weekends with
+ rounds of social activities and golf, while the soldiers enjoyed more
+ earthy pleasures in the bars and brothels of Honolulu or Manila. ",0.4696540085273589,32,7
+458,"
+ Yet these forces would face overwhelming odds in the event of
+ war. ",0.3669033802553816,32,12
+459,"The thousands of islands that comprised the Philippines lay 
+ 8,000 miles from the American west coast, but only 200 miles from
+ Japanese-held Formosa. ",0.49549193999110713,32,2
+460,"To defend them, General MacArthur had 
+ the equivalent of two divisions of regular troops—16,000 U.S. regu-
+ lars and 12,000 Philippine Scouts. ",0.44925652846311304,32,4
+461,He could call on additional thou-,0.3549334305499921,32,11
+462,"
+ sands of Philippine militia, but they were untrained and ill equipped.",0.3774336904343927,32,4
+463,"
+ Lt. Gen. Walter C. Short’s Hawaiian command held 43,000 Army
+ troops, including two infantry divisions, coast artillery, air corps, 
+ and support troops. ",0.6157762324926861,32,2
+464,"Thus, in ground forces, the United States had 
+ the equivalent of three divisions in the Paciﬁc to stand in the path of
+ the  Imperial Japanese Army . ",0.44630827156219344,32,9
+465,"
+ American strategists had developed two plans to counter possible
+ Japanese aggression—one for the Navy and another for the Army. ",0.6545676584943817,32,8
+466,"
+ The Navy planned to fight across the central Pacific for a climactic 
+ and decisive battle with the Japanese ﬂeet. ",0.5277078885601961,32,2
+467,"The Army saw no way to
+ save the Philippines and favored a strategic defense along an Alaska-
+ Hawaii-Panama line. ",0.5110902591988583,32,4
+468,"Writing off the Philippines, however, was po-
+ litically impossible, and as war drew closer frantic efforts were made
+ to strengthen the commonwealth’s defenses. ",0.5048458649129569,32,5
+469,"Both MacArthur and
+ Army Chief of Staff General George C. Marshall overestimated the
+ chances of their own forces and underestimated the strength and 
+ ability of the Japanese. ",0.6123587007162722,32,1
+470,"In particular, they grossly exaggerated the
+ 32
+ power of a new weapon, the B–17 “Flying Fortress” bomber, a few of
+ which were rushed to the Philippines in the last days of peace. ",0.5048873443594035,32,12
+471,"
+ All of the efforts proved to be too little, too late. ",0.4042874715790954,33,11
+472,"The Japanese
+ war plan worked to perfection. ",0.5340752039775898,33,8
+473,"On 7 December 1941, Japan paralyzed
+ the Paciﬁc Fleet in its attack on Pearl Harbor. ",0.38826033435369567,33,2
+474,"In the Philippines, Jap-
+ anese fliers destroyed most of MacArthur’s air force on the ground.",0.3617870860880219,33,2
+475,"
+ Freed of effective opposition, Japanese forces took Burma, Malaya,
+ Singapore, and the Dutch East Indies in rapid succession. ",0.49829800121245915,33,2
+476,"By March
+ 1942 the Japanese had conquered an empire. ",0.31354829496286857,33,4
+477,"Only MacArthur’s be-
+ leaguered American-Filipino army still held out on the main Philip-
+ pine island of Luzon. ",0.4692254883531448,33,2
+478,"
+ A Japanese army had landed in northern Luzon on 22 December
+ 1941 and began to push southward toward Manila. ",0.4870534395903361,33,2
+479,"At first, Mac-
+ Arthur was inclined to meet the Japanese on the beaches. ",0.3841051171467938,33,0
+480,"But he 
+ had no air force, and the U.S. Navy’s tiny Asiatic ﬂeet was in no po-
+ sition to challenge Japan at sea. ",0.3983598376057022,33,4
+481,"The U.S. regulars and Philippine
+ Scouts were excellent troops but were outnumbered and without air
+ support. ",0.4378743152162805,33,9
+482,"Giving up his initial strategy of defeating the enemy on the
+ beaches, MacArthur decided to withdraw to the Bataan Peninsula.",0.5044939864609468,33,7
+483,"
+ There he could pursue a strategy of defense and delay, shortening his
+ lines and using the mountainous, jungle-covered terrain to his advan-
+ tage. ",0.5892681018795092,33,11
+484,"Perhaps he could even hold out long enough for a relief force to
+ be mounted in the United States. ",0.4582306776113804,33,5
+485,"
+ But too many people crowded into Bataan, with too little food and
+ ammunition. ",0.35558223944922873,33,0
+486,"By March it was clear that help from the United States
+ was not coming. ",0.4824608649127337,33,11
+487,"Nevertheless, the American-Filipino force, wracked
+ by dysentery and malaria, continued to ﬁght. ",0.5736687573782557,33,4
+488,"In March President
+ Roosevelt ordered MacArthur to escape to Australia. ",0.42296142767891093,33,5
+489,"He left his 
+ command to Lt. Gen. Jonathan Wainwright and to Maj. ",0.3382658138909292,33,11
+490,"Gen. Edward
+ King, who on 9 April was forced to surrender the exhausted and 
+ starving Bataan force. ",0.4102943873159744,33,7
+491,"Wainwright continued to resist on the small for-
+ tiﬁed island of Corregidor in Manila Bay until 6 May under constant
+ Japanese artillery and air bombardment. ",0.5983960684988799,33,2
+492,"After Japanese troops
+ stormed ashore on the island, Wainwright agreed to surrender Cor-
+ regidor and all other troops in the islands. ",0.45734620688411187,33,3
+493,"By 9 May 1942, the battle
+ for the Philippines had ended, though many Americans and Filipinos
+ took to the hills and continued a guerrilla war against the Japanese. ",0.5804090825237661,33,10
+494,"
+ The courageous defense of Bataan had a sad and ignominious end.",0.3311704319708149,33,11
+495,"
+ Marching their prisoners toward camps in northern Luzon, the Japa-
+ nese denied food and water to the sick and starving men. ",0.47234144397113087,33,3
+496,"When the
+ weakest prisoners began to straggle, guards shot or bayoneted them
+ and threw the bodies to the side of the road. ",0.34264037556311683,33,1
+497,"Japanese guards may 
+ 33
+ have killed 600 Americans and 10,000 Filipino prisoners. ",0.3661501895966282,33,2
+498,"News of the
+ Japanese attack on Pearl Harbor had outraged the American people;
+ news of the “Bataan Death March” ﬁlled them with bitter hatred. ",0.45748353045596096,34,2
+499,"
+ By May 1942 the Japanese had succeeded beyond their wildest
+ expectations. ",0.33043464321001625,34,0
+500,"A vast new empire had fallen into their hands so 
+ quickly, and at so little cost, that they were tempted to go further. ",0.5945999231831658,34,11
+501,"If
+ their forces could move into the Solomon Islands and the southern
+ coast of New Guinea, they could threaten Australia and cut the
+ American line of communications to MacArthur’s base there. ",0.5093497653540896,34,2
+502,"If they
+ could occupy Midway Island, only 1,000 miles from Honolulu, they
+ could force the American ﬂeet to pull back to the west coast. ",0.44527766436358857,34,2
+503,"In Jap-
+ anese overconﬁdence lay the seeds of Japan’s ﬁrst major defeats. ",0.336201875692508,34,0
+504,"
+ The Tide Turns 
+ Japanese fortunes turned sour in mid-1942. ",0.31410366099909776,34,8
+505,"Their uninterrupted
+ string of victories ended with history’s first great carrier battles. ",0.31845281360279953,34,12
+506,"In
+ May 1942 the Battle of the Coral Sea halted a new Japanese offen-
+ sive in the south Paciﬁc. ",0.4298388788475571,34,2
+507,"A month later the Japanese suffered a dev-
+ astating defeat at the Battle of Midway in the central Pacific. ",0.4237506916893452,34,2
+508,"Now
+ American and Australian forces were able to begin two small coun-
+ teroffensives—one in the Solomons and the other on New Guinea’s
+ Papuan peninsula. ",0.4860417256930381,34,8
+509,"The first featured the Marine Corps and the 
+ Army; the second, the Army and the Australian Allies. ",0.36365402068127123,34,4
+510,"
+ American resources were indeed slim. ",0.5523952360876858,34,0
+511,"When MacArthur arrived 
+ in Australia in March 1942, he found, to his dismay, that he had little
+ to command. ",0.4155776537325502,34,3
+512,"Australian militia and a few thousand U.S. airmen and
+ service troops were his only resources. ",0.5366197352258881,34,3
+513,"The Australian 7th Division
+ soon returned from North Africa, where it had been ﬁghting the
+ Germans, and two U.S. National Guard divisions, the 32d and the 
+ 41st, arrived in April and May. ",0.5111606933249706,34,2
+514,"MacArthur had enough planes for 
+ two bomber squadrons and six ﬁghter squadrons. ",0.2928295293831254,34,12
+515,"With only these
+ forces, he set out to take Papua, while Admiral Nimitz, with forces
+ almost equally slim, attacked Guadalcanal in the Solomon Islands. ",0.5150433801421614,34,3
+516,"
+ Of all the places where GIs fought in the Second World War,
+ Guadalcanal and the Papuan peninsula may have been the worst.
+ Though separated by 800 miles of ocean, the two were similarly un-
+ healthful in terrain and climate. ",0.4251668445154889,34,12
+517,"The weather on both is perpetually hot
+ and wet; rainfall may exceed 200 inches a year, and during the rainy sea-
+ son deluges, sometimes 8 to 10 inches of rain, occur daily. ",0.4519484357177648,34,0
+518,"Temperatures
+ in December reach the high eighties, and humidity seldom falls below 80
+ percent. ",0.39199488645120006,34,11
+519,"Terrain and vegetation are equally foreboding—dark, humid,
+ 34
+ jungle-covered mountains inland, and evil-smelling swamps along the
+ coasts. ",0.427700593345006,34,0
+520,Insects abound. ,0.19847444276829343,35,11
+521,"The soldiers and marines were never dry; most
+ fought battles while wracked by chills and fever. ",0.3069606155403616,35,12
+522,"For every two soldiers
+ lost in battle, five were lost to disease—especially malaria, dengue,
+ dysentery, or scrub typhus, a dangerous illness carried by jungle mites.",0.4139832371478891,35,12
+523,"
+ Almost all suffered “jungle rot,” ulcers caused by skin disease. ",0.3081041600667586,35,0
+524,"
+ Guadalcanal lay at the southeast end of the Solomons, an island
+ chain 600 miles long. ",0.4441090138119619,35,3
+525,"Navy carriers and other warships supported 
+ the landings, but they could not provide clear air or naval superior-
+ ity. ",0.5916778464196334,35,0
+526,"The marines landed on 7 August 1942, without opposition, and
+ quickly overran an important airfield. ",0.585193160854824,35,7
+527,"That was the last easy action 
+ on Guadalcanal. ",0.7057794690132141,35,11
+528,"The carriers sailed away almost as soon as the
+ marines went ashore. ",0.3384604651769144,35,7
+529,"Then Japanese warships surprised the sup-
+ porting U.S. naval vessels at the Battle of Savo Island and quickly 
+ sank four heavy cruisers and one destroyer. ",0.4476185205212834,35,2
+530,"Ashore, the  Japanese
+ 35
+ “Bringing in the Ammo” by Joseph Hirsch. ",0.3222712409840555,35,0
+531,"At Rendova in the
+ Solomons, landing craft went aground in shallow water ﬁfty feet off-
+ shore, forcing troops to wade ashore with equipment and ammunition.",0.4491035213143157,35,12
+532,"
+ (Army Art Collection)
+ Army  fought furiously to regain the airfield. ",0.3443417923155776,35,4
+533,"Through months of 
+ fighting the marines barely held on; some American admirals even
+ thought that the beachhead would be lost. ",0.45232284118185356,36,1
+534,"But gradually land-based
+ aircraft were ferried in to provide air cover, and the Navy was able 
+ to return. ",0.6363630065544108,36,11
+535,"As the Japanese continued to pour men into the fight,
+ Guadalcanal became a battle of attrition. ",0.5079903469858318,36,9
+536,"
+ Slowly American resources grew, while the Japanese were in-
+ creasingly unable to make up their losses. ",0.7025636115020129,36,8
+537,"In October soldiers of the
+ Americal Division joined the battle; in November the Navy won a
+ smashing victory in the waters offshore; and in early 1943 the 
+ Army’s 25th Infantry Division was committed as well. ",0.4776130277780625,36,2
+538,"Soldiers now
+ outnumbered marines, and the ground forces were reorganized as 
+ the XIV Corps, commanded by Army Maj. ",0.4067641572383536,36,2
+539,"Gen. Alexander M. 
+ Patch. ",0.2809964898370928,36,0
+540,"As the Japanese lost the ability to supply their forces, enemy
+ soldiers began to starve in the jungles. ",0.4150929663456868,36,9
+541,"But not until February—six
+ months after the initial landing—was Guadalcanal ﬁnally secured. ",0.4757656850003255,36,0
+542,"
+ Meanwhile, 800 miles to the west on the eastern peninsula of New
+ Guinea, another shoestring offensive began. ",0.4388438961724913,36,10
+543,"Even after the Battle of
+ the Coral Sea, the Japanese persisted in their efforts to take Port
+ Moresby, a strategic town on New Guinea’s southern coast. ",0.5333911444294427,36,2
+544,"In late July
+ 1942 they landed on the north coast of the huge, mountainous island
+ and began to make their way south toward Port Moresby, across the
+ towering Owen Stanley Mountains. ",0.6245203606369648,36,2
+545,"Almost impassable in normal cir-
+ cumstances, the trail they followed was a quagmire under constant
+ rain. ",0.47931698832934155,36,11
+546,"Supply became impossible; food ran short; fever and dysentery set
+ in. ",0.5326728019469555,36,11
+547,"Defeated just short of their goal by Australian defenses, the Japa-
+ nese retreated. ",0.4143021004082076,36,8
+548,"Meanwhile, MacArthur had decided to launch a coun-
+ teroffensive against the fortified town of Buna and other Japanese-
+ held positions on the northern coast. ",0.45928480365867747,36,2
+549,"He sent portions of the Australian
+ 7th and U.S. 32d Divisions over the same mountainous jungle tracks
+ earlier used by the Japanese. ",0.48992992720095163,36,0
+550,The result was the same. ,0.40487364044978436,36,11
+551,"By the time his
+ troops reached the northern coast, they were almost too debilitated to
+ ﬁght. ",0.45659018017044645,36,8
+552,"Around Buna and the nearby village of Gona the Japanese holed
+ up in coconut-log bunkers that were impervious to small-arms and 
+ mortar ﬁre. ",0.38603195230478293,36,3
+553,"The Americans lacked artillery, ﬂamethrowers, and tanks.",0.31971011046236886,36,12
+554,"
+ While they struggled to dig the defenders out, malnutrition, fever, and
+ jungle rot ravaged the troops. ",0.33380669827501913,36,6
+555,"Like the troops on Guadalcanal, the
+ Aussies and the men of the 32d barely held on. ",0.36550623688437106,36,12
+556,"
+ The Japanese also faced serious problems. ",0.4329675547610189,36,0
+557,"Their commanders 
+ had to choose between strengthening Guadalcanal or Buna. ",0.37259375621012936,36,11
+558,"Choos-
+ ing Guadalcanal, they withdrew some support from the Buna garri-
+ son. ",0.36525957336882037,36,0
+559,"Growing American air power made it impossible for the Japa-
+ 38
+ nese Navy to resupply their forces ashore, and their troops began to
+ run short of food and ammunition. ",0.5059338531628247,36,9
+560,"By December they were on the
+ edge of starvation. ",0.2635083445914285,37,11
+561,"Here the battle of  attrition lasted longer, and not
+ until January 1943 was the last Japanese resistance eliminated. ",0.5554914579455523,37,8
+562,"
+ Buna was costlier in casualties than Guadalcanal, and in some re-
+ spects it was an even nastier campaign. ",0.23341881036758422,37,12
+563,"The terrain was rougher; men
+ who crossed the Owen Stanleys called that march their toughest expe-
+ rience of the war. ",0.3841901317125611,37,1
+564,"The Americans lacked almost everything necessary
+ for success—weapons, proper clothing, insect repellents, and adequate
+ food. ",0.5528816846336229,37,11
+565,"“No more Bunas,” MacArthur pledged. ",0.23684648772089176,37,0
+566,"For the rest of the war
+ his policy was to bypass Japanese strongpoints. ",0.40295936618126077,37,8
+567,"When the battles for
+ Guadalcanal and Buna began, the Americans had insufﬁcient strength
+ to win. ",0.3405472113813855,37,12
+568,American strength increased as the battle went on. ,0.5388829121684853,37,9
+569,"Over the
+ next three years it would grow to overwhelming proportions. ",0.3468459335914068,37,11
+570,"
+ Twin Drives to American Victory 
+ As late as 1943 the American Joint Chiefs of Staff had not adopted
+ a clear strategy for winning the war in the Paciﬁc. ",0.6414548283049123,37,5
+571,"Early in the war they
+ assumed that the burden of the land ﬁghting against Japan would fall 
+ on Chinese forces. ",0.44847958392092113,37,9
+572,"The bulk of Japan’s army was deployed in China, 
+ and Chinese leaders had an immense manpower pool to draw on. ",0.5058371972391837,37,4
+573,"But
+ supplying and training the Chinese Army proved to be an impossible
+ task. ",0.7309352279719693,37,1
+574,"Moreover, ﬁghting in China did not lead to any strategic objective. ",0.7004205990719005,37,11
+575,"
+ Instead, the hard-won successes in the Solomons and Papua and
+ the growing strength of MacArthur’s and Nimitz’s forces gave the Joint
+ Chiefs the means to strike at the Japanese in the Paciﬁc. ",0.5281265586609439,37,9
+576,"They decided 
+ to launch two converging offensives toward the Japanese islands. ",0.3228352986761141,37,3
+577,"
+ Using Army ground forces, land-based air power, and a fleet of old 
+ battleships and cruisers, MacArthur would leapfrog across the north-
+ ern coast of New Guinea toward the Philippines. ",0.6083243351922167,37,2
+578,"Nimitz, using carrier-
+ based planes and Marine and Army ground forces, would island-hop
+ across the central Paciﬁc. ",0.5135063961414444,37,1
+579,"The strategy was frankly opportunistic, and 
+ it left unanswered the questions of priorities and ﬁnal objectives. ",0.4673324805198589,37,11
+580,"
+ At the heart of the strategy were the developing techniques of
+ amphibious warfare and tactical air power. ",0.5900857353023979,37,0
+581,"Putting troops ashore in 
+ the face of a determined enemy had always been one of war’s most
+ dangerous and complicated maneuvers. ",0.44212310888314754,37,9
+582,"World War II proved that 
+ the assault force needed air and sea supremacy and overwhelming
+ combat power to be successful. ",0.5299257224568064,37,9
+583,"Even then, dug-in defenders could 
+ take a heavy toll of infantry coming over the beaches. ",0.35986967683097804,37,6
+584,"Special land-
+ ing craft had to be built to bring tanks and artillery ashore with the
+ 39
+ infantry, and both direct air support and effective naval gunﬁre were
+ essential. ",0.7376965526662306,37,1
+585,"MacArthur’s leaps up the northern coast of New Guinea
+ were measured precisely by the range of his fighter-bombers. ",0.5659582019755901,38,8
+586,"The 
+ primary task of Nimitz’s carriers was to support and defend the 
+ landing forces. ",0.6219222765730144,38,3
+587,"As soon as possible after the landings, land-based
+ planes were brought in to free the carriers for other operations. ",0.46626245939233424,38,0
+588,"
+ The islands of the central Paciﬁc had little resemblance to the fetid
+ jungles of Guadalcanal and New Guinea. ",0.4064048117041149,38,5
+589,"Atolls like Tarawa or Kwa-
+ jalein were necklaces of hard coral surrounding lagoons of sheltered
+ water. ",0.3251361868807114,38,11
+590,"Where the coral rose above water, small narrow islands took
+ form. ",0.46495418360370144,38,0
+591,"These bits of sand furnished little room for maneuver and fre-
+ quently had to be assaulted frontally. ",0.39141007218366314,38,0
+592,"Larger islands like Guam and
+ Saipan were volcanic in origin, with rocky ridges to aid the defense; the
+ shrapnel effect of shell bursts was multiplied by bits of shattered rock. ",0.4980006566624549,38,0
+593,"
+ 40
+ “Pim’s Jetty” by Frede Vida. ",0.0,38,-1
+594,"The logistics of MacArthur’s leaps up
+ the New Guinea coast sometimes posed greater difﬁculties than did the
+ Japanese defenders. ",0.5569644175492929,38,8
+595," (Army Art Collection)
+ ",0.2964570353632376,38,11
+596,"In November 1943 Nimitz’s island-hopping campaign began with
+ his assaults on Betio in the Tarawa Atoll and at Makin a hundred 
+ miles north. ",0.4018291866693663,39,2
+597,It was a costly beginning. ,0.7508217841380214,39,11
+598,"Elements of the Army’s 27th
+ Infantry Division secured Makin with relative ease, but at Betio the 
+ 2d Marine Division encountered stubborn and deadly resistance. ",0.5000665816878999,39,1
+599,"
+ Naval gunﬁre and air attacks had failed to eliminate the deeply dug-
+ in defenders, and landing craft grounded on reefs offshore, where 
+ they were destroyed by Japanese artillery. ",0.5658627619026814,39,6
+600,"As costly as it was, the
+ lessons learned there proved useful in future amphibious opera-
+ tions. ",0.6325609693862889,39,11
+601,"Like MacArthur, Nimitz determined to bypass strongly held
+ islands and strike at the enemy’s weak points. ",0.4762410233466955,39,3
+602,"
+ During January 1944 landings were made in the Marshalls at
+ Kwajalein and Eniwetok followed by Guam and Saipan in the Mar-
+ ianas during June and July. ",0.49771856952266164,39,11
+603,"Because the Marianas were only 1,500
+ miles from Tokyo, the remaining Japanese carriers came out to 
+ ﬁght. ",0.38383154583962154,39,8
+604,"The resulting Battle of the Philippine Sea was a disaster for 
+ the Japanese. ",0.3817950417968076,39,2
+605,"In what U.S. Navy pilots called “the great Marianas
+ turkey shoot,” Japanese carrier power was effectively eliminated. ",0.5408815443333692,39,8
+606,"
+ Almost as soon as the Marianas were cleared, the air forces
+ began to prepare airfields to receive new heavy bombers, the B–29s.
+ ",0.5776249978594742,39,1
+607,"With a range exceeding 3,000 miles, B–29s could reach most Japa-
+ nese cities, including Tokyo. ",0.5578204837235704,39,0
+608,"In November 1944 the Twentieth Air
+ Force began a strategic bombing campaign against Japan, which in-
+ directly led to one of the bitterest island fights of the war. ",0.5104846624185392,39,2
+609,"Tiny Iwo
+ Jima, lying 750 miles southeast of Tokyo, was needed both as an
+ auxiliary base for crippled B-29s returning from their bombing raids
+ over Japan and as a base for long-range escort fighters. ",0.5508438570927712,39,12
+610,"The fight for
+ the five-mile-long island lasted five weeks, during February and
+ March 1945, and cost more than 25,000 dead—almost 6,000 Amer-
+ icans of the 4th and 5th Marine Divisions and 20,000 Japanese. ",0.6202369494874163,39,2
+611,"
+ While Nimitz crossed the central Paciﬁc, MacArthur pushed along
+ the New Guinea coast, preparing for his return to the Philippines.",0.5585943355534359,39,8
+612,"
+ Without carriers, his progress was slower but less costly than Nimitz’s.",0.6272738304430547,39,11
+613,"
+ After clearing the Buna area in January 1943, MacArthur spent the
+ next year conquering northeastern New Guinea and the eight months
+ that followed moving across the northern coast of Netherlands New
+ Guinea to the island of Morotai. ",0.6494268967613993,39,2
+614,"Because he had to cover his landings
+ with land-based planes, he was limited to bounds of 200 miles or less
+ on a line of advance almost 2,000 miles long. ",0.6041955621428722,39,0
+615,"Furthermore, he had to
+ build airﬁelds as he went. ",0.5427901637966808,39,0
+616,"By October 1944 MacArthur was ready for
+ a leap to the Philippines, but this objective was beyond the range of 
+ his planes. ",0.44025174630289915,39,4
+617,"Nimitz loaned him Admiral William F. Halsey’s heavy car-
+ 41
+ riers, and, on 20 October 1944, MacArthur’s Sixth Army landed on
+ Leyte Island in the central Philippines. ",0.490371862902256,39,2
+618,"
+ The Japanese reacted vigorously. ",0.2595904705411808,40,8
+619,"For the ﬁrst time in the war they
+ employed Kamikaze attacks, suicide missions ﬂown by young, half-
+ trained pilots. ",0.576226993006492,40,12
+620,"And they used their last carriers as decoys to draw
+ Halsey’s carriers away from the beachheads. ",0.3996706911358127,40,11
+621,"With Halsey out of the
+ battle and the landing forces without air cover, the Japanese planned 
+ to use conventional warships to brush aside the remaining American
+ warships and destroy the support vessels anchored off the beaches.",0.6984156496030621,40,2
+622,"
+ They almost succeeded. ",0.19592781458481887,40,0
+623,"In the naval Battle of Leyte Gulf, the big guns
+ of the big ships, not carrier planes, decided the battle. ",0.4000359837546516,40,12
+624,"The Japanese
+ naval forces were decimated. ",0.334656858075592,40,2
+625,Japan no longer had an effective navy. ,0.34686194376843016,40,0
+626,"
+ As violent as they were, most island fights involved small units
+ and were mercifully short. ",0.5209876068262638,40,0
+627,"However, the last two major campaigns 
+ of the Paciﬁc war—Luzon and Okinawa—took on some of the char-
+ acter of the war in Europe. ",0.4293992464172953,40,2
+628,"They were long fights on larger land 
+ masses, with entire armies in sustained combat over the course of 
+ 42
+ “All Aboard for Home” by Joseph Hirsch. ",0.5712366838115926,40,4
+629,"Despite wartime increases,
+ Allied sealift capability remained inadequate to return Army forces
+ home as fast as they would have liked. ",0.6328651899629847,40,12
+630,"       (Army Art Collection)
+ several months. ",0.4060151635264406,40,11
+631,"Japanese defenders on Luzon numbered 262,000
+ under Lt. Gen. Tomoyuki Yamashita, perhaps the best field com-
+ mander in the  Japanese Army . ",0.4579396852652095,41,2
+632,"Yamashita refused an open battle,
+ knowing that superior firepower and command of the air would 
+ favor the Americans. ",0.4219039497261692,41,1
+633,"Instead, he prepared defensive positions 
+ where his forces could deny the Americans strategic points like 
+ roads and airfields. ",0.6487928737998845,41,6
+634,"He wanted to force the Americans to attack
+ Japanese positions in a new battle of attrition. ",0.4338708080929234,41,10
+635,"
+ His plan worked. ",0.6265854263649502,41,11
+636,"MacArthur’s Sixth Army under Lt. Gen. Wal-
+ ter Krueger landed on Luzon on 9 January 1945 and began the 
+ Army’s longest land campaign in the Pacific. ",0.451635530130581,41,2
+637,"MacArthur’s forces
+ fought for almost seven months and took nearly 40,000 casualties
+ before ﬁnally subduing the Japanese. ",0.48524221817220886,41,9
+638,"
+ The largest landings of Nimitz’s central Paciﬁc drive were carried
+ out on Okinawa, only 300 miles from Japan, on 1 April 1945. ",0.4099313703431038,41,3
+639,"Before
+ the ﬁght was over three months later, the entire Tenth Field Army—
+ four Army infantry divisions and two Marine divisions—had been
+ deployed there. ",0.49037649603918093,41,1
+640,"Like his counterpart on Luzon, the Japanese com-
+ mander on Okinawa, Lt. Gen. Mitsuru Ushijima, refused to ﬁght on
+ the beaches and instead withdrew into the rocky hills to force a bat-
+ tle of attrition. ",0.48493465081368897,41,2
+641,Again the strategy worked. ,0.36460739993476604,41,11
+642,"U.S. casualties were stag-
+ gering, the largest of the Paciﬁc war. ",0.26865597361709087,41,12
+643,"Over 12,000 American soldiers,
+ sailors, and marines died during the struggle. ",0.33094867735363115,41,7
+644,"At Okinawa the Japa-
+ nese launched the greatest Kamikaze raids of the war, and the results
+ were frightening—26 ships sunk and 168 damaged. ",0.4896145953436974,41,12
+645,"Almost 40 per-
+ cent of the American dead were sailors lost to Kamikaze attacks. ",0.35991782508055026,41,12
+646,"
+ When the Luzon and Okinawa battles ended in July, the invasion
+ of the southernmost Japanese island of Kyushu had already been or-
+ dered by the Joint Chiefs. ",0.46824102744652124,41,2
+647,The date was set for 1 November 1945.,0.6798039970324106,41,11
+648,"
+ Kyushu would furnish air and naval bases to intensify the air bom-
+ bardment and strengthen the naval blockade around Honshu, the 
+ main island of Japan. ",0.49654050694400703,41,3
+649,"A massive invasion in the Tokyo area was 
+ scheduled for 1 March 1946 if Japanese resistance continued. ",0.7303608720564286,41,2
+650,"With 
+ the Okinawa experience fresh in their minds, many planners feared
+ that the invasion of Japan would produce a bloodbath. ",0.41367192648918316,41,8
+651,"
+ In fact, Japan was already beaten. ",0.3191570475717156,41,5
+652,"It was defenseless on the seas; its
+ air force was gone; and its cities were being burned out by incendiary
+ bombs. ",0.39224341212243513,41,2
+653,"The atomic bombings of Hiroshima and Nagasaki on 6 and 9
+ August and the Soviet declaration of war on 8 August forced the lead-
+ ers of Japan to recognize the inevitable. ",0.5363861726369866,41,9
+654,"On 15 August 1945, Emperor
+ Hirohito announced Japan’s surrender to the Japanese people and
+ ordered Japanese forces to lay down their arms. ",0.45210137308220827,41,2
+655,"Despite their earlier 
+ 43
+ suicidal resistance, they immediately did so. ",0.37450130675925464,41,11
+656,"With V–J Day—2 Septem-
+ ber 1945—the greatest war in human history came to an end. ",0.39190263566885225,42,4
+657,"
+ Aftermath 
+ The United States emerged from the war with global military
+ commitments that included the occupation of Germany and Japan 
+ and the oversight of Allied interests in liberated areas. ",0.6759780827652648,42,5
+658,"Almost 13 
+ million Americans were in uniform at the end of the war; over 8 mil-
+ lion of them were soldiers. ",0.4186907862228581,42,4
+659,"But the impulse was strong to follow the
+ patterns of the past and dismantle this force. ",0.5631624348113604,42,11
+660,"Families pressed the 
+ government to “bring the boys home,” and soldiers overseas de-",0.3557477894712485,42,0
+661,"
+ manded the acceleration of the separation process. ",0.3616740446581679,42,11
+662,"American 
+ monopoly of the atomic bomb seemed to furnish all the power that
+ American security interests needed. ",0.5423868931260452,42,0
+663,"Some air power advocates even
+ argued that the bomb made armies and navies obsolete. ",0.3835452398716012,42,4
+664,"
+ President Roosevelt had died in April 1945, on the eve of victory.",0.36720056918925703,42,4
+665,"
+ ",0.0,42,-1
+666,"The new President, Harry S. Truman, and his advisers tried to resist
+ the political pressures for hasty demobilization. ",0.6024632384606389,42,5
+667,"Truman wanted to
+ retain a postwar Army of 1.5 million, a Navy of 600,000, and an Air
+ Force of 400,000. ",0.49186301402159965,42,1
+668,"But neither Congress nor the American public 
+ was willing to sustain such a force. ",0.7260969932314907,42,5
+669,"Within ﬁve months of V–J Day,
+ 8.5 million servicemen and women had been mustered out, and in
+ June of the following year only two full Army divisions were avail-
+ able for deployment in an emergency. ",0.685630479434392,42,0
+670,"By 1947 the Army numbered 
+ a mere 700,000—sixth in size among the armies of the world. ",0.3876191243439787,42,4
+671,"
+ Yet too much had changed for the Army to return to its small 
+ and insular prewar status. ",0.5963833661098711,42,11
+672,"Millions of veterans now remembered
+ their service with pride. ",0.262728519220257,42,11
+673,"The beginning of the Cold War, especially
+ the Berlin blockade of 1948, dramatically emphasized the need to
+ remain strong. ",0.5501179146143691,42,5
+674,"The Army had become too deeply intertwined with
+ American life and security to be reduced again to a constabulary
+ force. ",0.6037954087575677,42,4
+675,"Moreover, the time was not far off when new conflicts would
+ demonstrate the limits of atomic power and prove that ground ",0.6445673340746491,42,11
+676,"
+ forces were as necessary as they had been in the past. ",0.4965626485694358,42,11
+677,"
+ 44
+ Further Readings 
+ Despite its age, Charles B. MacDonald’s  The Mighty Endeavor:
+ American Armed Forces in the European Theater in World War II
+ (1969) remains a sound, informative, and highly readable survey of 
+ the American role in the war in Europe. ",0.54776674680453,42,4
+678,"For the interwar Army, 
+ I. B. Holley, jr.’s  General John M. Palmer, Citizen Soldiers and the
+ Army of a Democracy  (1982) is good for the early years. ",0.5554674074417213,43,4
+679,"Palmer was
+ the architect of the National Defense Act of 1920. ",0.5618544117140476,43,11
+680,"D. Clayton 
+ James’  The Years of MacArthur: Volume 1, 1880–1941  (1970), looks
+ at the interwar Army in terms of the man who dominated it in the
+ 1930s, while Forrest Pogue’s  George C. Marshall, Volume 1: Educa-
+ tion of a General, 1880–1939  (1963), focuses on the man who over-
+ saw its transformation into a powerful, modern mass army. ",0.6306858705664401,43,4
+681,"Volume 
+ 2:  Ordeal and Hope, 1939–1945  (1986), and Volume 3:  Organizer of
+ Victory, 1943–1945  (1973), are the best sources on the War Depart-
+ ment and the General Staff and cover an enormous range of topics
+ from strategy and logistics to personalities. ",0.6740801377649696,43,11
+682,"
+ Len Deighton’s  Blitzkrieg: From the Rise of Hitler to the Fall of
+ Dunkirk  (1980) is a popular, semijournalistic account that places
+ German tactical and operational innovations in the context of in-
+ terwar  German Army  politics and the Nazi rise to power and also 
+ discusses the relationship between tactics, equipment, and organi-
+ zation in a nontechnical way. ",0.5870179223792746,43,4
+683," Fire-Power: British Army Weapons 
+ and Theories of War, 1904–1945  (1982), by Shelford Bidwell and
+ Dominick Graham, is a seminal and important book, tracing 
+ changes in military doctrine from the perspective of the artillery 
+ arm from World War I through World War II. ",0.5994676582687887,43,4
+684,"Bidwell and Graham
+ analyze the origins of  Blitzkrieg  tactics and  panzer  organizations 
+ and the evolution of indirect artillery ﬁre and their impact on war. ",0.5854061481013315,43,4
+685,"
+ W. G. F. Jackson’s  Battle for North Africa, 1940–1943  (1975), is re-
+ liable, and Martin Blumenson’s  Kasserine Pass  (1967) can be supple-
+ mented by Ralph Ingersoll’s  The Battle Is the Pay-off  (1943). ",0.4549988856512288,43,0
+686,"Written
+ in the immediate aftermath of the Kasserine Pass debacle by a jour-
+ nalist-captain who accompanied the Rangers on their raid against the
+ Italian-held pass at El Guettar, it has the gritty immediacy of a con-
+ 45
+ temporary ﬁrst-person account and ends with an impassioned plea for
+ tougher physical conditioning and more realistic training. ",0.6021810045031623,43,0
+687,"
+ A useful antidote to grand theoretical speculations about the
+ nature of war is John Ellis’  The Sharp End: ",0.42959608240899616,44,0
+688,"The Fighting Man in
+ World War II  (1980). ",0.3189315364931111,44,4
+689,"Using a vast array of first-person accounts, 
+ Ellis focuses on the experience of frontline combat in both theaters.",0.6182860175941937,44,11
+690,"
+ Ellis has also written  Cassino: Hollow Victory  (1984), a gripping 
+ and critical account of Allied attempts to break through the moun-
+ tains of central Italy, an effort which, the author believes, was crip-
+ pled by a self-serving and inept Allied high command. ",0.6147029917415844,44,5
+691,"Useful com-
+ panions are Wyford Vaughan-Thomas’  Anzio  (1961) and ",0.29284727008392497,44,11
+692,"Martin
+ Blumenson’s  Anzio: The Gamble That Failed  (1963). ",0.27725301690935983,44,0
+693,"
+ Max Hastings’ Overlord:  D-Day and the Battle for Normandy
+ (1984) is among the best of the new books on the invasion. ",0.40118248332781353,44,7
+694,"A care-
+ ful and skilled journalist, Hastings asks why it took so long for the
+ Allies to break out of the beachhead. ",0.43752823435968097,44,8
+695,"He finds the flawed perfor-
+ mance of the citizen armies of Britain and the United States at fault,
+ when compared to the skill and proﬁciency of the Germans. ",0.5312168448555029,44,0
+696,"Russell 
+ F. Weigley, in  Eisenhower’s Lieutenants: The Campaign of France 
+ and Germany, 1944–1945  (1986), asks similar questions about
+ American combat performance and advances a provocative thesis, 
+ suggesting that the U.S. Army never reconciled its two conflicting 
+ heritages—that of the frontier constabulary, with its emphasis on
+ mobility, and that of U. S. Grant’s direct power drive in the Civil 
+ War. ",0.8281418445951658,44,9
+697,"Thus, U.S. combat formations in World War II were struc-
+ tured for mobility, while American strategy and operations called 
+ for head-on confrontations with the center of enemy strength. ",0.522709095248665,44,9
+698,"
+ Ralph F. Bennett’s  ULTRA in the West: The Normandy Cam-
+ paign, 1944–1945  (1980), heavily based on the original, declassiﬁed
+ decrypts, is sound on U LTRA ’ S  impact on the land campaign. ",0.48964165284762945,44,0
+699,"Charles
+ B. MacDonald’s  A Time for Trumpets: The Untold Story of the Bat-
+ tle of the Bulge  (1985) updates earlier accounts of the German Ar-
+ dennes offensive with the latest available information about the Al-
+ lied intelligence failure, while his  Company Commander  (1978) is 
+ still one of the most moving and honest first-person accounts of 
+ small-unit command responsibility available. ",0.6806043376936293,44,1
+700,"(MacDonald was one 
+ of the youngest captains in the Army in 1944 when his company was
+ hit and overrun in the ﬁrst hours of the German offensive.) ",0.5245316200572995,44,6
+701,"
+ Stephen Ambrose’s  Supreme Commander: The War Years of Gen-
+ eral Dwight D. Eisenhower  (1970) is a judicious and balanced assess-
+ ment of Eisenhower from his arrival in Washington in December 
+ 1941 through the German surrender in May 1945. ",0.578891339556846,44,4
+702,"Omar N. Bradley’s
+ 46
+ and Clay Blair’s  A General’s Life  (1983) is a far more partisan biog-
+ raphy of the so-called G.I. General, which provides a sometimes dis-
+ concerting glimpse of the internal tensions and disagreements within
+ the Allied high command in Europe. ",0.5774222774270656,44,5
+703,"It should be balanced with Nigel
+ Hamilton’s exhaustive, but also pugnaciously partisan three-volume
+ biography, Monty:  The Making of a General, 1887–1942  (1981),
+ Monty: Master of the Battleﬁeld, 1942–1944  (1983), and  Monty: Final
+ Years of the Field-Marshal, 1944–1976  (1987), and all can be supple-
+ mented by the fairly reliable ofﬁcial histories produced by the Amer-
+ ican and British military services in the postwar period. ",0.6713494152927868,45,4
+704,"
+ Two general histories provide excellent surveys of the Paciﬁc war,
+ from the causes to the conclusion. ",0.8281522973051361,45,11
+705,"John Toland’s  The Rising Sun,
+ 1936–1945  (1971), views the war from the Japanese perspective and
+ focuses on the war’s causes, Japanese war plans, and the early victo-
+ rious campaigns from the vantage point of Japan’s military leadership.",0.7576565406127665,45,5
+706,"
+ A counterpart volume is  Eagle Against the Sun  (1985) by Ronald H.
+ Spector. ",0.2951729808254135,45,11
+707,"Like Toland, Spector covers the entire conﬂict but views the
+ war from the American perspective. ",0.4334470996471716,45,11
+708," Eagle Against the Sun  may be the
+ best single-volume survey of the Paciﬁc war yet written. ",0.4675600770427154,45,11
+709,"
+ The historical literature on Pearl Harbor and the ﬁrst six months of
+ the war in the Pacific is voluminous—so vast that readers must be
+ especially careful in their selections. ",0.5115773423709186,45,0
+710,"Perhaps the best picture of life 
+ in the prewar army is found in James Jones’ ﬁctional  From Here to
+ Eternity  (1985). ",0.41892334573487244,45,11
+711,"The subject of Pearl Harbor has produced countless
+ pages of description and analysis, but much is of interest only to pro-
+ fessional historians and specialists in the subject. ",0.583226630442873,45,11
+712,"Two books of spe-
+ cial value to the general reader are Walter Lord’s  Day of Infamy
+ (1957) and Gordon Prange’s  At Dawn We Slept  (1982). ",0.44893690219885146,45,11
+713," Day of In-
+ famy  begins in the predawn hours and details the fascinating, dra-
+ matic events of the day the Japanese attacked Pearl Harbor. ",0.4631480908100762,45,0
+714,"The 
+ book is short, and Lord writes in a clear, journalistic style. ",0.33295886435305283,45,11
+715," At Dawn
+ ",0.16128769947495583,45,0
+716,"We Slept  is a more complete and exhaustive book on the attack, the
+ events leading to it, and the surrounding controversies. ",0.543166890878479,45,11
+717,"Although 
+ the book is over 700 pages long, the style is readable, the story in-
+ teresting, and the treatment complete. ",0.5403702333320716,45,11
+718,"If a student can read only one
+ book on Pearl Harbor, Prange’s work is the logical choice. ",0.43227881622898134,45,11
+719,"
+ The best single-volume survey of the ﬁrst six months in the Pa-
+ cific after Pearl Harbor is John Toland’s  But Not in Shame  (1961),
+ which relates the story of defeat in the Pacific with a true sense of
+ heroism and tragedy. ",0.5581808268062739,45,0
+720,"Included are the American defeats at Pearl
+ Harbor, Bataan, Corregidor, and Wake Island, and the Allied fail-
+ ures in the Dutch East Indies and Singapore. ",0.5552804322854129,45,3
+721,"Stanley Falk’s  Bataan: 
+ 47
+ March of Death  (1984) is a moving and unbiased account of one of 
+ the most emotional subjects in American military history. ",0.43982714518106203,45,4
+722,"
+ The battles for Guadalcanal and for Buna went on simultane-
+ ously, but Guadalcanal received far more attention from the Ameri-
+ can press at the time and from historians since that date. ",0.5704423567879399,46,0
+723,"However, the
+ quality of the works on Guadalcanal varies greatly. ",0.6332391606890131,46,11
+724,"An older but reli-
+ able account is  The Battle for Guadalcanal  (1979) by Samuel B. Grif-
+ fith II, which can be supplemented by Richard Tregaskis’  Guadal-
+ canal Diary  (1984), a classic in war reporting that came out of the
+ fighting on Guadalcanal. ",0.47874341539567805,46,4
+725,"For the Papua Campaign, Lida Mayo’s
+ Bloody Buna  (1979) not only chronicles the battles but also effectively
+ conveys the nightmarish qualities of fighting in New Guinea—the 
+ constant rain, the disease, the lack of proper food and equipment, and
+ the constant threat of death from the Japanese or from the jungle. ",0.5590716111608084,46,9
+726,"
+ Hundreds, if not thousands, of books have been written on the
+ campaigns that produced victory over Japan in the Paciﬁc war. ",0.42225669100888086,46,4
+727,"They
+ range from very detailed volumes in the ofﬁcial histories of the 
+ United States Army, Navy, and Marine Corps to highly romanti-
+ cized books on speciﬁc actions, people, weapons, and so forth. ",0.621481918818086,46,0
+728,"The
+ following three books are accurate, balanced, and interesting ac-",0.6378123362627071,46,11
+729,"
+ counts of the subject. ",0.2564635599766893,46,11
+730,"Two sound works covering the offensive pe-
+ riod are D. Clayton James’  The Years of MacArthur, 1941–1945
+ (1975), for the offensives in the Southwest Paciﬁc and the Philip-
+ pines, and James and William Belote’s  Titans of the Seas  (1974), an
+ account of the carrier battles in the Paciﬁc. ",0.46735033126887915,46,4
+731,"But no work better de-
+ scribes combat in the Paciﬁc war at the squad and platoon level 
+ than  Island Victory  (1983) by S. L. A. Marshall. ",0.5747708744879385,46,2
+732,"During World War 
+ II as a combat historian he gathered material for  Island Victory  by
+ interviewing infantrymen of the 7th Infantry Division who had just
+ cleared two small islands in the Kwajalein Atoll. ",0.5393836984658438,46,2
+733,"The book tells the
+ stories of squad and platoon ﬁghts with holed-up Japanese on is-
+ lands no more than 250 yards wide. ",0.3539938693755944,46,0
+734,"There are no generals or 
+ colonels here, no high-level planning or strategy. ",0.6702745769987416,46,11
+735,"This is the story of
+ ground combat from the vantage point of the individual infantry-
+ man, and, like MacDonald’s  Company Commander , the work is a 
+ testimony to the determination and heroism of the individual GI. ",0.5242773956095619,46,1
+736,"
+ 48
+ Note:  The publication dates are shown for the most recent editions listed in  Books in
+ Print . ",0.5342693783746002,46,11
+737,Many of these books were originally published years earlier.,0.5659486529005766,46,11
+738,"
+",0.0,46,-1

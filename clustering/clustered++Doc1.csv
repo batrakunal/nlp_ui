@@ -1,0 +1,867 @@
+Seq.,sentence,similarity_to_bench,page,cluster
+0,"  
+  
+ D O D   D IRECTIVE  5000.01 
+ T HE  D EFENSE  A CQUISITION  S YSTEM  
+  
+  
+ Originating Component:  
+ Office of the Under Secretary of Defense for Acquisition and Sustainment 
+  
+ Effective:  
+ September 9, 2020 
+ Change 1 Effective: 
+ July 28, 2022 
+  
+ Releasability:  
+ Cleared for public release. ",0.6347480669879596,1,2
+1," Available on the Directives Division Website 
+ at https://www.esd.whs.mil/DD/. 
+  
+ Reissues and Cancels:  
+ DoD Directive 5000.01, “The Defense Acquisition System,”  
+ May 12, 2003 
+  
+ Approved by:  
+ David L. Norquist, Deputy Secretary of Defense 
+ Change 1 Approved by:  
+ Kathleen H. Hicks, Deputy Secretary of Defense ",0.8441532056534324,1,6
+2,"
+  
+  
+ Purpose:  Under the authority vested in the Secretary of Defense by Section 113 of Title 10, United 
+ States Code (U.S.C.)",0.6971892527407786,1,6
+3,", this issuance establishes policy and assigns responsibilities for managing all 
+ acquisition programs. ",0.8102775509097913,1,13
+4," 
+  
+ DoDD 5000.01, September 9, 2020 
+ Change 1, July 28, 2022 
+ T ABLE OF  C ONTENTS  
+ 2 
+ T ABLE OF  C ONTENTS  
+  
+ S ECTION  1:    G ENERAL  I SSUANCE ",0.42877333702012843,1,8
+5," I NFORMATION  .............................................................................. 4  
+ 1.1. ",0.0,2,-1
+6, Applicability. ,0.2303860778281935,2,3
+7,".................................................................................................................... 4  
+ 1.2. ",0.0,2,-1
+8, Policy. ,0.6170340098323465,2,6
+9,"............................................................................................................................... 4  
+ a.  Deliver Performance at the Speed of Relevance. ",0.6637592077023833,2,12
+10,........................................................... ,0.0,2,-1
+11,"4  
+ b.  Conduct System of Systems (SoS) Analysis. ",0.9320197107540222,2,11
+12,................................................................ ,0.0,2,-1
+13,"4  
+ c.  Develop a Culture of Innovation. ",0.7097913921875093,2,4
+14,................................................................................... ,0.0,2,-1
+15,"5  
+ d.  Develop and Deliver Secure Capabilities. ",0.822153422089917,2,15
+16,..................................................................... ,0.0,2,-1
+17,"5  
+ e.  Emphasize Competition. ",0.3490189471608847,2,4
+18,"................................................................................................ 5  
+ f.  Be Responsive. ............................................................................................................... ",0.7596577929323739,2,12
+19,"5  
+ g.  Employ a Disciplined Approach. ",0.37568075517098637,2,7
+20,................................................................................... ,0.0,2,-1
+21,"5  
+ h.  Manage Efficiently and Effectively. ",0.5162155508995057,2,15
+22,.............................................................................. ,0.0,2,-1
+23,"6  
+ i.  Focus on Affordability. ",0.7135557081083401,2,16
+24,................................................................................................... ,0.0,2,-1
+25,"6  
+ j.  Emphasize Environment, Safety, and Occupational Health (ESOH) Risks and 
+ Requirements Management. ",0.6482766594339122,2,14
+26,"......................................................................................... 6  
+ k.  Employ Performance Based-Acquisition Strategies. ",0.838694004520768,2,16
+27,..................................................... ,0.0,2,-1
+28,"7  
+ l.  Plan for Product Support................................................................................................. 7  
+ m.  Implement Effective Life-Cycle Management. ",1.082113821962317,2,16
+29,............................................................ ,0.0,2,-1
+30,"7  
+ n.  Implement Reliability and Maintainability by Design. ",0.6829114538303211,2,14
+31,".................................................. 7  
+ o.  Conduct Integrated Test and Evaluation. ",0.7752104456819139,2,14
+32,....................................................................... ,0.0,2,-1
+33,"7  
+ p.  Apply Human Systems Integration. ",0.5443832691242987,2,11
+34,............................................................................... ,0.0,2,-1
+35,"8  
+ q.  Deploy Interoperable Systems. ",0.434721430746177,2,11
+36,...................................................................................... ,0.0,2,-1
+37,"8  
+ r.  Plan for Corrosion Prevention and Mitigation. ",0.5836121703303715,2,14
+38,".............................................................. 8  
+ s.  Employ Artificial Intelligence, Machine Learning, Deep Learning, and Other Related 
+ Capabilities throughout Execution of the Acquisition Process..................................... 8  
+ t.  Plan for Coalition Partners. ",0.7993075495342676,2,11
+39,"............................................................................................. 8  
+ u.  Maintain a Professional Workforce. ",0.7102080900061248,2,1
+40,.............................................................................. ,0.0,2,-1
+41,"8  
+ v.  Comply with Statute and International Agreements. ",0.4714321384758797,2,3
+42,..................................................... ,0.0,2,-1
+43,"9  
+ w.  Maintain Data Transparency. ",0.6885929615901057,2,12
+44,........................................................................................ ,0.0,2,-1
+45,"9  
+ x.  Manage Records Effectively. ",0.5314887649148979,2,15
+46,"......................................................................................... 9  
+ y.  Employ a Collaborative Process. ",0.4262956201232337,2,7
+47,"................................................................................... 9  
+ z.  Conduct Industrial Base Assessments. ",0.8119560215140701,2,14
+48,"........................................................................... 9  
+ 1.3.  Summary of Change 1. ",0.7020926609440908,2,3
+49,..................................................................................................... ,0.0,2,-1
+50,"9  
+ S ECTION  2:    R ESPONSIBILITIES  ....................................................................................................... 11  
+ 2.1. ",0.19848098922239124,2,3
+51, Under Secretary of Defense for Acquisition and Sustainment (USD(A&S)). ,0.7476165022148806,2,2
+52,................ ,0.0,2,-1
+53,"11  
+ 2.2. ",0.0,2,-1
+54, Under Secretary of Defense for Research and Engineering (USD(R&E)). ,0.49639523774307087,2,6
+55,.................... ,0.0,2,-1
+56,"11  
+ 2.3. ",0.0,2,-1
+57, Under Secretary of Defense for Intelligence and Security (USD(I&S)). ,0.36468185652850205,2,6
+58,....................... ,0.0,2,-1
+59,"12  
+ 2.4. ",0.0,2,-1
+60, Under Secretary of Defense for Personnel and Readiness. ,0.4979036209128804,2,2
+61,............................................. ,0.0,2,-1
+62,"12  
+ 2.5. ",0.0,2,-1
+63," Under Secretary of Defense (Comptroller)/Chief Financial Officer, Department of 
+ Defense. ",0.4578505872974501,2,6
+64,"............................................................................................................................ 12  
+ 2.6. ",0.0,2,-1
+65, DoD Chief Information Officer. ,0.4474179048780632,2,6
+66,"..................................................................................... 12  
+ 2.7. ",0.0,2,-1
+67, Director of Operational Test and Evaluation (DOT&E). ,0.4921526889789354,2,6
+68,"................................................ 13  
+ 2.8. ",0.0,2,-1
+69, Director of Cost Assessment and Program Evaluation. ,1.0344675729278916,2,13
+70,".................................................. 14  
+ 2.9. ",0.0,2,-1
+71, DoD Component Heads. ,0.3272982366040182,2,6
+72,"................................................................................................. 14  
+ DoDD 5000.01, September 9, 2020 
+ Change 1, July 28, 2022 
+ T ABLE OF  C ONTENTS  
+ 3 
+ 2.10. ",0.4359512412543028,2,8
+73, Secretaries of the Military Departments. ,0.3200124485395129,3,6
+74,...................................................................... ,0.0,3,-1
+75,"15  
+ 2.11. ",0.0,3,-1
+76, CJCS. ,0.18438543563338092,3,8
+77,............................................................................................................................ ,0.0,3,-1
+78,"15  
+ G LOSSARY  ..................................................................................................................................... 16  
+ G.1. ",0.0,3,-1
+79, Acronyms. ,0.18327050522548446,3,3
+80,...................................................................................................................... ,0.0,3,-1
+81,"16  
+ G.2. ",0.0,3,-1
+82, Definitions. ,0.365489345722254,3,3
+83,..................................................................................................................... ,0.0,3,-1
+84,"16  
+ R EFERENCES  .................................................................................................................................. 17  
+  
+  
+  
+ DoDD 5000.01, September 9, 2020 
+ Change 1, July 28, 2022 
+ S ECTION  1:    G ENERAL  I SSUANCE ",0.41580155056580753,3,8
+85, I NFORMATION ,0.0,4,-1
+86," 
+ 4 
+ S ECTION  1:    G ENERAL  I SSUANCE ",0.19848098922239124,4,3
+87," I NFORMATION  
+ 1.1. ",0.0,4,-1
+88, APPLICABILITY. ,0.2303860778281935,4,3
+89,"
+ This issuance applies to OSD, the Military Departments, the Office of the Chairman of the Joint 
+ Chiefs of Staff (CJCS) and the Joint Staff, the Combatant Commands, the Office of Inspector 
+ General of the Department of Defense, the Defense Agencies, the DoD Field Activities, and all 
+ other organizational entities within the DoD (referred to collectively in this issuance as the “DoD 
+ Components”). ",0.8075041631964756,4,6
+90,"
+ 1.2. ",0.0,4,-1
+91, POLICY. ,0.6170340098323465,4,6
+92,"
+ The objective of the Defense Acquisition System (DAS) is to support the National Defense 
+ Strategy, through the development of a more lethal force based on U.S. technological innovation 
+ and a culture of performance that yields a decisive and sustained U.S. military advantage. ",1.021131505185951,4,10
+93," The 
+ acquisition system will be designed to acquire products and services that satisfy user needs with 
+ measurable and timely improvements to mission capability, material readiness, and operational 
+ support, at a fair and reasonable price. ",1.1588203255965528,4,16
+94," The following overarching policies will govern the DAS: 
+ a.  Deliver Performance at the Speed of Relevance. ",0.8345703318854516,4,9
+95," 
+ The DAS will: 
+ (1)  Employ the following operating policies: 
+ (a)  Empower program managers (PMs). ",0.8091856112395888,4,9
+96,"
+ (b)  Simplify acquisition policy. ",0.480509877204895,4,9
+97,"
+ (c)  Employ tailored acquisition approaches. ",0.40804682390326297,4,9
+98,"
+ (d)  Conduct data driven analysis. ",0.8964744471924625,4,12
+99,"
+ (e)  Actively manage risk. ",0.5611287713050843,4,15
+100,"
+ (f)  Emphasize product support and sustainment. ",0.8393153085800512,4,16
+101,"
+ (2)  Use an adaptive acquisition framework to emphasize these principles. ",0.6587356852793991,4,9
+102,"
+ b.  Conduct System of Systems (SoS) Analysis. ",0.9320197107540222,4,11
+103,"  
+ Capability portfolio management, mission engineering, and integration analysis using an 
+ effects/kill chain framework will be employed to assess the integration and interoperability of the 
+ SoS required to execute critical mission requirements. ",1.2318913945446763,4,16
+104," The objective is to identify operational 
+ gaps and develop SoS employment concepts in order to develop system capabilities that improve 
+ the warfighters’ ability to execute critical mission threads. ",1.2356895133228527,4,16
+105,"
+ DoDD 5000.01, September 9, 2020 
+ Change 1, July 28, 2022 
+ S ECTION  1:    G ENERAL  I SSUANCE ",0.41580155056580753,4,8
+106, I NFORMATION ,0.0,5,-1
+107," 
+ 5 
+ c.  Develop a Culture of Innovation. ",0.7097913921875093,5,4
+108,"   
+ Creativity and critical thinking will guide acquisition business practice. ",0.7631672631662698,5,4
+109," Acquisition 
+ professionals will seek, develop, and implement initiatives to streamline and improve the DAS. ",0.989873954914966,5,9
+110," 
+ Managers at every level will consider and adopt innovative practices, including best commercial 
+ practices and electronic business solutions, that reduce cycle time and cost, and encourage 
+ teamwork. ",1.1767915869298187,5,7
+111,"
+ d.  Develop and Deliver Secure Capabilities. ",0.822153422089917,5,15
+112,"  
+ Security, cybersecurity, and protection of critical technologies at all phases of acquisition are 
+ the foundation for uncompromised delivery and sustainment of warfighting capability. ",0.9617438982424735,5,10
+113," 
+ Acquisition managers, in coordination with security and counterintelligence (CI) professionals, 
+ will implement initiatives and processes for the identification, integration and continual 
+ evaluation of security and CI requirements throughout the life cycle of a system, service, or 
+ critical technology. ",1.0787620560009652,5,5
+114,"
+ e.  Emphasize Competition. ",0.3490189471608847,5,4
+115,"
+ The DoD Components will acquire systems, subsystems, equipment, supplies, product 
+ support, sustainment, and services in accordance with the statutory requirements for competition. ",0.9398981471607823,5,5
+116,"
+ (1)  Acquisition managers will take all necessary actions to promote a competitive 
+ environment, including consideration of alternative systems, data rights, and modular design to 
+ meet current and future mission needs. ",1.1362491966474872,5,16
+117,"
+ (2)  Planning and contracting for appropriate amounts of data rights, and incorporating a 
+ modular and open design to enable upgrades, technology refreshes, and future re-competes may 
+ enhance competition throughout the life cycle. ",0.9765648568107274,5,16
+118,"
+ f.  Be Responsive. ",0.7596577929323739,5,12
+119,"   
+ Advanced technology will be integrated into developmental prototypes and production 
+ systems, and deployed to the operational community as soon as possible. ",0.6263954988955394,5,11
+120," Approved, time-
+ phased capability needs, matched with available technology and resources, will enable 
+ incremental acquisition strategies and continuous capability improvement. ",1.047261250047273,5,16
+121,"
+ g.  Employ a Disciplined Approach. ",0.37568075517098637,5,7
+122,"   
+ (1)  Acquisition programs will be managed consistent with statute, the policy outlined in 
+ this issuance, and the regulatory requirements specified in DoD issuances applicable to the 
+ operation of the acquisition system. ",0.8675147034703625,5,13
+123,"
+ (2)  Program goals for cost, schedule, and performance parameters (or alternative 
+ quantitative management controls) will describe the program over its life cycle. ",1.2821702843186285,5,16
+124," Approved 
+ program baseline parameters will serve as control objectives. ",0.9116256999438181,5,0
+125," Deviations from approved 
+ acquisition program baseline parameters and exit criteria will be documented, recorded, and 
+ DoDD 5000.01, September 9, 2020 
+ Change 1, July 28, 2022 
+ S ECTION  1:    G ENERAL  I SSUANCE  I NFORMATION  
+ 6 
+ reported to the Milestone Decision Authority (MDA) or Decision Authority. ",0.840865405420935,5,0
+126," Program decisions 
+ will be recorded and retained. ",0.5535635435639042,6,12
+127,"
+ h.  Manage Efficiently and Effectively. ",0.5162155508995057,6,15
+128,"   
+ Responsibility for the acquisition of systems will be decentralized to the maximum extent 
+ practicable. ",0.4959302923299093,6,9
+129,"
+ (1)  MDAs will provide PMs sufficient authority to accomplish approved program 
+ objectives for development, production, product support, and sustainment. ",1.057526661682656,6,16
+130,"
+ (2)  Managers at every level will be given the authority to manage their programs and 
+ will be accountable for results. ",0.6867289184858117,6,9
+131,"
+ (3)  Program management information requirements must be required by statute or 
+ specifically selected (i.e., “tailored-in”) by the PM and approved by the MDA. ",0.8963242161083107,6,13
+132," The DAE or the 
+ SAEs may provide implementation guidance to achieve this objective. ",0.9366538947616151,6,13
+133,"
+ i.  Focus on Affordability. ",0.7135557081083401,6,16
+134,"   
+ MDAs and acquisition leaders must recognize the impact of fiscal constraints and plan 
+ programs based on realistic projections of the funding available in future years. ",0.9565462435949295,6,9
+135,"
+ (1)  To achieve affordable readiness and maintainability, MDAs and acquisition leaders, 
+ in coordination with the DoD Component programming community, will: 
+ (a)  Prepare realistic program life cycle cost estimates; 
+ (b)  Prioritize portfolio capability requirements; 
+ (c)  Project funding available within a given portfolio. ",1.4749081046660926,6,16
+136,"
+ (2)  The DoD Components must balance a program's requirements and cost in light of the 
+ funding and priorities within and across portfolios. ",0.9060482808598634,6,16
+137," In doing this, the DoD Component must 
+ consider both near-term development and production costs and the long-range operations and 
+ sustainment costs of deployed fleets and fielded systems. ",0.969897672718504,6,16
+138,"
+ j.  Emphasize Environment, Safety, and Occupational Health (ESOH) Risks and 
+ Requirements Management. ",0.6482766594339122,6,14
+139,"   
+ ESOH risks and requirements will be managed to minimize the injury to or loss of Service 
+ members and degradation of their equipment, and to reduce impact on the environment. ",0.8919191177280961,6,14
+140," In 
+ accordance with Military Standard 882E, ESOH hazards will be eliminated when possible, and 
+ managed by the PM when not. ",0.7513829301594014,6,14
+141," System safety engineering will be employed to identify, 
+ document, and mitigate system hazards and reduce residual risk from those hazards. ",0.8620359401005421,6,14
+142,"
+  
+  
+ DoDD 5000.01, September 9, 2020 
+ Change 1, July 28, 2022 
+ S ECTION  1:    G ENERAL  I SSUANCE  I NFORMATION  
+ 7 
+ k.  Employ Performance Based-Acquisition Strategies. ",0.8540580523055799,6,10
+143,"   
+ To maximize competition, innovation, and interoperability, acquisition managers will 
+ consider and employ performance-based strategies for acquiring and sustaining products and 
+ services. ",1.0786105317350003,7,16
+144," “Performance-based strategy” means a strategy that supports an acquisition approach 
+ structured around the results to be achieved as opposed to the manner by which the work is to be 
+ performed. ",1.1189517049788384,7,16
+145," This approach will be applied to all new procurements and upgrades, as well as re-
+ procurements of systems, subsystems, and spares that are procured beyond the initial production 
+ contract award. ",0.6870079926687368,7,11
+146,"
+ l.  Plan for Product Support. ",0.8496473001489022,7,16
+147,"   
+ Product support strategies (PSSs) will be informed by a business case analysis conducted 
+ pursuant to Section 4324   of Title 10, U.S.C.  The PSS is designed to facilitate enduring and 
+ affordable sustainment consistent with warfighter requirements. ",1.2009695433813339,7,5
+148," Support metrics will be 
+ established, tracked, and adjusted where needed to ensure product support objectives are 
+ achieved and sustained over the system life cycle. ",1.230269201490216,7,16
+149," PSSs include the best use of public and 
+ private sector capabilities through government and industry partnering initiatives, in accordance 
+ with statutory requirements. ",0.9791532138742256,7,9
+150,"
+ m.  Implement Effective Life-Cycle Management. ",0.9065469501508838,7,10
+151,"   
+ The PM is accountable for achieving program life-cycle management objectives throughout 
+ the program life cycle. ",0.8324845762018475,7,10
+152," Planning for operations and support will begin at program inception, and 
+ supportability requirements will be balanced with other requirements that impact program cost, 
+ schedule, and performance. ",1.2182982658438644,7,16
+153," Performance based life-cycle product support implements life-cycle 
+ system management. ",1.1107235579942323,7,16
+154,"
+ n.  Implement Reliability and Maintainability by Design. ",0.6829114538303211,7,14
+155,"  
+ DoD Components, MDAs, and acquisition leaders must implement fundamentals of design, 
+ manufacturing, and management that result in reliable and maintainable systems. ",0.9641688890712605,7,16
+156," These key 
+ fundamentals must be established early in the acquisition process and improved over the service 
+ life of the system. ",0.948408206721391,7,16
+157,"
+ o.  Conduct Integrated Test and Evaluation. ",0.7752104456819139,7,14
+158,"  
+ (1)  Test and evaluation will be integrated throughout the defense acquisition process. ",0.5774540859396871,7,5
+159," 
+ Test and evaluation will be structured to provide essential information to decision makers, assess 
+ attainment of technical performance parameters, and determine whether systems are 
+ operationally effective, suitable, survivable, and safe for intended use. ",1.1999180942356964,7,16
+160,"
+ (2)  The conduct of test and evaluation, integrated with modeling and simulation, will: 
+ (a)  Facilitate learning. ",0.7280162292053389,7,11
+161,"
+ (b)  Assess technology maturity and interoperability. ",0.7128019553309172,7,11
+162,"
+ DoDD 5000.01, September 9, 2020 
+ Change 1, July 28, 2022 
+ S ECTION  1:    G ENERAL  I SSUANCE  I NFORMATION  
+ 8 
+ (c)  Facilitate integration into fielded forces. ",0.5489156462116427,7,11
+163,"
+ (d)  Confirm performance against documented capability needs and adversary 
+ capabilities as described in the system threat assessment. ",1.0814503911491087,8,16
+164,"
+ p.  Apply Human Systems Integration. ",0.5443832691242987,8,11
+165,"  
+ Human systems integration planning will begin in the early stages of the program life cycle. ",0.8369138279516876,8,16
+166," 
+ The goal will be to optimize total system performance and total ownership costs, while ensuring 
+ that the system is designed, operated, and maintained consistent with mission requirements. ",1.1550945849156957,8,16
+167,"
+ q.  Deploy Interoperable Systems. ",0.434721430746177,8,11
+168,"   
+ Joint concepts, standardization, and integrated architectures will be used to the maximum 
+ extent possible to characterize the exchange of data, information, materiel, and services to and 
+ from systems, units, and platforms to assure all systems effectively and securely interoperate 
+ with other U.S. forces and coalition partner systems. ",0.7423728514737121,8,11
+169,"
+ r.  Plan for Corrosion Prevention and Mitigation. ",0.5836121703303715,8,14
+170,"  
+ Acquisition managers will implement corrosion prevention and control procedures early in 
+ the program life cycle to prevent it from impacting the availability, cost, and safety of military 
+ equipment. ",1.0707306545502282,8,16
+171,"
+ s.  Employ Artificial Intelligence, Machine Learning, Deep Learning, and Other 
+ Related Capabilities throughout Execution of the Acquisition Process. ",0.708090701852711,8,11
+172,"  
+ To ensure a culture of performance that yields a decisive and sustained U.S. military 
+ advantage, the acquisition system will leverage capabilities including artificial intelligence, 
+ machine learning, and deep learning to maximize efficiency and streamline the acquisition of 
+ goods and services. ",1.1462871944863704,8,7
+173,"
+ t.  Plan for Coalition Partners. ",0.5802048583574397,8,1
+174,"   
+ To enable allies and partners to enhance U.S. military capability, collaboration opportunities, 
+ potential partnerships, and international acquisition and exportability features and limitations 
+ will be considered in the early design and development phase of acquisition programs. ",0.9484127278559659,8,16
+175,"
+ u.  Maintain a Professional Workforce. ",0.7102080900061248,8,1
+176,"   
+ The acquisition workforce is a critical asset and essential to achieving the defense strategy. ",0.8868085589992615,8,10
+177," 
+ Consequently, the DoD must recruit, develop, and maintain a fully proficient military and 
+ civilian acquisition workforce that is highly skilled across a broad range of management, 
+ technical, and business disciplines. ",0.8176818181328591,8,10
+178,"
+  
+  
+ DoDD 5000.01, September 9, 2020 
+ Change 1, July 28, 2022 
+ S ECTION  1:    G ENERAL  I SSUANCE  I NFORMATION  
+ 9 
+ v.  Comply with Statute and International Agreements. ",0.5380315980971007,8,8
+179,"  
+ The acquisition and procurement of DoD weapons and information systems must be 
+ consistent with all applicable domestic law, and the resulting systems must comply with 
+ applicable treaties and international agreements (for arms control agreements, see DoD Directive 
+ (DoDD) 2060.01), customary international law, and the law of armed conflict (also known as the 
+ laws and customs of war). ",0.8070522728362086,9,8
+180," An attorney authorized to conduct such legal reviews in the DoD 
+ must conduct the legal review of the intended acquisition of weapons or weapons systems. ",0.9629960425929618,9,13
+181,"
+ w.  Maintain Data Transparency. ",0.6885929615901057,9,12
+182,"  
+ All acquisition program data should be transparently shared, to the greatest extent possible, 
+ in its native form and require minimal formatting and manipulation. ",0.692065397126326,9,12
+183," All DoD data will be shared 
+ as widely as possible across the Military Services and OSD. ",0.5089080023602068,9,9
+184," Options to frustrate or prevent data 
+ transparency should not be entertained. ",0.4585853745703035,9,12
+185,"
+ x.  Manage Records Effectively. ",0.5314887649148979,9,15
+186,"  
+ DoD records must be managed in compliance with DoD Instruction 5015.02 and Title 44 of 
+ U.S.C., while protecting the legal and financial rights and interests of the Federal Government 
+ and of persons affected by U.S. Government activities. ",0.8818536391081953,9,1
+187,"
+ y.  Employ a Collaborative Process. ",0.4262956201232337,9,7
+188,"  
+ The DAS should be a collaborative process in which the DoD Components consult and 
+ coordinate with one another. ",0.6508963275677507,9,9
+189," However, if a Principal Staff Assistant or Service Secretary has an 
+ objection to a fundamental aspect of the acquisition process, he or she may raise this objection to 
+ the Deputy Secretary of Defense in the form of a briefing. ",0.6756097656982655,9,6
+190," The briefing serves to notify the 
+ Deputy of a dissenting view, but does not preemptively halt the acquisition process, unless the 
+ Deputy chooses to intercede. ",0.5639356616600335,9,6
+191,"
+ z.  Conduct Industrial Base Assessments. ",0.8119560215140701,9,14
+192,"  
+ Starting in the early stages of and continuing throughout the program life cycle, the program 
+ manager will verify that their item is producible by conducting assessments to ensure there is 
+ sufficient industrial base capability and capacity. ",1.084381792568937,9,16
+193," This will help foster a domestic industrial base 
+ that is resilient and diverse in order to defend the United States and deter adversaries, and will 
+ encourage innovation to maintain DoD’s technological competitive advantage. ",0.8373345366914928,9,4
+194,"
+ 1.3. ",0.0,9,-1
+195, SUMMARY OF CHANGE 1. ,0.7020926609440908,9,3
+196,"
+ This change: 
+ a.  Requires the Military Departments to establish and maintain an independent operational 
+ test agency that reports directly to the appropriate Military Service Chief. ",1.176942777539488,9,13
+197,"
+ b.  Emphasizes the importance of industrial base assessments. ",0.5938801637927016,9,4
+198,"
+ DoDD 5000.01, September 9, 2020 
+ Change 1, July 28, 2022 
+ S ECTION  1:    G ENERAL  I SSUANCE ",0.41580155056580753,9,8
+199," I NFORMATION  
+ 10 
+ c.  Updates responsibilities, references, and organizational titles in accordance with Section 
+ 901 and Title XVIII of Public Law 116-283. ",0.8057760944384947,10,3
+200,"
+  
+ DoDD 5000.01, September 9, 2020 
+ Change 1, July 28, 2022 
+ S ECTION  2:    R ESPONSIBILITIES  
+ 11 
+ S ECTION  2:    R ESPONSIBILITIES  
+ 2.1. ",0.37813538444901557,10,8
+201," UNDER SECRETARY OF DEFENSE FOR ACQUISITION AND SUSTAINMENT 
+ (USD(A&S)). ",0.7476165022148806,11,2
+202,"   
+ The USD(A&S): 
+ a.  Executes the acquisition responsibilities in DoDD 5135.02. ",0.7009695633135147,11,2
+203,"
+ b.  Serves as an advisor in the preparation of major defense acquisition program (MDAP) 
+ analysis of alternatives (AoA) study guidance. ",0.8977070373251789,11,13
+204,"
+ c.  Serves as the MDA for the Materiel Development Decision, Milestone A, the Request for 
+ Proposal Release Decision Point for the Engineering and Manufacturing Development Phase, 
+ Milestone B, and Milestone C for acquisition category (ACAT) ID programs. ",0.8071130754152598,11,0
+205,"
+ d.  Issues and maintains requirements for the content, review, and approval process for 
+ ACAT ID acquisition strategies. ",1.0058789689772711,11,13
+206,"
+ e.  Publishes all middle tier of acquisition (MTA) policy, to include MTA rapid prototyping 
+ policy and MTA rapid fielding policy. ",0.7458850061850176,11,9
+207," USD(A&S) written approval is required before using the 
+ MTA pathway for a program that exceeds the MDAP dollar threshold. ",0.7844994437787037,11,0
+208,"
+ 2.2. ",0.0,11,-1
+209," UNDER SECRETARY OF DEFENSE FOR RESEARCH AND ENGINEERING 
+ (USD(R&E)). ",0.49639523774307087,11,6
+210,"  
+ The USD(R&E): 
+ a.  Executes the research and engineering responsibilities in DoDD 5137.02. ",0.7679777108551379,11,2
+211,"
+ b.  Serves as a technical advisor in the preparation of MDAP AoA study guidance. ",0.7288130330841713,11,13
+212,"
+ c.  Confirms that a materiel solution that addresses the validated need or capability gap for 
+ the MDAP is technically feasible and achievable. ",0.952006498415448,11,16
+213,"
+ d.  Conducts and approves independent technical risk assessments (ITRAs) for ACAT ID 
+ Programs. ",0.7988692585836954,11,0
+214,"
+ e.  Provides guidance for Military Department-conducted ITRAs for ACAT IB and IC 
+ programs. ",0.6926457214398848,11,2
+215," Approves Military Department-conducted ITRAs (the number of Military 
+ Department ITRAs that USD(R&E) reviews will be at USD(R&E)’s discretion). ",0.7699787959062375,11,6
+216," Military 
+ Department ITRAs conducted on non-MDAP programs will follow USD(R&E)-published ITRA 
+ policy. ",0.9827867309683023,11,6
+217,"
+ f.  Maintains authority over early development prototyping policy outside of MTA. ",0.7159667097447282,11,13
+218,"
+ DoDD 5000.01, September 9, 2020 
+ Change 1, July 28, 2022 
+ S ECTION  2:    R ESPONSIBILITIES  
+ 12 
+ g.  Serves as the approval authority for the developmental test and evaluation (DT&E) plan in 
+ the Test and Evaluation Master Plan (TEMP), test strategy, or other overarching program test 
+ planning document for all ACAT ID programs. ",1.0241518211954304,11,13
+219," Reviews and advises the MDA on the DT&E 
+ plan in the TEMP, test strategy, or other overarching program test planning document for ACAT 
+ IB and IC programs. ",1.139105441484166,12,13
+220,"
+ 2.3. ",0.0,12,-1
+221," UNDER SECRETARY OF DEFENSE FOR INTELLIGENCE AND SECURITY 
+ (USD(I&S)). ",0.36468185652850205,12,6
+222,"   
+ In accordance with DoDD 5143.01, the USD(I&S): 
+ a.  Advises and assists the integration of intelligence data, CI, and security throughout the 
+ acquisition life cycle. ",0.8100440393747022,12,2
+223,"
+ b.  Oversees Defense Intelligence Enterprise and Defense Security Enterprise performance in 
+ meeting critical intelligence needs of life-cycle acquisition. ",1.0371464831177077,12,5
+224,"
+ c.  Provides intelligence and security advice for ACAT ID programs. ",0.5218385114012357,12,6
+225,"
+ d.  Manages a professional certification program for the intelligence workforce that supports 
+ the DoD acquisition process. ",0.7238838284236476,12,5
+226,"
+ 2.4. ",0.0,12,-1
+227, UNDER SECRETARY OF DEFENSE FOR PERSONNEL AND READINESS. ,0.4979036209128804,12,2
+228,"  
+ In addition to the responsibilities in DoDD 1322.18 and DoDD 5124.02, the Under Secretary of 
+ Defense for Personnel and Readiness establishes policy and oversees implementation of training 
+ capabilities for defense systems. ",1.1370935408961125,12,2
+229,"
+ 2.5. ",0.0,12,-1
+230," UNDER SECRETARY OF DEFENSE (COMPTROLLER)/CHIEF FINANCIAL 
+ OFFICER, DEPARTMENT OF DEFENSE. ",0.4578505872974501,12,6
+231,"
+ The Under Secretary of Defense (Comptroller)/Chief Financial Officer, Department of Defense 
+ executes the responsibilities established in Section 2222(g) of Title 10, U.S.C. jointly with the 
+ DoD Chief Information Officer. 
+ 2.6. ",0.8671494664151804,12,6
+232, DOD CHIEF INFORMATION OFFICER. ,0.4474179048780632,12,6
+233,"
+ ",0.0,12,-1
+234,"In accordance with applicable Federal law and regulations and in accordance with  
+ DoDD 5144.02 and DoD Instruction 8500.01, and policies cited therein, the DoD Chief 
+ Information Officer: 
+ a.  Establishes cybersecurity policy and standards, and provides guidance for incorporating 
+ cybersecurity and cyber risk management in the DoD. 
+ DoDD 5000.01, September 9, 2020 
+ Change 1, July 28, 2022 
+ S ECTION  2:    R ESPONSIBILITIES  
+ 13 
+ b.  Coordinates with the USD(R&E) and the USD(A&S) to ensure that cybersecurity policies 
+ and standards are integrated into the DAS. ",1.1555981575261038,12,2
+235,"
+ c.  Develops, maintains, and manages the implementation of a sound, secure, and integrated 
+ DoD information technology (IT) and cybersecurity architecture; ensures the interoperability of 
+ IT throughout the DoD; and prescribes IT standards, including network and cybersecurity 
+ standards that apply throughout the DoD. 
+ d.  Supports and informs the USD(A&S) on all IT and cyber infrastructure acquisition 
+ matters and investment decisions, including IT-intensive software systems, such as business 
+ systems, to ensure that cybersecurity policies and standards are integrated into the DAS. ",1.0555464633297404,13,5
+236,"
+ e.  Coordinates with the USD(A&S) to develop and maintain a process for maximizing the 
+ value of, and assessing and managing the risks related to, DoD IT acquisitions. ",1.1721867945083935,13,5
+237,"
+ f.  Coordinates with the USD(A&S) to develop, provide oversight, and support integration of 
+ the statutory cybersecurity strategy for programs acquiring or employing mission critical or 
+ mission essential IT. ",1.1827488957645433,13,5
+238,"
+ g.  Executes the responsibilities established in Section 2222(g) of Title 10, U.S.C. jointly 
+ with the Under Secretary of Defense (Comptroller)/Chief Financial Officer, Department of 
+ Defense. ",0.8587095251600965,13,6
+239,"
+ 2.7. ",0.0,13,-1
+240, DIRECTOR OF OPERATIONAL TEST AND EVALUATION (DOT&E). ,0.4921526889789354,13,6
+241,"   
+ In addition to the acquisition responsibilities in DoDD 5141.02, the DOT&E has overarching 
+ responsibility for operational and live fire test and evaluation in accordance with Section 139 of 
+ Title 10, U.S.C, by: 
+ a.  Prescribing policies and procedures for the conduct of operational and live fire test and 
+ evaluation in the DoD. 
+ b.  Reviewing and approving operational and live fire test plans for MDAPs and programs 
+ designated for DOT&E oversight",1.1497511517986416,13,13
+242,. ,0.0,13,-1
+243,"
+ c.  Providing an independent evaluation of system operational effectiveness, suitability, and 
+ survivability, including cybersecurity, in reports to DoD acquisition leadership, the Secretary of 
+ Defense, and the congressional defense committees, based on the operational and live fire testing 
+ that was conducted. ",1.0361515279815245,13,13
+244,"
+ d.  Advising programs on the testability of system requirements. ",0.7314198665536292,13,0
+245,"
+ e.  Tailoring operational test and evaluation and live fire test and evaluation to fit within each 
+ program’s unique acquisition strategy. ",0.6562258535303037,13,16
+246,"
+ f.  Coordinating with DT&E personnel to ensure test resources are used efficiently across the 
+ program life cycle. ",1.1484940619842214,13,16
+247,"
+ DoDD 5000.01, September 9, 2020 
+ Change 1, July 28, 2022 
+ S ECTION  2:    R ESPONSIBILITIES  
+ 14 
+ 2.8. ",0.41580155056580753,13,8
+248, DIRECTOR OF COST ASSESSMENT AND PROGRAM EVALUATION. ,1.0344675729278916,14,13
+249,"   
+ In addition to the responsibilities assigned in DoDD 5105.84, the Director of Cost Assessment 
+ and Program Evaluation: 
+ a.  Conducts or approves independent cost analysis and issues the policies for collection of 
+ cost data. ",1.2375533486787968,14,13
+250,"
+ b.  Provides analysis and advice on matters relating to the planning and programming phases 
+ of the planning, programming, budgeting, and execution system, and the preparation of materials 
+ and guidance for such system. ",1.0485385589874856,14,13
+251,"
+ c.  Develops AoA study guidance, approves AoA study plans, and evaluates the adequacy of 
+ AoAs for all MDAPs, in accordance with DoDD 5105.84. ",0.9090497555283286,14,13
+252,"
+ d.  Conducts analysis and provides advice to inform the establishment of program cost and 
+ fielding goals pursuant to Section 4271 of Title 10, U.S.C. 
+ 2.9. ",1.2107973309603435,14,13
+253, DOD COMPONENT HEADS. ,0.3272982366040182,14,6
+254,"   
+ a.  The DoD Component heads: 
+ (1)  Implement this issuance consistent with applicable domestic law, treaties, and 
+ international agreements; the policies that govern the DAS; and other DoD Component-assigned 
+ authorities. ",0.7891010318917075,14,6
+255,"
+ (2)  Provide oversight of aggregation, coordination, storage, and analysis of data that: 
+ (a)  Supports development, acquisition, product support, sustainment, and 
+ affordability of systems, platforms, and capabilities. ",1.266151475727469,14,16
+256,"
+ (b)  Assures timely and accurate submissions of congressionally required reports and 
+ responses. ",0.7078776752736697,14,12
+257,"
+ (c)  Provides DoD stakeholders with access to data consistent with statute or 
+ approved charters. ",0.6855248969186599,14,13
+258,"
+ b.  DoD Component heads, including the Directors of the Defense Agencies with acquisition 
+ authority but  not  the CJCS, Defense Agency Directors without acquisition authority, or Directors 
+ of the DoD Field Activities, designate a civilian official within their Component to be the 
+ acquisition executive. ",0.7870773614833335,14,6
+259," In addition to duties assigned by the DoD Component head, the 
+ acquisition executive: 
+ (1)  Provides overall management and oversight of technology development, acquisition, 
+ and product support. ",0.9435604612566754,14,13
+260,"
+ (2)  Is responsible for sustainment of programs (unless otherwise directed), platforms, 
+ and systems that deliver effective, safe, secure, sustainable, and affordable capabilities. ",1.1748574378342758,14,16
+261,"
+ DoDD 5000.01, September 9, 2020 
+ Change 1, July 28, 2022 
+ S ECTION  2:    R ESPONSIBILITIES  
+ 15 
+ c.  DoD Component heads implementing policy will limit additional guidance related to the 
+ operation of adaptive acquisition framework pathways to that needed for efficient operations. ",1.0119590058906123,14,5
+262," 
+ Component policy may supplement but may not conflict with this issuance or other DoD 
+ acquisition policy documents or issuances. ",0.5653781587298083,15,6
+263,"
+ 2.10. ",0.0,15,-1
+264, SECRETARIES OF THE MILITARY DEPARTMENTS. ,0.3200124485395129,15,6
+265,"
+ In addition to the responsibilities in Paragraph 2.9., the Secretaries of the Military Departments 
+ establish and maintain independent operational test agencies that report directly to the Military 
+ Service Chief concerned to plan and conduct operational tests, report results, and provide 
+ evaluations of effectiveness and suitability. ",1.2421996555340562,15,13
+266,"
+ 2.11. ",0.0,15,-1
+267, CJCS. ,0.18438543563338092,15,8
+268,"   
+ In addition to the responsibilities in Paragraph 2.9., the CJCS: 
+ a.  Provides advice and assessment on joint military capability needs to the Secretary of 
+ Defense, the Deputy Secretary of Defense, and other DoD Component heads. ",0.9311414504838796,15,2
+269,"
+ b.  Is responsible for preparing military analysis, options, and plans related to the DAS, to 
+ include providing advice and analysis to other DoD Component heads through validated and 
+ approved capabilities documents. ",1.0942962505661333,15,13
+270,"
+ c.  May engage the DoD Component heads to assist with providing advice and assessment on 
+ acquisition matters. ",0.7373613562216578,15,13
+271," Procedures developed to carry out this responsibility must be consistent 
+ with this issuance and be coordinated with the USD(A&S). ",0.8309638227827433,15,13
+272,"
+ DoDD 5000.01, September 9, 2020 
+ Change 1, July 28, 2022 
+ G LOSSARY  
+ 16 
+ G LOSSARY  
+ G.1. ",0.36339373674821374,15,8
+273, ACRONYMS. ,0.18327050522548446,16,3
+274,"
+ A CRONYM  
+ M EANING  
+  
+ ACAT 
+ acquisition category 
+ AoA 
+ analysis of alternatives 
+  
+ CI 
+ Counterintelligence 
+ CJCS 
+ Chairman of the Joint Chiefs of Staff 
+  
+ DAS 
+ Defense Acquisition System 
+ DoDD 
+ DoD directive 
+ DOT&E 
+ Director of Operational Test and Evaluation 
+ DT&E 
+ developmental test and evaluation 
+  
+ ESOH 
+ environment, safety, and occupational health 
+  
+ IT 
+ information technology 
+ ITRA 
+ independent technical risk assessments 
+  
+ MDA 
+ milestone decision authority 
+ MDAP 
+ major defense acquisition program 
+ MTA 
+ middle tier of acquisition 
+  
+ PM 
+ project manager 
+ PSS 
+ product support strategy 
+  
+ SoS 
+ system of systems 
+  
+ TEMP 
+ test and evaluation master plan 
+  
+ U.S.C 
+ United States Code 
+ USD(A&S) 
+ ",1.1963083672893577,16,13
+275,"Under Secretary of Defense for Acquisition and Sustainment 
+ USD(I&S) 
+ Under Secretary of Defense for Intelligence and Security 
+ USD(R&E) 
+ Under Secretary of Defense for Research and Engineering 
+ G.2. ",0.7904602516229767,16,2
+276, DEFINITIONS. ,0.365489345722254,16,3
+277,"
+ A complete glossary of the terms used in this directive is maintained on the Defense Acquisition 
+ University Website at https://www.dau.edu/tools/t/DAU-Glossary. ",0.9530996328207961,16,3
+278,"
+ DoDD 5000.01, September 9, 2020 
+ Change 1, July 28, 2022 
+ R EFERENCES  
+ 17 
+ R EFERENCES  
+ “Summary of the 2018 National Defense Strategy of the United States of America,” 2018 
+ DoD Directive 1322.18, “Military Training,” October 3, 2019 
+ DoD Directive 2060.01, “Implementation of, and Compliance with, Arms Control Agreements,” 
+ June 23, 2020 
+ DoD Directive 5105.84, “Director of Cost Assessment and Program Evaluation,”  
+ August 14, 2020 
+ DoD Directive 5124.02, “Under Secretary of Defense for Personnel and Readiness 
+ (USD(P&R)),” June 23, 2008 
+ DoD Directive 5135.02, “Under Secretary of Defense for Acquisition and Sustainment 
+ (USD(A&S)),” July 15, 2020 
+ DoD Directive 5137.02, “Under Secretary of Defense for Research and Engineering 
+ (USD(R&E)),” July 15, 2020 
+ DoD Directive 5141.02, “Director of Operational Test and Evaluation (DOT&E),”  
+ February 2, 2009 
+ DoD Directive 5143.01, “Under Secretary of Defense for Intelligence and Security 
+ (USD(I&S)),” October 24, 2014, as amended 
+ DoD Directive 5144.02, “DoD Chief Information Officer (DoD CIO),” November 21, 2014, as 
+ amended 
+ DoD Instruction 5015.02, “DoD Records Management Program,” February 24, 2015, as 
+ amended 
+ DoD Instruction 8500.01, “Cybersecurity,” March 14, 2014, as amended 
+ Military-Standard 882E, “DoD Standard Practice for System Safety,” May 11, 2012 
+ Public Law 116-283, “William M. Thornberry National Defense Authorization Act for Fiscal 
+ Year 2021,” January 1, 2021 
+ United States Code, Title 10 
+ United States Code, Title 44 
+",1.3569905690595243,16,6

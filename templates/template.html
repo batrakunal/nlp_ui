@@ -1,0 +1,84 @@
+<!-- Template for the home page and showfiles page (for user)-->
+<!-- Template for userlist (for admin)-->
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content=" initial-scale=1, width=device-width,shrink-to-fit=no">
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">
+  <link rel="stylesheet" type="text/css" href="/static/css/template.css" />
+  <link rel="stylesheet" type="text/css" href="/static/css/main.css" />
+  <link rel="shortcut icon" href="{{ url_for('static', filename='images/favicon.ico') }}" />
+
+  <script>
+    $(document).ready(function () {
+      $("#{{request.endpoint}}").addClass("active");
+    })
+  </script>
+  <script>
+    setTimeout(function () {
+      $('.successMessage+').remove();
+    }, 30000);
+  </script>
+</head>
+
+<body>
+  <nav class="navbar navbar-expand-lg navbar-light bg-light">
+    <a class="navbar-brand" href="{{ url_for('home') }}">
+      <h1 class="homebtn">NLP LAB </h1>
+    </a>
+
+    <span class=" ml-auto navbar-nav" id="greeting">Hi, {{session['user']['name']}}</span>
+    <img id="menuicon" src="../static/menu1.png" height="25px" width="25px" onclick="togglemenu()">
+    <div class="dropmenu" id="menulist">
+      <a id="changepassword" class="navbar-nav" href="{{ url_for('changePasswordUser') }}">Change Password</a>
+      <a class="navbar-nav margin-left" id="navli" href="{{ url_for('end_session') }}">Clear Session</a>
+      <a class="navbar-nav margin-left" id="navli" href="{{ url_for('signout') }}">Sign Out</a>
+    </div>
+  </nav>
+
+  <div id="successMessage">
+    {% with messages = get_flashed_messages() %}
+    {% if messages %}
+    <ul class=flashes>
+      {% for message in messages %}
+      <li>{{ message }}</li>
+      {% endfor %}
+    </ul>
+    {% endif %}
+    {% endwith %}
+  </div>
+
+
+
+  {% block content %}
+  {% endblock %}
+
+  <footer class="footer">
+    <p id="footer_text"> © <span id='date-time'></span> Copyright: NLP Lab</p>
+  </footer>
+
+  <script>
+    var dt = new Date();
+    y = dt.getFullYear()
+    document.getElementById('date-time').innerHTML = y;
+    var menulist = document.getElementById("menulist");
+    menulist.style.maxHeight = "0px";
+    function togglemenu() {
+      if (menulist.style.maxHeight == "0px") {
+        menulist.style.display = "block";
+        menulist.style.maxHeight = "120px";
+        document.getElementById("menuicon").setAttribute("src", "../static/close.png")
+      }
+      else {
+        menulist.style.display = "none";
+        menulist.style.maxHeight = "0px";
+        document.getElementById("menuicon").setAttribute("src", "../static/menu1.png")
+      }
+    }
+
+  </script>
+</body>
+
+</html>

@@ -1,0 +1,31 @@
+<!-- Template for changing the password by the admin -->
+{% extends "base.html" %}
+{% block content %}
+<a class = "go_back_btn" href="/userlist"> &laquo;  Go Back</a>
+  <div class="card-wrapper">
+
+    <div class="card">
+
+      <h1 class="center">Change Account Password</h1>
+       <p>Username: {{uname}}</p> 
+      <form name="changepassbyAdmin_form">
+        <input type="hidden" name="csrf_token" value="{{ csrf_token()}}"/>
+
+       
+  
+        <input type="hidden" name="username" value="{{uname}}" id="username">
+        <label for="password">Password</label>
+        <input type="password" name="password" class="field" required>
+
+        <label for="confirmpassword">Password</label>
+        <input type="password" name="confirmpassword" class="field" required>
+
+        <p class="error error--hidden"></p>
+
+        <input type="submit" value="Change Password" class="btn">
+      
+      </form>
+      
+    </div>
+  </div>
+{% endblock %}

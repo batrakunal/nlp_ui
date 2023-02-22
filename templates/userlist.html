@@ -1,0 +1,71 @@
+<!-- Page that displays all user signed up by the admin -->
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+
+<head>
+    <meta charset="utf-8">
+    <title></title>
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/5.0.1/css/bootstrap.min.css">
+    <script type="text/javascript" src="https://code.jquery.com/jquery-3.5.1.js"></script>
+    <script type="text/javascript" src="https://cdn.datatables.net/1.12.1/js/jquery.dataTables.min.js"></script>
+    <script type="text/javascript" src="https://cdn.datatables.net/responsive/2.3.0/js/dataTables.responsive.min.js"></script>
+    <link rel="stylesheet" href="https://cdn.datatables.net/1.12.1/css/jquery.dataTables.min.css">
+    <link rel="stylesheet" href="https://cdn.datatables.net/responsive/2.3.0/css/responsive.dataTables.min.css">
+    <script>
+
+        $(document).ready(function () {
+            $('#usertable').DataTable({
+                "columnDefs": [
+                    { "width": "10%" }
+                ]
+            });
+        });
+    </script>
+</head>
+
+<body onload="hideArchivelink()">
+
+    {% extends "base.html" %}
+    {% block content %}
+    <a class="go_back_btn" href="/signupUser"> &laquo; Go Back</a>
+    <div class="user_table">
+        <h4 class="center">List of Users</h4>
+        <table id="usertable" class="display responsive nowrap">
+            <thead>
+                <tr>
+                    <th>User Name</th>
+                    <th>Email</th>
+                    <th>Files</th>
+                    <th>Password</th>
+                    <th>Remove User</th>
+                </tr>
+            </thead>
+            <tbody>
+                {% for user in users %}
+                <tr>
+                    <td class="name">{{user['name']}}</td>
+                    <td class="name">{{user['email']}}</td>
+                    <td class="edit_opt"><a href="{{url_for('showFiles', name = user['name'], uid = user['_id'])}}">Show
+                            Files</a></td>
+                    <td class="edit_opt"><a href="{{url_for('changePassbyAdmin', name = user['name'])}}">Change
+                            Password</a></td>
+                    <td class="edit_opt"><a id="removelink" href="{{url_for('removeUser', name = user['name'])}}"
+                            onclick="return confirm('Are you sure you want to delete the user '+$(this).attr('href').split('/')[2].split('%20')[0] + '?');">Remove
+                            User</a></td>
+                </tr>
+                {% endfor %}
+            </tbody>
+        </table>
+    </div>
+
+    <script>
+        $(document).ready(function () {
+            $('select').removeClass('form-select form-select-sm');
+        });
+    </script>
+
+    {% endblock %}
+</body>
+
+</html>

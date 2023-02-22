@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+
+<head>
+  <meta charset="utf-8">
+  <title></title>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/5.0.1/css/bootstrap.min.css">
+  <script type="text/javascript" src="https://code.jquery.com/jquery-3.5.1.js"></script>
+  <script type="text/javascript" src="https://cdn.datatables.net/1.12.1/js/jquery.dataTables.min.js"></script>
+  <script type="text/javascript" src="https://cdn.datatables.net/responsive/2.3.0/js/dataTables.responsive.min.js"></script>
+  <link rel="stylesheet" href="https://cdn.datatables.net/1.12.1/css/jquery.dataTables.min.css">
+  <link rel="stylesheet" href="https://cdn.datatables.net/responsive/2.3.0/css/responsive.dataTables.min.css">
+</head>
+
+<body>
+  {% extends "base.html" %}
+  {% block content %}
+  <div class="card-wrapper">
+    <div class="card">
+      <h1 class="center">Create an Account</h1>
+      <form name="signup_form">
+        <input type="hidden" name="csrf_token" value="{{ csrf_token()}}" />
+        <label for="name">Name</label>
+        <input type="text" name="name" class="field" required>
+        <label for="email">Email</label>
+        <input type="email" name="email" class="field" required>
+        <label for="password">Password</label>
+        <input type="password" name="password" class="field" required>
+        <p class="error error--hidden"></p>
+        <input type="submit" value="Sign Up" class="btn">
+        <div class="hl">
+          <span class="hl-innertext">or</span>
+        </div>
+        <a id="showUser" href="{{url_for('users')}}">Show Users</a>
+      </form>
+    </div>
+  </div>
+  {% endblock %}
+</body>
+
+</html>

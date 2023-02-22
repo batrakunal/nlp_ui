@@ -1,0 +1,1211 @@
+Seq.,sentence,similarity_to_bench,page,cluster
+0," A Publication of the Defense Acquisition University 
+ http://www.dau.mil
+ 99
+ ARJ, January 2012, Vol. 19 ",0.3541433218257491,1,0
+1,"No. 1 : 099 — 120
+ image designed by Diane Fleischer  »
+ Keywords:  Acquisition Reform, Culture, Leadership, 
+ Change, Government Acquisition Process
+ The More Things Change, 
+ Acquisition Reform 
+ Remains the Same
+ Col Peter K. Eide, USAF,  
+ and COL Charles D. Allen, USA (Ret.)",0.7653001534754802,1,3
+2,"
+ For over 60 years, the Department of Defense has 
+ attempted to fix its weapon systems procurement without 
+ success. ",0.6915016991024747,1,1
+3,"While notable exceptions emerged during 
+ the Global War on Terrorism (i.e., rapid development/
+ fielding of Mine Resistant Ambush Protected vehicles and 
+ improvised explosive Device defeat systems), “Acqui-
+ sition Reform” efforts have not consistently yielded a 
+ process/system that delivers products faster, better, or 
+ cheaper. ",0.818926289415982,1,1
+4,"in 2009, President obama took the initiative 
+ to give reforms another try. ",0.6577162198882344,1,4
+5,"Through an analysis that 
+ applies John P. Kotter’s model of organizational change 
+ and edgar H. schein’s approach to organizational culture 
+ and leadership, the conclusion suggests that current 
+ initiatives will not be successful. ",1.0891786915690553,1,6
+6,"Behavioral change is 
+ needed to embed transformation. ",0.7161632541805854,1,6
+7,"Acquisition reforms 
+ can be coerced, but will not endure as true transforma-
+ tion unless cultural change occurs.",0.7134612264499872,1,5
+8,"
+ Acquisition
+ Reform
+ A Publication of the Defense Acquisition University 
+ http://www.dau.mil
+ 101
+ ARJ, January 2012, Vol. 19 ",0.4341160825073684,1,0
+9,"No. 1 : 099 — 120
+ In March of 2009, shortly after Barack Obama was sworn in as 
+ President, the Government Accountability Office (GAO) released its 
+ annual report “Defense Acquisitions: Assessments of Selected Weap-
+ ons Programs” (GAO, 2009). ",0.7675563660802381,3,4
+10,"Cumulative cost growth among assessed 
+ Department of Defense (DoD) programs had reached $296 billion. ",0.8643002855766148,3,1
+11,"That 
+ latest revelation of inefficiency provided a rallying point for senior lead-
+ ers in the White House, Congress, and DoD.
+ The GAO report was released as significant forces for change were 
+ beginning to move in the same direction. ",0.8517436145233571,3,4
+12,"President Obama declared his 
+ commitment to reduce the federal deficit by half in 4 years as Congress 
+ made final changes on legislation aimed at acquisition reform (Phillips, 
+ 2009). ",0.854960575597621,3,4
+13,"Concurrently, Secretary of Defense Robert Gates espoused his 
+ own imperatives for acquisition reform (Gates, 2009), and hired a simi-
+ larly motivated Under Secretary of Defense for Acquisition, Technology 
+ & Logistics (USD[AT&L]), Dr. Ashton Carter (Hearing, 2009). ",0.5963686266024377,3,4
+14,"Together, 
+ these leaders emerged as a powerful coalition of change agents to fix the 
+ government’s acquisition process.",0.7998732309275544,3,5
+15,"
+ But, will it all work? ",0.4768802040790748,3,5
+16,"In  Leading Change , John P. Kotter (1996) pos-
+ ited primary reasons why transformations fail. ",0.5728465157540119,3,5
+17,"Closely related, Schein’s 
+ (1992) seminal work on organizational culture emphasized the need for 
+ behavioral change to drive transformation. ",0.8392630192733525,3,6
+18,"Both approaches are pre-
+ sented as a framework for assessing the likelihood of success for current 
+ acquisition reform. ",0.7070902970555886,3,6
+19,"The prognosis for effective reform is dim without 
+ embedding leadership actions and institutional processes that will drive 
+ change in the culture of defense acquisition. ",1.0101990862848602,3,6
+20,"Without such intentionality, 
+ one can expect to repeat the history of unfulfilled mandates for reform.",0.7155230327783408,3,3
+21,"
+ ",0.0,3,-1
+22,"A Brief History of Acquisition Reform
+ The need to fix, or reform, the DoD’s various acquisition processes 
+ is almost universally acknowledged. ",0.8683877560373543,3,3
+23,"Numerous studies have informed 
+ U.S. strategic leaders on its shortcomings since 1949 (Assessment Panel, 
+ 2006). ",0.9224691687774269,3,1
+24,"The following summary of acquisition reform initiatives since 
+ the 1980s provides context for an analysis of initiatives undertaken 
+ since 2009.",0.905406012697851,3,1
+25,"
+ The More Things Change, Acquisition Reform Remains the Same
+ 102
+ ARJ, January 2012, Vol. 19 ",0.6179198284476065,3,3
+26,"No. 1 : 099 — 120
+ The Scandalous 1980s
+ ",0.0,4,-1
+27,"The first half of the decade of the eighties, marked by “fraud, waste, 
+ and abuse” scandals in the procurement system, led to calls for reform 
+ (Parlier, 1989). ",0.547370491716746,4,3
+28,"In response, President Reagan created a Blue Ribbon 
+ Commission on Defense Management, also known as the Packard 
+ Commission, which produced what came to be known as the “Packard 
+ Report.” ",0.6010322346412216,4,4
+29,"Congress also worked its own legislative reforms to include the 
+ Goldwater-Nichols Department of Defense Reorganization Act of 1986. ",0.9215953692546818,4,4
+30,"
+ The Blue Ribbon Commission final report stated flatly, “Excellence in 
+ defense management will not and cannot emerge by legislation or direc-
+ tive” (President’s Blue Ribbon Commission, 1986, p. xii). ",0.6298408272512843,4,4
+31,"The commission 
+ believed that acquisition employees at all levels must be encouraged and 
+ empowered to succeed, and that Congress, DoD, and industry must all set 
+ aside parochialism and “restore a sense of shared purpose and mutual 
+ confidence” (p. xii). ",0.7659056309311095,4,1
+32,"The Packard Report recommended specific ways 
+ in which Congress and DoD could improve program stability to mirror 
+ successful industry practices. ",1.0151381763693637,4,6
+33,"Some of the specific commission recom-
+ mendations became codified into law.",0.7663399655058458,4,4
+34,"
+ ",0.0,4,-1
+35,"The Goldwater-Nichols Act of 1986 contained a major restructur-
+ ing of DoD, to include changes that partially addressed the Blue Ribbon 
+ Commission’s findings of diluted authority for execution. ",0.9520863758970358,4,1
+36,"Accordingly, 
+ the 99th Congress, with the National Defense Authorization Act for Fis-
+ cal Year 1987, directed consolidation of the acquisition function within 
+ the offices of the Service secretaries. ",0.818100318014881,4,4
+37,"Other legislation that year included 
+ clarification of roles and responsibilities of the newly created position of 
+ the Under Secretary of Defense for Acquisition.",0.6599762241570583,4,4
+38,"
+ A More Business-Minded 1990s
+ The nineties saw further application of reform initiatives originally 
+ recommended by the Packard Commission. ",0.8567926363543642,4,3
+39,"The Defense Acquisition 
+ Workforce Improvement Act (DAWIA) of 1990 addressed the need to 
+ improve the quality of the acquisition workforce, establishing formal 
+ career paths and standards for education and training. ",1.373008596792016,4,1
+40,"Following his 
+ inauguration in 1993, President Clinton also signed two reforms into 
+ law. ",0.8717591213451743,4,4
+41,"The Federal Acquisition Streamlining Act of 1994 exempted pro-
+ curement of commercial items from existing laws and expanded the 
+ definition of “commercial product” to broaden its applicability. ",0.9074426168006239,4,1
+42,"The 
+ Clinger-Cohen Act of 1996 eliminated cost accounting standards that 
+ had discouraged commercial companies from doing business with the 
+ A Publication of the Defense Acquisition University 
+ http://www.dau.mil
+ 103
+ ARJ, January 2012, Vol. 19 ",0.8510408955200726,4,0
+43,"No. 1 : 099 — 120
+ federal government. ",0.4913367275216806,5,4
+44,"Both reforms addressed the Blue Ribbon Commis-
+ sion’s findings that a reduction in government red tape and commercial 
+ innovation was key to improved acquisition outcomes.",0.8991070500317917,5,1
+45,"
+ William Perry, a commission member, became Secretary of Defense 
+ in 1994 and initiated the most severe reforms with the famous “Perry 
+ Memo” (1994). ",0.6109019398465244,5,4
+46,"Perry directed the armed services to use commercial 
+ specifications and standards when contracting for goods and services 
+ instead of the index of military specifications and standards then in 
+ existence. ",0.7905797298036135,5,1
+47,"Perry also mandated Integrated Product and Process Develop-
+ ment (IPPD) and Integrated Product Teams (IPTs) to manage program 
+ execution. ",0.9503896868089328,5,6
+48,"Cost as an independent variable (CAIV) would be used to 
+ contain cost growth. ",0.7956252213422806,5,5
+49,"Advanced Concept Technology Demonstrations 
+ would also employ prototypes to reduce risk and maximize operational 
+ utility of new weapon systems (Carter & White, 2000).",0.7512209841179185,5,1
+50,"
+ In 1997, Secretary of Defense William Cohen undertook a series of 
+ additional acquisition reforms under the umbrella of “Defense Reform 
+ Initiative (DRI).” ",0.7421600752616222,5,4
+51,"His DRI Report identified four areas, or pillars, of 
+ reform: Reengineer – adopt modern business practices; Consolidate 
+ – streamline organizations to eliminate redundancy and maximize 
+ synergy; Compete – apply market mechanisms to improve quality and 
+ reduce costs; and Eliminate – reduce excess support structures to free 
+ resources and focus on core competencies (Cohen, 1997). ",1.3296017849289496,5,6
+52,"DRI was largely 
+ a continuation of themes introduced by the Blue Ribbon Commission.",0.5488331489308195,5,4
+53,"
+ New Century, Old Problems—2000–2005
+ With the turn of the century, the Revolution in Military Affairs also 
+ called for a concurrent Revolution in Business Affairs. ",0.4816704907694463,5,3
+54,"With the experi-
+ ence gained since his 1997 appointment, Under Secretary of Defense for 
+ Acquisition, Technology, and Logistics (USD[AT&L]) ",0.49552714485283716,5,4
+55,"Jacques Gansler 
+ put forth a new path for the new century through acquisition reform 
+ in response to studies directed by Congress. ",0.7916529030080091,5,4
+56,"He noted three clear “top 
+ line” goals: reduce cycle times for the development and delivery of new 
+ weapon systems; reduce total ownership costs; and right-size the Defense 
+ Acquisition Workforce and infrastructure to realize savings through 
+ efficiencies, and maximize flexibility in the new business environment 
+ (Gansler, 2000). ",0.9683778076929838,5,6
+57,"Efforts included increasing reliance on an integrated 
+ civil-military industrial base, focus on cost and schedule as priority 
+ parameters over performance, and necessary training of the Defense 
+ Acquisition Workforce on commercial practices.",1.336368199100758,5,6
+58,"
+ The More Things Change, Acquisition Reform Remains the Same
+ 104
+ ARJ, January 2012, Vol. 19 ",0.6179198284476065,5,3
+59,"No. 1 : 099 — 120
+ With his second appointment as Secretary of Defense, Donald H. 
+ Rumsfeld brought his own business-minded approach to transforma-
+ tion. ",0.38389882829477706,6,4
+60,"For Secretary Rumsfeld, buying the right thing was as important 
+ as buying it right, and transformational, network-centric capabilities 
+ were more important to future conflict than legacy systems (Adler, 
+ 2007). ",0.6261083276997251,6,1
+61,"Following a business-like approach, Rumsfeld sought innovation 
+ capabilities from nontraditional defense industries.",0.6898631958197932,6,1
+62,"
+ Are We There Yet?—2005 to Present
+ ",0.2852404756819965,6,5
+63,"Despite the extensive reform efforts, by 2005 DoD and Congressional 
+ leadership as well as President George W. Bush lost confidence in the 
+ acquisition system (Assessment Panel, 2006). ",0.8910136601523838,6,4
+64,"On June 7, 2005, Acting 
+ Deputy Secretary of Defense Gordon England established the Defense 
+ Acquisition Performance Assessment (DAPA) Project to conduct a 
+ sweeping and integrated assessment of “every aspect” of acquisition. ",1.003375385156055,6,4
+65,"
+ DAPA’s major findings included recognition that the industrial base had 
+ consolidated significantly since the mid-eighties and that the nature of 
+ the post-Cold War security environment placed a premium on flexibility 
+ and technological exploitation. ",0.6987958471921325,6,1
+66,"DAPA, like previous efforts, identified 
+ excessive oversight and complex acquisition processes as cost and 
+ schedule drivers, and called for stability of requirements as an essential 
+ element for an effective acquisition system.",1.0500570880902165,6,6
+67,"
+ ",0.0,6,-1
+68,"The history of acquisition reform reflects much has been done to 
+ study the problem, identify candidate solutions, and execute reforms, 
+ only to return to the conclusion that more reform is needed. ",1.297262686419001,6,6
+69,"The most 
+ recent acquisition reform initiatives of the Obama Administration and 
+ the 111th Congress followed suit.",0.7213771105167122,6,4
+70,"
+ Acquisition Reform in 80 Days
+ Secretary of Defense Robert Gates (2009) offered his own convic-
+ tions regarding the need for acquisition reform. ",0.6162523646959963,6,4
+71,"“We must reform how 
+ and what we buy,” he said in his fiscal year 2010 budget recommendation, 
+ “meaning a fundamental overhaul of our approach to procurement acqui-
+ sition and contracting.” ",0.9139984138816395,6,1
+72,"Like President Obama, Gates pulled no punches 
+ in his characterization of the breadth and depth needed for acquisition 
+ reform. ",0.5835923677102269,6,4
+73,"He asserted that dramatic change would be required in order 
+ to maintain U.S. military superiority in an environment of shrinking 
+ economic resources.",1.0011648275886516,6,5
+74,"
+ A Publication of the Defense Acquisition University 
+ http://www.dau.mil
+ 105
+ ARJ, January 2012, Vol. 19 ",0.3541433218257491,6,0
+75,"No. 1 : 099 — 120
+ Secretary Gates identified three fundamental steps to accomplish 
+ needed reform. ",0.842837600870863,7,1
+76,"First, senior leaders must demonstrate commitment and 
+ courage to discontinue programs that are either failing or procuring more 
+ capability than was needed. ",0.7378241714548863,7,5
+77,"Second, performance requirements should be 
+ scrutinized and, as necessary, limited to avoid cost and schedule overruns 
+ while procuring what is technically feasible. ",1.3862529006352005,7,5
+78,"Finally, government program 
+ teams should be adequately staffed for proper oversight, cost estimates 
+ should be more realistic, and budgets protected for program stability.",1.2413510789949898,7,5
+79,"
+ Like President Obama, Secretary Gates recognized the challenge 
+ in leading acquisition reform. ",0.513232183735938,7,4
+80,"It, however, is one thing for the executive 
+ branch to agree and another to work with other stakeholders to make 
+ The More Things Change, Acquisition Reform Remains the Same
+ 106
+ ARJ, January 2012, Vol. 19 ",0.8175140058298795,7,3
+81,"No. 1 : 099 — 120
+ tough decisions on specific programs. ",0.5216131905814092,8,5
+82,"“To do this,” he said, “the President 
+ and I look forward to working with the Congress, industry, and many 
+ others” (Gates, 2009).",0.45611749922762906,8,4
+83,"
+ On May 20, 2009, Senator John McCain issued a floor statement in 
+ support of the U.S. Senate Armed Service Committee (SASC)’s Weapon 
+ Systems Acquisition Reform Act (Weapon Systems, 2009a), which would 
+ be signed into law just two days later. ",0.8727573902371389,8,4
+84,"WSARA was as important for its 
+ substance as it was for the demonstration of bipartisanship (McCain, 
+ 2009). ",0.43911280248381046,8,3
+85,"Congress was united in its pursuit of acquisition reform and in 
+ concert with similar efforts of the President and within DoD, as codified 
+ in Department of Defense Instruction 5000.2 (DoD, 2008).",0.7888401169995259,8,4
+86,"
+ ",0.0,8,-1
+87,"The principal aim of WSARA was to improve the likelihood of suc-
+ cess of major program acquisitions by focusing on decisions at their 
+ inception. ",0.7936162434479176,8,6
+88,"WSARA reforms seek reliable and independent baseline cost 
+ estimates, rigorous early developmental testing and systems engineering 
+ oversight, and strong gatekeeping to prevent programs from proceeding 
+ with too much risk of immature technology. ",1.1845278906761985,8,1
+89,"The goal of early risk reduc-
+ tion sought to facilitate the expanded use of fixed price contracts. ",1.0724123634463214,8,5
+90,"Like 
+ the President, Congress also called for increased use of competition in 
+ WSARA to reduce costs.",1.0888588934670724,8,3
+91,"
+ A final WSARA reform of note was a strengthening of the “Nunn-
+ McCurdy” process. ",0.6766586610578227,8,4
+92,"Nunn-McCurdy provisions require DoD to report to 
+ Congress when cost growth on a major program breaches a critical cost 
+ growth threshold. ",1.0244234418731444,8,1
+93,"Characterized by Senator McCain as “a big stick … to 
+ wield against the very worst performing programs,” the new legislation 
+ required a root-cause assessment of failing programs and presumed 
+ program termination within 60 days of notification unless DoD certified 
+ in writing to the contrary.",0.8836852041319535,8,3
+94,"
+ Within the first 80 days of the new presidential administration, key 
+ senior leaders in the executive and legislative branches of government 
+ united their visions and efforts to re-ignite a transformation of DoD 
+ weapons systems procurement. ",0.7238613150408557,8,1
+95,"OMB subsequently issued numerous 
+ directives (Field, 2009a; 2009b; Gordon, 2009; Orszag, 2009a) as execu-
+ tive branch guidelines. ",0.6859404046603603,8,4
+96,"Moreover, as the year ended, Under Secretary 
+ Dr. Ashton Carter signed out a “Directive-Type Memorandum” (2009) 
+ containing WSARA implementation instructions. ",0.830857494009597,8,4
+97,"Acquisition reform 
+ in the new century did not stop there.",0.6818397831930213,8,3
+98,"
+ A Publication of the Defense Acquisition University 
+ http://www.dau.mil
+ 107
+ ARJ, January 2012, Vol. 19 ",0.3541433218257491,8,0
+99,"No. 1 : 099 — 120
+ In Search of Efficiency
+ On the 65th anniversary of Allied victory in Europe, Secretary Gates 
+ spoke publicly on defense spending. ",0.4716223631739086,9,2
+100,"Calling upon the memory of Presi-
+ dent Eisenhower’s leadership while in office, Secretary Gates agreed, 
+ “the U.S. should spend as much as necessary on national defense—but 
+ not a penny more” (Gates, 2010). ",0.6279608798778761,9,4
+101,"He then went on to recognize that while 
+ the continuing demands of the military would require real growth in the 
+ defense budget of 2 to 3 percent annually, domestic economic pressures 
+ made that level of fiscal support unlikely. ",0.9215667770490323,9,1
+102,"Gates concluded that DoD must 
+ pursue an Efficiencies Initiative to sustain the necessary growth without 
+ commensurate budget increases.",1.1191432902910456,9,1
+103,"
+ Secretary Gates and Under Secretary Carter asserted that their Effi-
+ ciencies Initiative was different from acquisition reform, but key aspects 
+ of the initiative constitute a clear continuation of the transformation 
+ begun the previous year (Carter, 2010c). ",0.729900828294566,9,3
+104,"Objectives included calls for: 
+ delivering systems within budget; getting better buying power; restoring 
+ affordability programs; removing government impediments to leanness; 
+ and avoiding program turbulence. ",1.0531314773246376,9,1
+105,"In a subsequent memorandum, Under 
+ Secretary Carter endorsed a claim that two-thirds of the savings could 
+ be found within existing programs by conducting them more efficiently 
+ and affordably (Carter, 2010b). ",0.7025574078476349,9,4
+106,"Also noting that roughly half of the nearly 
+ $700 billion invested each year on defense is contracted-out, the initia-
+ tive also seeks to improve industry productivity. ",0.612397424546206,9,1
+107,"Once again, there was 
+ recognition that change would be difficult and take time. ",0.6443895941049987,9,5
+108,"Further, a total 
+ team effort that now included industry would be required.",0.9138730657957491,9,5
+109,"
+ Under Secretary Carter provided detailed implementation guidance 
+ to acquisition professionals in separate memos issued in September and 
+ November of 2010 (Carter, 2010a; 2010b). ",0.825630021849967,9,4
+110,"These memos culminated 21 
+ months of acquisition reform since being sworn in. ",0.49521702693639885,9,4
+111,"It is now appropriate 
+ to ask the question: Will this latest attempt at acquisition reform succeed 
+ where 60 years of effort have failed? ",0.5831655876734634,9,3
+112,"One framework for analysis comes 
+ from the organizational change and culture models of Kotter and Schein 
+ (Kotter, 1996; Schein, 1992).",0.8517282422883861,9,6
+113,"
+ Why transformations fail. ",0.26107814562111686,9,5
+114," John P. Kotter (1996) approached his 
+ research by asking why transformation efforts fail. ",0.5455784883420333,9,3
+115,"He concluded that 
+ eight fundamental errors can thwart success. ",0.7028523700777966,9,5
+116,"Using these, he developed 
+ an eight-stage process to create major change. ",0.8961431940196944,9,5
+117,"This article focuses on the 
+ first five, which are foundational to success.",0.667439888732142,9,6
+118,"
+ The More Things Change, Acquisition Reform Remains the Same
+ 108
+ ARJ, January 2012, Vol. 19 ",0.6179198284476065,9,3
+119,"No. 1 : 099 — 120
+ Error No. 1: Allowing too much complacency. ",0.29868666562214535,10,5
+120," Establishing a sense 
+ of urgency is critical to gaining needed cooperation, and the first stage in 
+ Kotter’s change process. ",0.9477181945732116,10,5
+121,"Without urgency, members of the organization 
+ are unlikely to part with old, comfortable ways of doing business. ",0.4938755146910243,10,5
+122,"The ur-
+ gency must clearly demonstrate that the personal cost of not changing is 
+ higher than that of the change being requested. ",1.051236381447129,10,5
+123,"The continued existence 
+ of the organization and loss of one’s job are good examples.",0.7694029154977824,10,5
+124,"
+ Error No. 2: Failure to create a sufficiently powerful guiding co-
+ alition. ",0.5388970766569415,10,5
+125, The second step is creating the guiding coalition. ,0.533605545878678,10,5
+126,"This step 
+ recognizes the fact that no single person can accomplish steps 3 through 
+ 8 single-handedly. ",0.5204148522024014,10,5
+127,"Building a trusted team of powerful, expert, and cred-
+ ible leaders is essential early in the process.",0.7192675542465921,10,5
+128,"
+ Error No. 3: Underestimating the power of vision. ",0.3267943125558969,10,3
+129," Next, success-
+ ful change requires developing a vision and a strategy. ",1.0290017456720035,10,6
+130,"Compared to 
+ authoritarian decrees or micromanagement, Kotter believes that vision 
+ has the power to break through forces that support the status quo. ",0.48054885221143573,10,5
+131,"Vision 
+ provides an image of the future that includes the inherent reason for its 
+ goodness. ",0.8009555465661169,10,5
+132,"Good vision simplifies, motivates, and organizes.",0.8132136083407353,10,5
+133,"
+ Error No. 4: Undercommunicating the vision. ",0.2576961116675574,10,3
+134," Communicating the 
+ vision is step 4 of the process. ",0.5084387114249721,10,5
+135,"Elements for successful visioning include 
+ simplicity of message, multiple forums for communication, and expla-
+ nation of seeming inconsistencies. ",0.5831548415039566,10,5
+136,"Most importantly, repetition of the 
+ message by leaders is essential. ",0.5066943040915253,10,5
+137,"Repeating the vision not only ensures the 
+ message is received, but also underscores its importance.",0.4162475911348253,10,5
+138,"
+ Error No. 5: Permitting obstacles to block the new vision. ",0.38892620909404674,10,5
+139," Once the 
+ leadership team successfully conveys a sense of urgency and vision, or-
+ ganizational members should be empowered for broad-based action. ",0.7946842066377235,10,5
+140,"This 
+ fifth step recognizes that members who support change may encounter 
+ barriers to action. ",0.794926258189446,10,5
+141,"These can be structural impediments, lack of skills, 
+ bad supervisors, or organizational systems and processes processes that 
+ get in the way. ",0.5933952787437872,10,5
+142,Removing these barriers will facilitate culture change.,0.876913532724987,10,5
+143,"
+ How to change culture. ",0.7898383256280632,10,5
+144," In  Organizational Culture and 
+ Leadership,  Schein (1992, pp. 230–245) described how leaders use 
+ primary embedding mechanisms to create or change an organizational 
+ climate. ",0.9737775840166167,10,6
+145,"Embedding mechanisms teach members of an organization 
+ how to perceive, think, feel, and behave in accordance with the desired 
+ A Publication of the Defense Acquisition University 
+ http://www.dau.mil
+ 109
+ ARJ, January 2012, Vol. 19 ",0.5822042654457064,10,3
+146,"No. 1 : 099 — 120
+ transformational outcome. ",0.3885884253272809,11,5
+147,"The primary mechanisms are: what leaders 
+ pay attention to, measure, and control on a regular basis; how leaders 
+ react to critical incidents and organizational crises; how leaders allocate 
+ resources; deliberate role modeling, teaching, and coaching; how leaders 
+ allocate rewards and status; and how leaders recruit, select, promote, 
+ and excommunicate members. ",0.993378519857549,11,5
+148,"Through these mechanisms, leaders 
+ demonstrate, through their own behavior, what is important. ",0.5509619226413626,11,5
+149,"Together, 
+ the models of Kotter and Schein provide a framework for analysis of the 
+ current acquisition reform efforts.",0.8819115032953428,11,6
+150,"
+ Likelihood of Success
+ Historically, acquisition reform has failed to achieve stated goals and 
+ objectives. ",0.6679870232428804,11,6
+151,"Looking through the prism of Kotter’s eight-stage process and 
+ Schein’s embedding mechanisms, we can gain some insight into what to 
+ expect of the most recent efforts.",0.5615585534750028,11,6
+152,"
+ Sense of Urgency or Culture of Complacency?
+ Existing statements and actions to create a sense of urgency, step 1 in 
+ Kotter’s change process, are unequivocal. ",0.8084062880097441,11,5
+153,"In May 2009, President Obama 
+ invoked the specter of trillions of dollars of U.S. debt, the economic crisis, 
+ and the GAO’s data on procurement inefficiency to argue his case. ",0.579121018825288,11,4
+154,"Dur-
+ ing the WSARA signing ceremony, he broadened his reform appeal by 
+ claiming it would “better protect our nation, better protect our troops” 
+ (Obama, 2009a). ",0.7543585577578731,11,3
+155,"The SASC (Weapon Systems, 2009b) recorded similar 
+ views in part to increase awareness of the need for reform. ",0.8409742622857906,11,1
+156,"Additionally, 
+ Secretary Gates (2009) tied his imperative to current missions and those 
+ in the future, and taking care of people. ",0.6325993344289979,11,1
+157,"His Efficiencies Initiative goals 
+ alone add to the sense of urgency—which could not be achieved without 
+ change. ",0.7274938134228726,11,6
+158,"These statements of urgency, coupled with leadership direction, 
+ are routinely passed along to the Defense Acquisition Workforce in offi-
+ cial communications and other communications media (Carter, 2010d). ",0.567599744364336,11,1
+159,"
+ Is this enough to overcome the inertia of the acquisition bureaucracy?",0.3213777072667287,11,3
+160,"
+ Urgency must overcome complacency. ",0.29458846326246835,11,5
+161," The statements 
+ and their motivational influence appear compelling, and yet challenges 
+ lie in human nature and mixed messages (Kotter, 1996). ",0.49556024331188975,11,5
+162,"The Defense 
+ Acquisition Workforce is comprised of well-compensated employees with 
+ little threat to their employment status. ",0.5148447401539562,11,1
+163,"Acquisition professional Dave 
+ Frick (2010) noted that the culture of DoD is risk averse and permeates 
+ the acquisition community. ",0.5704017627513621,11,6
+164,"Such caution about the prospects of program 
+ The More Things Change, Acquisition Reform Remains the Same
+ 110
+ ARJ, January 2012, Vol. 19 ",0.6555379568552588,11,3
+165,"No. 1 : 099 — 120
+ failure reinforces complacency to stick with existing “safe” practices. ",0.44324835074604274,12,5
+166,"
+ Frick challenged the community to embrace agile acquisition, which 
+ requires a culture that encourages risk taking and innovative thinking. ",1.0102167515574443,12,6
+167,"
+ With no direct cause-and-effect relationship (reward or consequences) 
+ between the declared urgency and employment or compensation, a 
+ problem that the now-failed National Security Personnel System 
+ attempted to address, the declared crisis might be safely ignored as 
+ someone else’s problem (Corrin, 2009; Risher, 2010).",0.7566798097581041,12,5
+168,"
+ Mixed messages can also abet status-quo complacency. ",0.32003381545184817,12,5
+169,"In the very 
+ address President Obama made when signing WSARA, he stated, “As 
+ Commander-in-Chief, I will do whatever it takes to defend the American 
+ people, which is why I’ve increased funding for the best military in the 
+ history of the world” (Obama, 2009a). ",0.9498568291577634,12,4
+170,"He went on to say that waste was 
+ unacceptable, but if the United States will indeed cover the cost no mat-
+ ter what, how urgent can the situation be? ",0.6019367549912548,12,3
+171,"Similar mixed messages are 
+ also coming from DoD and the SASC in their management of the F-35 
+ program. ",0.5231978261665651,12,1
+172,"Recently revealed to be over budget and over schedule again, 
+ the high-visibility program has already defied attempted reforms by 
+ being “too big to fail” (Martin, 2010). ",0.8872372493755929,12,3
+173,"The Senate has also continuously 
+ added unrequested money to the budget for a second engine source, 
+ which DoD says is not needed (Shalai-Esa, 2010; Wolf, 2010).",0.6740797717691803,12,1
+174,"
+ Culturally, senior leaders may be failing to embed desired behaviors 
+ in the Defense Acquisition Workforce largely through how they react to 
+ organizational crises and critical incidents. ",0.6754955308231592,12,6
+175,"With acquisition personnel 
+ feeling little personal risk and hearing mixed messages, the uninten-
+ tional consequence may be that the status quo is not changed. ",0.6236884825927176,12,5
+176,"A reviewer 
+ noted that this is the heart of the arguments posed by Kotter and Schein. ",0.38662757879056464,12,3
+177,"
+ While leaders may offer platitudes about organizational goals and objec-
+ tives, it is essential that they present clear and compelling statements 
+ as to why things must change. ",0.7626404518582112,12,5
+178,"Such statements must be accompanied 
+ with strategies and the means to enforce accountability. ",0.5184325134977538,12,1
+179,"Given a path is 
+ established, metrics are essential to transforming the culture of acquisi-
+ tion professionals and providing consequences for those who do not get 
+ on board. ",0.8652438821937373,12,6
+180,"In the Jim Collins “Good to Great” (2001) vernacular—get the 
+ wrong people off the bus. ",0.48396775438831546,12,3
+181,"Collins noted that great organizations have a 
+ culture of rigor and discipline. ",0.4319259153302258,12,5
+182,"One business leader exemplar interviewed 
+ in his book offered, “You can set your objectives for the year, you can 
+ record them in concrete. ",0.7637058320286347,12,5
+183,"You can change your plans through the year, but 
+ A Publication of the Defense Acquisition University 
+ http://www.dau.mil
+ 111
+ ARJ, January 2012, Vol. 19 ",0.6380317207877105,12,0
+184,"No. 1 : 099 — 120
+ you never change what you measure yourself against” (p. 122). ",1.0562202832173382,13,5
+185,"Without 
+ clearly expressed metrics and a culture of discipline, the status quo will 
+ erode the urgency to change.",0.733726336763052,13,5
+186,"
+ Guiding coalition or top-down direction? ",0.5160252943522775,13,1
+187," The President, the 
+ Secretary of Defense along with his USD(AT&L), and two of the more 
+ powerful committees of Congress comprise a dream team of sorts. ",0.49900479064734676,13,4
+188,"But, 
+ does that coalition include enough of the procurement enterprise to 
+ complete the transformation called for in acquisition reform? ",0.8346307647388572,13,1
+189,"The pace 
+ of today’s business environment, in addition to DoD’s size, requires a 
+ powerful and empowered coalition in place that can decide, act, and 
+ lead as a team (Kotter, 1996). ",0.8622875926409834,13,5
+190,"Such an entity does not appear to exist for 
+ acquisition reform.",0.5129684942736632,13,3
+191,"
+ ",0.0,13,-1
+192,"An examination of the executive branch’s organizational charts 
+ reveals many offices within the White House and DoD with roles in 
+ acquisition reform. ",0.5277850416855681,13,4
+193,"The challenge is identifying a coherent, empowered, 
+ and representative coalition. ",0.5655998450786739,13,5
+194,"Instead, guidance and decision making 
+ appears to be formulated within the Office of the Secretary of Defense 
+ and disseminated through top-down directives. ",0.761273876005635,13,1
+195,"This approach risks 
+ disempowering many constituents at the next level of “key” players. ",0.5414853543025024,13,5
+196,"
+ Perceived as part of the problem instead of part of the solution, these 
+ powerful leaders are a missing ingredient from Kotter’s change coalition 
+ that are essential for success.",0.7276191123315666,13,5
+197,"
+ Culturally, the current approach appears to miss an opportunity to 
+ embed desired behavior. ",0.40762540201564906,13,5
+198,"Establishing a guiding coalition gives leaders 
+ an opportunity to demonstrate preferences simply by whom they select 
+ and how their performance is evaluated. ",0.9353118843643498,13,5
+199,"Making more formal use of a 
+ guiding coalition could also offer opportunities to exercise role model-
+ ing and coaching as a tool for transformation. ",0.8561853313099721,13,5
+200,"Michael Kotzian, in his 
+ Defense Acquisition Review Journal  award-winning paper (2010, pp. ",0.6143239519132733,13,2
+201,"
+ 158–181), asserted, “the importance of leadership…within DoD’s acqui-
+ sition community—is paramount…to overcome the resistance to policy 
+ change” (p. 161). ",0.7142296912474927,13,6
+202,"Kotzian convincingly argued that while the majority 
+ of acquisition reform approaches focused on adjustments to processes 
+ and procedures, the critical enabler of change is the Defense Acquisition 
+ Workforce. ",0.8221893465700469,13,6
+203,"The coalition to effectively guide change must come from 
+ within the community of practitioners. ",0.7313704834512034,13,5
+204,"Despite the substantial efforts 
+ of senior acquisition leaders, there are still concerns with achieving 
+ The More Things Change, Acquisition Reform Remains the Same
+ 112
+ ARJ, January 2012, Vol. 19 ",0.8371995423626919,13,6
+205,"No. 1 : 099 — 120
+ performance, cost, and schedule objectives as documented in the Con-
+ gressional Research Service reports on defense acquisition (Chadwick, 
+ 2007; Schwartz, 2010).",1.0032475878252705,14,1
+206,"
+ ",0.0,14,-1
+207,Vision or decree? ,0.22268657126703195,14,3
+208," Slightly different interests motivate each group 
+ of potential change agents. ",0.6346037247421675,14,5
+209,"The nexus of agreement seems to be the need 
+ to execute weapons procurement more efficiently, but beyond that, what 
+ vision will motivate change?
+ ",0.885810054235893,14,5
+210,"According to Kotter, a good vision conveys a picture of what the 
+ future will look like, appeals to the long-term interests of stakehold-
+ ers, and comprises realistic, attainable goals. ",0.691177764505378,14,5
+211,"The Office of Defense 
+ Procurement and Acquisition Policy website offers the following vision 
+ statement: “Acquisition excellence through leadership with integrity” 
+ (Defense Procurement, n.d.). ",0.8159989888952578,14,4
+212,This says nothing about reform at all. ,0.7560441747950781,14,3
+213,"An 
+ unofficial vision statement of sorts has recently appeared, “Do more 
+ without more” (Carter, 2010a). ",0.3349201417008292,14,4
+214,"Whether this will inspire the workforce 
+ though, remains to be seen. ",0.40348127520848637,14,3
+215,"It is also unclear what effect was intended by 
+ A Publication of the Defense Acquisition University 
+ http://www.dau.mil
+ 113
+ ARJ, January 2012, Vol. 19 ",0.43121115283243683,14,0
+216,"No. 1 : 099 — 120
+ abandoning the term “acquisition reform” in the Efficiencies Initiative, 
+ except perhaps to disassociate it from previous failures. ",0.5101640639812108,15,3
+217,"One unintended 
+ consequence of all three statements, though, could be confusion. ",0.3358381165372683,15,5
+218,"Exhor-
+ tations for change can become background noise to be ignored by the 
+ more complacent members of the organization.",0.571879717412774,15,5
+219,"
+ Culturally, a clear and compelling vision statement could be used 
+ to identify what leadership will pay attention to during the transforma-
+ tion. ",0.7811417116343672,15,5
+220,"One of Schein’s embedding mechanisms is that leaders are engaged 
+ in deliberate role modeling, teaching, and coaching (pp. 240–242). ",0.5577416058420572,15,5
+221,"If 
+ reform is important, then it should be captured in the vision and part 
+ of every formal and informal communication. ",0.6494878607075031,15,5
+222,"A few well-thought out 
+ sentences could expand on the existing goals to include a general strat-
+ egy for getting there: a strategy that could be followed up with metrics 
+ to track progress. ",1.056439765283361,15,5
+223,"Acquisition senior leaders should seize opportunities 
+ to engage in conversations with the Defense Acquisition Workforce and 
+ demonstrate through their words and actions that reform is essential.",0.8350282912908079,15,6
+224,"
+ Empowered change or structural barriers? ",0.6321242440152144,15,5
+225," Kotter revealed 
+ the impact on change efforts, like acquisition reform, that formal 
+ structures and personnel systems can have. ",0.79900221004001,15,6
+226,"Stated simply, the way an 
+ organization is structured—its rules of behavior or formal processes 
+ (Schein’s reinforcing mechanisms) and the incentives inherent in a 
+ reward system (embedding mechanisms)—can thwart employees’ 
+ intended support of any change effort. ",0.816226883225897,15,5
+227,"Without effective embedding 
+ mechanisms for acquisition reform, powerful internal and external 
+ stakeholder groups are not required or incentivized to assist the change 
+ effort. ",0.8301573567046218,15,5
+228,"The requirements and budget communities, for example, have 
+ unique interests that may not include on-time and on-budget delivery. ",0.8748445822720798,15,5
+229,"
+ The defense industry itself may also not be inclined to change if it 
+ affects profitability. ",0.5628670582840252,15,3
+230,"Similarly, prescriptive rules governing program 
+ execution can also unintentionally establish their own barriers to 
+ change. ",0.8384163015581524,15,5
+231,"The 2009 WSARA legislation alone established, in law, detailed 
+ rules of program execution in areas such as milestone certification, 
+ systems engineering, and competition. ",0.9135974983703079,15,1
+232,"Adherence to these new rules is 
+ mandatory, and expensive bureaucracy must exist to ensure compliance.",0.8555925606231806,15,5
+233,"
+ There is also the issue of incentive. ",0.7705771336001946,15,1
+234,"Is employee performance in the 
+ acquisition community, both military and civilian as well as stakehold-
+ ers, evaluated on the basis of acquisition reform goals? ",0.7678722666336122,15,1
+235,"Some critics 
+ assert that rewards are usually based on achieving the unit mission 
+ The More Things Change, Acquisition Reform Remains the Same
+ 114
+ ARJ, January 2012, Vol. 19 ",0.7485750627697629,15,6
+236,"No. 1 : 099 — 120
+ and may not be tied to acquisition reform outcomes. ",0.5463724079795454,16,3
+237,"This can lead to 
+ suboptimized performance or even frustration at the employee level or, 
+ as Kotter put it, barriers to empowerment.",0.7813330919686003,16,5
+238,"
+ In “A Ten-Year Review of the Vision for Transforming the Defense 
+ Acquisition System,” Rogers and Birmingham (2004, pp. 37–59) noted 
+ that DoD acquisitions are subjected to political influence to the point 
+ where critics hold there is little hope for real reform. ",0.7322152522973394,16,3
+239,"The two authors 
+ contend, however, that leaders within the bureaucracy have the pro-
+ fessional obligation to drive improvements with clear change visions. ",0.825057212031975,16,5
+240,"
+ This requires restructuring organizations, processes, and systems to 
+ transform the acquisition community. ",0.6584557495381339,16,6
+241,"One such structural change is a 
+ proposal to institute Acqusition Centers of Excellence to provide effi-
+ ciencies through joint (cross-Service) and collaborative effort (Starks, 
+ 2008, pp. 28–32). ",0.8294591089622426,16,1
+242,"The tendency of organizations is to default to reinforc-
+ ing mechanisms to change organizational structure—to “rearrange the 
+ deck chairs” rather than address the fundamental problems of senior 
+ leadership and direction. ",0.8915398534149466,16,6
+243,"Program manager Thomas Miller (November–
+ December 2010, p. 30) identified root causes as “an unequal distribution 
+ of power and influence [combined] with systemic disincentives.” ",0.7139508175795923,16,1
+244,"Much 
+ needs to be accomplished to refute a RAND study that found “insuffi-
+ cient cultural, organizational, and intellectual change in the DoD” and 
+ “serious structural and cultural impediments that hinder the ability of 
+ the acquisition process to deliver desired outcomes” (Hanks, Axelband, 
+ Lindsay, Malik, & Steele, 2005, pp. 67, 142).",0.8568970747557866,16,6
+245,"
+ A Path to Viable Acquisition Reform
+ Sixty years of acquisition reform has yielded a procurement system 
+ that requires more reform (GAO, 2011). ",0.787307436912877,16,3
+246,"In 2009, President Obama took 
+ office and joined forces with the incumbent Secretary of Defense along 
+ with an interested and motivated Congress to give it another try. ",0.5443090768622856,16,4
+247,"Rec-
+ ognizing that the scope and level of effort called for are nothing short of 
+ transformational, we selected five elements of Kotter’s eight-stage pro-
+ cess for change and used Schein’s concepts of embedding mechanisms for 
+ organizational culture to analyze this latest effort’s likelihood of success.",0.8759478501419553,16,5
+248,"
+ Based on this analysis, the prospects for lasting reform are gloomy. ",0.825918385306123,16,3
+249,"
+ Efforts to establish a compelling argument for change among the Defense 
+ Acquisition Workforce and stakeholders are undercut by mixed messages 
+ such as “whatever it takes.” ",0.7955051498621083,16,6
+250,"It also does not appear as though an effective 
+ A Publication of the Defense Acquisition University 
+ http://www.dau.mil
+ 115
+ ARJ, January 2012, Vol. 19 ",0.43883622833739977,16,0
+251,"No. 1 : 099 — 120
+ guiding coalition or unifying vision exists that can motivate change and 
+ embed its ideals into the culture of the acquisition community. ",0.728101570604753,17,6
+252,"In addi-
+ tion, important barriers to empowerment remain in place.",0.47907297360739326,17,5
+253,"
+ “Culture isn’t just one aspect of the game –it is 
+ the game.” ",0.42030228088734284,17,5
+254,"(Gerstner, 2002, p. 182)
+ Former IBM Chief Executive Officer Lou Gerstner observed that no 
+ enterprise would succeed unless elements of success are embedded in 
+ its DNA. ",0.5229615033926679,17,1
+255,"To overcome inefficiency in acquisition totaling $296 billion, 
+ the ad hoc leadership team needs to go beyond peripheral recognition 
+ of the importance of culture change as a component of transformation 
+ and instead embrace it as the centerpiece of true reform. ",0.8674959187021267,17,6
+256,"Using Schein’s 
+ cultural embedding mechanisms, we suggest the following.",0.9353629963190467,17,5
+257,"
+ DoD should clarify, simplify, and standardize metrics by which it 
+ measures success, then pay attention to those metrics and hold people 
+ accountable for them. ",0.9154226376935383,17,5
+258,"We recommend outcome-based measures that 
+ prudently balance performance with schedule and cost. ",1.3067829410479883,17,5
+259,"This focus could 
+ form the basis for a simple, compelling, and unifying vision such as  DoD 
+ Procurement Promised Performance, On Time, On Budget . ",0.987174135899351,17,5
+260,"Performance 
+ is the sine qua non of acquisition programs; hence, its measures retain 
+ prime importance while in tension with factors of schedule and cost. ",1.0572423931552586,17,5
+261,"
+ Monitoring and adapting performance metrics form the trade space to 
+ preserve on-time and on-budget outcomes.",0.9902872863888482,17,5
+262,"
+ DoD should also formally identify its guiding coalition, recogniz-
+ ing that acquisition program outcomes are influenced by stakeholders 
+ outside the professional acquisition corps. ",0.7835721392684452,17,5
+263,"That coalition should be 
+ empowered and used as an embedding mechanism of cultural change: 
+ deliberate role modeling, teaching, and coaching; allocation of rewards 
+ and status; and recruitment, selection, and promotion. ",0.7066731012735215,17,5
+264,"Flag officers and 
+ senior civilians, to include those in department and Service-level head-
+ quarters, warfighter resource representatives, and support agencies 
+ should be included. ",0.9282284997479856,17,1
+265,"Recognizing this has the potential to be a large group, 
+ a tiered management approach could be used to retain some efficiency 
+ while taking advantage of the breadth and depth of the coalition’s reach.",0.7831224783038802,17,5
+266,"
+ The More Things Change, Acquisition Reform Remains the Same
+ 116
+ ARJ, January 2012, Vol. 19 ",0.6179198284476065,17,3
+267,"No. 1 : 099 — 120
+ Importantly, using the measures of merit identified above,  all  mem-
+ bers of this group should in some way be accountable for the outcomes of 
+ the programs in which they have a stake. ",0.7487035974345787,18,5
+268,"This action is crucial in pursuit 
+ of what Schein calls “cognitive restructuring” (1992, p. 325), where indi-
+ viduals become open to new information and ways of thinking. ",0.6103280538900445,18,5
+269,"Through 
+ broad enforcement of the new standards, this advocacy group will be 
+ motivated to set the example that their members can imitate. ",0.6337641650588615,18,5
+270,"There, 
+ however, is the proverbial rub. ",0.1153567597292501,18,2
+271,"Given that many members seek to repre-
+ sent the interests of their constituents and can say no with impunity, it is 
+ necessary to provide transparency in the process, document dissent, and 
+ hold members accountable for their actions as contributors to achieve 
+ reform and transformation.",0.9922555125456085,18,5
+272,"
+ Conclusions
+ This article opened with the question, “But, will it all work?” ",0.8050702415917472,18,5
+273,"Through 
+ an analysis that applied Kotter’s model of organizational change and 
+ Schein’s approach to organizational culture and leadership, our conclu-
+ sion suggests not. ",0.8933604513897752,18,5
+274,Behavioral change is needed to cause transformation. ,0.7353426391408628,18,6
+275,"
+ Acquisition reforms can be coerced, but will not endure as true transfor-
+ mation unless cultural change occurs. ",0.702821329203571,18,5
+276,"Success requires commitment to 
+ change over simple compliance to superficial rewards and consequences. ",0.7810906607380038,18,5
+277,"
+ Effective reform requires embedding leadership actions and institutional 
+ processes to drive change in the culture of defense acquisition. ",1.1541218528185868,18,6
+278,"It is time 
+ to undertake a long-term, culturally focused effort to transform DoD’s 
+ acquisition process.",0.6408434551947502,18,6
+279,"
+ A Publication of the Defense Acquisition University 
+ http://www.dau.mil
+ 117
+ ARJ, January 2012, Vol. 19 ",0.3541433218257491,18,0
+280,"No. 1 : 099 — 120
+ Author Biographies
+ Col Peter K. eide, UsAF,  is a career 
+ acquisition professional, currently serving 
+ as Chief of the Simulators Division, Agile 
+ Combat Support Directorate, Aeronautical 
+ Systems Center, Air Force Materiel Command, 
+ Wright-Patterson Air Force Base, Ohio. ",0.7887741431327946,19,2
+281,"Col 
+ Eide entered the Air Force in 1989 as a 
+ graduate from the Air Force Reserve Officer 
+ Training Corps program at the University of 
+ Wisconsin, Madison. ",0.6460299489951761,19,2
+282,"He holds a BS in 
+ Electrical Engineering from the University 
+ of Wisconsin-Madison, an MSEE from the 
+ Air Force Institute of Technology, and a 
+ master’s in Strategic Studies from the U.S. 
+ Army War College.",0.8218668671750305,19,2
+283,"
+ (E-mail address: peter.eide@us.af.mil)
+ CoL Charles D. Allen, UsA (Ret.) ",0.5180642787731433,19,2
+284," is a 
+ professor of leadership and cultural studies 
+ in the Department of Command, Leadership, 
+ and Management at the U.S. Army War Col-
+ lege, Carlisle Barracks, PA. ",0.7649043266816485,19,2
+285,"He holds a BS 
+ from the U.S. Military Academy, an MS in 
+ Operations Research from Georgia Tech, an 
+ MMAS from the School of Advanced Military 
+ Studies, and a master’s in Strategic Studies 
+ from the U.S. Army War College.",0.7682108929091944,19,2
+286,"
+ (E-mail address: charlesd.allen@us.army.mil)",0.5797638068114818,19,2
+287,"
+  
+ The More Things Change, Acquisition Reform Remains the Same
+ 118
+ ARJ, January 2012, Vol. 19 ",0.6179198284476065,19,3
+288,"No. 1 : 099 — 120
+ References
+ Adler, B. (2007, March 20). ",0.3045312700424182,20,0
+289,"Procuring failure: Why did Donald Rumsfeld fail at military 
+ acquisitions reform? ",0.5911649614749235,20,3
+290,The same reasons he failed at everything. ,0.27797550702146095,20,3
+291, The American Prospect. ,0.28357224188564173,20,2
+292," 
+ Retrieved from http://prospect.org/cs/articles?article=procuring_failure#
+ Assessment Panel of the Defense Acquisition Performance Assessment Project. ",0.8035093644467071,20,0
+293,(2006). ,0.0,20,-1
+294,"
+ Defense Acquisition Performance Assessment Report. ",0.9214487341730765,20,1
+295, Retrieved from https://acc.dau.,0.3213860065552182,20,0
+296,"
+ mil/CommunityBrowser.aspx?id=32595
+ Carter, A. B. (2009). ",0.2843087959636689,20,0
+297," Implementation of the Weapon Systems Acquisition Reform Act of 
+ 2009  [Directive-Type Memorandum 09-027]. ",1.0704327445625348,20,4
+298,"Retrieved from http://www.dtic.mil/whs/
+ directives/corres/pdf/DTM-09-027.pdf
+ Carter, A. B. (2010a). ",0.6126161516098114,20,0
+299," Better buying power: Guidance for obtaining greater efficiency and 
+ productivity in defense spending  [Memorandum]. ",0.6764947902563943,20,1
+300,Retrieved from http://www.acq.osd.,0.334012395485217,20,0
+301,"
+ mil/docs/usD_ATl_Guidance_Memo_september_14_2010_FiNAl.PDF
+ Carter, A. B. (2010b). ",0.48451508537884175,20,0
+302," Better buying power: Mandate for restoring affordability and productivity 
+ in defense spending  ",0.6963179890824072,20,1
+303,[Memorandum]. ,0.37997337068545345,20,4
+304,"Retrieved from http://mil-oss.org/resources/us-
+ dod_policy-memo_carter-memo-on-defense-spending-28-jun-2010.pdf
+ Carter, A. B. (2010c). ",0.6500321943735313,20,0
+305," DoD news briefing with Under Secretary Carter with opening remarks by 
+ Secretary Gates from the Pentagon. ",0.39061108216332124,20,4
+306," Retrieved from http://www.defense.gov/transcripts/
+ transcript.aspx?transcriptid=4648
+ Carter, A. B. (2010d). ",0.35446050734950557,20,0
+307,The Pentagon is serious about saving money [op-ed]. ,0.427174682902108,20,2
+308," The Wall Street 
+ Journal. ",0.3297265711246312,20,2
+309," Retrieved from http://www.acq.osd.mil/news.html
+ Carter, A B., & White, J. P. (eds.). ",0.39098237225164856,20,0
+310,(2000). ,0.0,20,-1
+311, Keeping the edge: Managing defense for the future. ,0.5086057185334917,20,1
+312," 
+ Cambridge, MA: Harvard Kennedy school, The Preventive Defense Project.",0.5032152344410414,20,2
+313,"
+ ",0.0,20,-1
+314,"Chadwick, s. H. (2007). ",0.13816061644450253,20,2
+315," Defense acquistion: Overview, issues, and options for Congress. ",0.6996336952524921,20,4
+316," 
+ Washington, DC: Congressional Research service, The library of Congress.",0.571771131867072,20,0
+317,"
+ Clinger-Cohen Act of 1996, 40 u.s.C., Pub. ",0.7070799430228674,20,4
+318,l. 104–106 (1996).,0.0,20,-1
+319,"
+ Cohen, W. s. (1997). ",0.25351876023421954,20,2
+320, Defense reform initiative report. ,0.6988314834052657,20,4
+321," Washington, DC: Department of Defense.
+ ",0.3810600872711125,20,0
+322,"Collins, J. (2001). ",0.18057871166355943,20,2
+323, Good to great: Why some companies make the leap … and others don’t. ,0.6811960898654108,20,5
+324," New 
+ York: Harper Business.",0.32679922701589936,20,2
+325,"
+ ",0.0,20,-1
+326,"Corrin, A. (2009, october 28). ",0.21623903811635684,20,2
+327,obama signs bill that kills DoD pay-for-performance system. ,0.6259361325174166,20,4
+328,"
+ Federal Computer Week. ",0.4280796407227023,20,2
+329," Retrieved from http://fcw.com/Articles/2009/10/28/obama-
+ defense-authorization-and-NsPs.aspx
+ Defense Acquisition Workforce improvement Act of 1990, 10 u.s.C., Pub. ",0.7772910186309564,20,0
+330,l. 101-510 (1990).,0.0,20,-1
+331,"
+ Defense Procurement and Acquisition Policy. ",0.5386132703486216,20,4
+332,(n.d.). ,0.0,20,-1
+333," Defense procurement and acquisition 
+ policy. ",0.5386132703486216,20,4
+334," Retrieved from http://www.acq.osd.mil/dpap/
+ Department of Defense. ",0.3945529191311502,20,0
+335,(2008). ,0.0,20,-1
+336," Operation of the defense acquisition system  (DoDi 
+ 5000.02). ",0.45465180299435587,20,0
+337,"Washington, DC: office of the under secretary of Defense (Acquisition, 
+ Technology and logistics).",0.5584524312968707,20,0
+338,"
+ Federal Acquisition streamlining Act of 1994, 10 u.s.C., Pub. ",0.8317843482075266,20,4
+339,l. No. 103-355 (1994).,0.0,20,-1
+340,"
+ Field, l. A. (2009a). ",0.3083377465119119,20,1
+341, Improving the use of contractor performance information  [Memorandum]. ,1.1249279019149818,20,1
+342,"
+ Retrieved from http://www.whitehouse.gov/omb/procurement_index_gov_contracting
+ Field, l. A. (2009b). ",0.47640654342117794,20,0
+343," Increasing competition and structuring contracts for the best results  
+ [Memorandum]. ",0.8396059563713004,20,1
+344,"Retrieved from http://www.whitehouse.gov/omb/procurement_index_
+ gov_contracting
+ Frick, D. e. (2010). ",0.4417674943098542,20,0
+345,embracing uncertainty in DoD acquisition. ,0.36453290031217006,20,1
+346," Defense Acquisition Review 
+ Journal, 17 (3), 355–373.",0.6323310063152455,20,0
+347,"
+ A Publication of the Defense Acquisition University 
+ http://www.dau.mil
+ 119
+ ARJ, January 2012, Vol. 19 ",0.3541433218257491,20,0
+348,"No. 1 : 099 — 120
+ Gansler, J. (2000). ",0.28660310490577945,21,2
+349," The road ahead: Accelerating the transformation of Department of Defense 
+ acquisition and logistics processes and practices. ",0.574725117094543,21,1
+350," Washington, DC: Department of 
+ Defense.",0.3810600872711125,21,0
+351,"
+ Gates, R. M. (2009, April 6). ",0.2446940862556167,21,4
+352, Defense budget recommendation statement  [speech]. ,0.922132252578822,21,4
+353,"Retrieved 
+ from http://www.defense.gov/speeches/speech.aspx?speechid=1341
+ Gates, R. M. (2010, May 8). ",0.36073606570176164,21,0
+354, Defense spending  [speech]. ,0.37077773200926545,21,4
+355,Retrieved from http://www.defense.,0.2949329800376209,21,0
+356,"
+ gov/speeches/speech.aspx?speechid=1467
+ Gerstner, J. l. (2002). ",0.2700402056313336,21,0
+357, Who says elephants can’t dance. ,0.212294985908591,21,2
+358," New York: Harper Collins.
+ ",0.3181716917648067,21,2
+359,Goldwater-Nichols Department of Defense Reorganization Act of 1986. ,0.668761604681499,21,4
+360,"10 u.s.C., Pub. ",0.44391726814475346,21,2
+361,"l. 99-
+ 433 (1986).",0.0,21,-1
+362,"
+ ",0.0,21,-1
+363,"Gordon, D. i. (2009). ",0.16959427086538434,21,2
+364, Achieving better value from our acquisitions  [Memorandum]. ,0.7933617745294279,21,1
+365,"Retrieved 
+ from http://www.whitehouse.gov/omb/procurement_index_gov_contracting
+ Hanks, C. H., Axelband, e., lindsay, s., Malik, M. R., & steele, B. D. (2005). ",0.4544358725547031,21,0
+366," Reexamining military 
+ acquisition reform: Are we there yet? ",0.47689554344571444,21,4
+367," Arlington, VA: RAND Corporation.",0.3354067188401067,21,2
+368,"
+ Hearing to Consider the Nomination of: Dr. Ashton B. Carter to be under secretary of Defense 
+ for Acquisition, Technology, and logistics Before the u.s. senate, Committee on Armed 
+ services, 111th Cong. ",0.6930403865050314,21,4
+369,(2009).,0.0,21,-1
+370,"
+ Kotter, J. P. (1996). ",0.24499589698234164,21,3
+371, Leading change. ,0.6722276499036327,21,5
+372, Boston: Harvard Business Press.,0.3783821756895202,21,2
+373,"
+ Kotzian, M. J. (2010, April). ",0.2973004915166264,21,2
+374,"Acquistion leadership: An opportunity lost for acquisition 
+ excellence. ",0.6109676470213694,21,1
+375," Defense Acquisition Review Journal, 17 (2), 158–181.
+ ",0.6323310063152455,21,0
+376,"Martin, D. (2010, December 1). ",0.22358373826554986,21,2
+377, Tough choices. ,0.24979868871400254,21,3
+378," Retrieved from http://www.cbsnews.com/
+ stories/2010/12/01/eveningnews/main7107869.shtml
+ McCain, J. u. (2009, May 20). ",0.31834526945862385,21,0
+379," Floor statement by Senator John McCain on conference 
+ report for Weapon Systems Acquisition Reform Act of 2009. ",0.7275360366326741,21,4
+380," Retrieved from 
+ http://www.mccain.senate.gov/public/index.cfm?FuseAction=Pressoffice.",0.40893495758095255,21,0
+381,"
+ Floorstatements&ContentRecord_id=5FF73969-B914-267e-F3eD-AC1eBD628194
+ Miller, T. H. (2010, November-December). ",0.3558506329068631,21,2
+382,"Rearranging the deck chairs on the Titanic: Why 
+ does acquisition reform never work? ",0.5011744352286532,21,3
+383," Defense AT&L, 39 (6), 26–30.",0.2386294504116775,21,0
+384,"
+ National Defense Authorization Act for Fiscal Year 1987, Pub. ",0.7954769175105691,21,4
+385,"l. 99-661, 100 stat. ",0.4061210995100262,21,2
+386,3816 (1986).,0.0,21,-1
+387,"
+ obama, B. H. (2009a). ",0.23828595301977518,21,4
+388," Remarks by the president at signing of the Weapons Systems 
+ Acquisition Reform Act of 2009. ",0.6965574381378411,21,4
+389," Retrieved from http://www.whitehouse.gov/the_press_
+ office/Remarks-by-the-President-at-signing-of-the-Weapons-systems-Acquisition-
+ Reform-Act
+ orszag, P. R. (2009a). ",0.6675002407236892,21,0
+390, Improving government acquisition  [Memorandum]. ,0.7927545806935887,21,4
+391,"Retrieved from 
+ http://www.whitehouse.gov/omb/procurement_index_gov_contracting
+ Parlier, G. H. (1989). ",0.4445634314514294,21,0
+392,"The Goldwater-Nichols Act of 1986: Resurgence in defense and the 
+ legacy of eisenhower. ",0.6019113913557086,21,4
+393,in  War in the Modern Era. ,0.2771543280325244,21,2
+394," seminar conducted at the Marine Corps 
+ Command and staff College, Marine Corps Combat Development Center, Quantico, VA.
+ Perry, W. J. (1994). ",0.8098271353730532,21,2
+395," Specifications and standards – A new way of doing business  
+ [Memorandum]. ",0.5648190732205275,21,1
+396,"Washington, DC: Department of Defense.",0.3810600872711125,21,0
+397,"
+ Phillips, M. (2009, February 23). ",0.22599636968786116,21,2
+398, Owning up to what we owe  [Web log post]. ,0.32116680463735936,21,2
+399,"Retrieved from 
+ http://www.whitehouse.gov/blog/09/02/23/owning-up-to-what-we-owe/
+ President’s Blue Ribbon Commission on Defense Management. ",0.49552955122959413,21,0
+400,(1986). ,0.0,21,-1
+401," A quest for excellence: 
+ Final report to the president. ",0.5271321032708525,21,4
+402," Washington, DC: National Defense university.",0.44912274584167117,21,0
+403,"
+ ",0.0,21,-1
+404,"Risher, H. (2010, May 23). ",0.0,21,-1
+405,learning from NsPs failure. ,0.31610019304736264,21,5
+406, Federal Times. ,0.47112729800526604,21,2
+407," Retrieved from http://
+ www.federaltimes.com/article/20100523/ADoP06/5230304/
+ Rogers, e. W., & Birmingham, R. P. (2004, January-April). ",0.37304687478754367,21,0
+408,"A ten-year review of the vision 
+ for transforming the defense acquistion system. ",0.6519435951781681,21,4
+409, Defense Acquistion Review Journal. ,0.6572728562525467,21,0
+410," 
+ Retrieved from http://www.dau.mil/pubscats/Pages/arq2004.aspx
+ The More Things Change, Acquisition Reform Remains the Same
+ 120
+ ARJ, January 2012, Vol. 19 ",0.5953225499465036,21,0
+411,"No. 1 : 099 — 120
+ schein, e. (1992). ",0.28264939659562704,22,3
+412, Organizational culture and leadership. ,0.7753456436436538,22,6
+413," san Francisco: Jossey-Bass.
+ schwartz, M. (2010). ",0.3314840605689439,22,2
+414," Defense aquisitions: How DoD acquires weapon systems and recent 
+ efforts to reform the process. ",0.7757219711901686,22,1
+415," Washington, DC: Congressional Research service.",0.5162398188693684,22,0
+416,"
+ shalai-esa, A. (2010, December 14). ",0.22061683681866257,22,2
+417, U.S. Senate spending bill funds second F-35 Engine. ,0.6276122278289914,22,4
+418,"
+ Reuters. ",0.14497812466750018,22,2
+419," Retrieved from http://www.reuters.com/article/2010/12/14/fighter-engine-
+ idusN142161720101214
+ starks, G. l. (2008, July-August). ",0.3943485134545247,22,0
+420,The future of DoD acquistion reform. ,0.7066117304935638,22,1
+421," Defense AT&L, 37 (4), 
+ 28–32.
+ Weapon systems Acquisition Reform Act of 2009, 10 u.s.C., Pub. ",0.8103189000874613,22,4
+422,l. 111-23 (2009a). ,0.0,22,-1
+423,"Retrieved 
+ from http://www.acq.osd.mil/se/docs/PuBliC-lAW-111-23-22MAY2009.pdf
+ Weapon systems Acquisition Reform Act of 2009. ",0.7201929675018781,22,0
+424,"Business meeting to mark up s. 
+ 454, 111th Cong., 1 (2009b). ",0.3812660566733337,22,2
+425,"Retrieved from http://armed-services.senate.gov/
+ Transcripts/2009/04%20April/A%20Full%20Committee/09-17%20-%204-2-09.pdf
+ u.s. Government Accountability office. ",0.48412905082489155,22,0
+426,(2009). ,0.0,22,-1
+427," Defense acquisitions: Assessments of selected 
+ weapon programs  (Report No. ",0.7401288152206633,22,1
+428,GAo-11-233sP). ,0.3583431097506353,22,2
+429,"Washington, DC: Author.",0.3747427160652629,22,0
+430,"
+ u.s. Government Accountability office. ",0.4321013350389811,22,4
+431,(2011). ,0.0,22,-1
+432," GAO’s 2011 high-risk series: An update  (Report 
+ No. ",0.7442605468154515,22,1
+433,GAo-11-394T). ,0.35357221961021423,22,4
+434,"Washington, DC: Author.
+ ",0.3747427160652629,22,0
+435,"Wolf, J. (2010, May 27). ",0.20121806123110325,22,2
+436,"House defies veto threat, funds 2nd F-35 engine. ",0.5433903093458866,22,2
+437, Reuters. ,0.14497812466750018,22,2
+438," Retrieved 
+ from http://www.reuters.com/article/idusTRe64R0lA20100528
+",0.35024172249823887,22,0

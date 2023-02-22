@@ -1,0 +1,481 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <title></title>
+  <!-- Drop Zone Initialization -->
+  {{ dropzone.load_css() }}
+  {{ dropzone.load_js() }}
+  {{ dropzone.style('border: 1px dashed #0087F7; margin: 10px 0 10px; min-height: 150px; width: 90%') }}
+
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.1.3/css/bootstrap.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+  <link rel="stylesheet" type="text/css" href="../static/css/template.css" />
+  <link rel="stylesheet" type="text/css" href="../static/css/main.css" />
+  <script type="text/javascript" src="https://code.jquery.com/jquery-3.5.1.js"></script>
+  <script type="text/javascript" src="https://cdn.datatables.net/1.12.1/js/jquery.dataTables.min.js"></script>
+  <script type="text/javascript" src="https://cdn.datatables.net/responsive/2.3.0/js/dataTables.responsive.min.js"></script>
+  <link rel="stylesheet" href="https://cdn.datatables.net/1.12.1/css/jquery.dataTables.min.css">
+  <link rel="stylesheet" href="https://cdn.datatables.net/responsive/2.3.0/css/responsive.dataTables.min.css">
+
+  <script type=text/javascript>
+    $(function()
+    {
+      $("#pdftotxt").click(function (event) {
+        $.getJSON('/pdftotxt', { 
+        },
+      function(data) { 
+          }); return false; 
+        }); 
+      });
+    </script>
+
+</head>
+<body>
+{{session}}
+  {% extends "template.html" %}
+  {% block content %}
+
+  <!-- Modal to show the processing of the file when the "Submit" button is clicked -->
+  <div id="myModal" class="modal">
+    <div class="modal-content">
+      <div class="modal-body">
+        <center>
+          <div id="processing_file"></div>
+          <p id="processingtext">PROCESSING</p>
+        </center>
+      </div>
+    </div>
+  </div>
+
+ <!-- The main content of the web page begins here -->
+  <div class="main_content">
+    <div class="jumbotron">
+      <div class="item row">
+        <!-- NLP image - the logo -->
+        <div class="center col-sm-6 ">
+          <img id="nlpimage" src="../static//images/nlp-03-1.png" alt="Image" height="300" width="300">
+        </div>
+        <!-- Dropzone area - Clickable or "Drag and Drop" -->
+        <div class="drop center col-sm-6 " id="upload_body">
+          <p id="upload-title">Upload files below</p>
+
+          <form action="/upload" class="dropzone vrScroll" id="my-dropzone" method="post" enctype="multipart/form-data">
+            <input type="hidden" name="csrf_token" value="{{ csrf_token()}}" />
+            <div id="previews"></div>
+
+            <!-- Input: Check Box - Provides to options to save files and results to the database. If checked, saves to the database else only local storage (temporarily) -->
+            <div class="dropzone_options">
+
+              <!-- Option to save uploaded files -->
+              <input type="checkbox" id="storeFiles" name="storeFiles" value='files' checked>
+              <label id="sftitle" for="storeFiles"> Save Files</label>
+
+              <!-- Option to save processed results -->
+              <input type="checkbox" id="storeResult" name="storeResult" value='results' checked>
+              <label id="srtitle" for="storeResult"> Save Results</label>
+
+              <!-- Link to view the files of the user currently logged in -->
+              <a class="showmyfiles" href="{{url_for('showFiles', name = session['user']['name'], uid = session['user']['_id'])}}">
+                Show My Files
+              </a>
+
+              <!-- The button to upload documents to local storage by default. Saves files and results to the Database if selected in the above options -->
+              <button id="upload-btn" class=" ">Upload</button>
+            </div>
+          </form>
+        </div>
+      </div>
+    </div>
+
+
+    <!-- Submit button to start processing the uploaded documents -->
+    <form action="/output_page" method="post" id="submit_btn">
+      <input type="hidden" name="csrf_token" value="{{ csrf_token()}}" />
+      <center><button name="submit" value="submit" id = "submitbtn" onclick="processing_file();">Submit</button></center>
+    </form>
+
+
+    <center>
+      <div class="showBtn">
+        <p id="chgtext">Results</p>
+      </div>
+    </center>
+
+    <!-- Shows a loading animation while the document is being processed in the background -->
+    <center>
+      <div id="loading">
+        <h6 id="processText" class="processing">Processing...</h6>
+      </div>
+    </center>
+
+    <!-- Displays results in the form of a table with links to open results for each file. If no results present, a message is displayed instead of the table ("else" part of "if" statement) -->
+    <div id="results">
+      {% if res %}
+      <div class="user_table">
+        <table id='usertable' class="hover order-column row-border responsive ">
+          <thead>
+
+            <!-- Table headers -->
+            <tr>
+              <th>File Name</th>
+              <th>View Result</th>
+              <th>Download</th>
+              <th>Group</th>
+            </tr>
+
+          </thead>
+          <!-- Table body -->
+          <tbody>
+            {% for folder in folders %} <!-- This loop is used to iterate through the parent directory -->
+            {% set n = (folders[folder] | length)//2 %} <!-- Calculates the number of files in each directory -->
+            {% for i in range(n)%} <!-- Iterates through each document to display it on the table -->
+
+            <tr style="height: 10px;">
+
+              <!-- Value of the columns "File Name" :
+              Displays: Name of the file along with a link to upload the file to the database is not done so initially -->
+              <td class="name"> 
+                <a href="javascript:showPdf({url : '{{path[1:]+'/'+folder+'/'+folders[folder]['file'~i]}}'})">
+                  {{folders[folder]['file'~i]}}
+                </a>
+                
+                {% if folders[folder]['file'~i] in session['files_saved'] %}
+                <p id="uploadhint">
+                  Uploaded
+                  <span class="tooltiptext">
+                    Uploaded
+                  </span>
+                </p>
+                {% else %}
+                <a href="{{url_for('upload_files', fname = folders[folder]['file'~i], folder = folder)}}">
+                  <p id="uploadhint">
+                    Upload
+                    <span class="tooltiptext">
+                      Click to Upload
+                    </span>
+                  </p>
+                </a>
+                {% endif %}
+              </td>
+              <!-- Value of the column "View Result" :
+              Displays: A link to view the result of the processed document. If not processed previously, a link to do so is provided. 
+              Another link is provided to upload the results to the database if the option "Save Results" was not selected while uploading the original document -->
+              <td class="name">
+                {% if folders[folder]['file'~i] in session['processed'] %}
+                <a href="javascript:showResults({ resfile : '{{path[1:]+'/'+folder+'/'+folders[folder]['result'~i]}}', 
+                                                  reschart :  '{{path[1:]+'/'+folder+'/'}}tables/', 
+                                                  file : '{{folders[folder]['file'~i]}}'})">
+                                                  View Results
+                </a>
+                {% else %}
+                <a id="process_file_link" onclick="processing_file()" href="{{url_for('process_file', filefolder = folder, file_name =  folders[folder]['file'~i])}}">Process
+                  File
+                </a>
+                {% endif %}
+
+                <!-- Options to upload the results to the database -->
+                <div id="upload_status">
+                  {% if folders[folder]['file'~i] in session['results_saved'] and folders[folder]['file'~i] in session['processed'] %}
+                  <p id="uploadhint">
+                    Uploaded
+                    <span class="tooltiptext">
+                      Uploaded
+                    </span>
+                  </p>
+
+                  {% elif not folders[folder]['file'~i] in session['files_saved'] or not folders[folder]['file'~i] in session['processed']  %}
+
+                  <a>
+                    <p id="uploadhint">
+                      Upload
+                      <span class="tooltiptext">
+                        Please upload the file first
+                      </span>
+                    </p>
+                  </a>
+
+                  {% elif folders[folder]['file'~i] in session['files_saved'] and not folders[folder]['file'~i] in session['processed'] %}
+
+                  <a>
+                    <p id="uploadhint">
+                      Upload
+                      <span class="tooltiptext">
+                        Please process the file first
+                      </span>
+                    </p>
+                  </a>
+                  {% else %}
+                  <a href="{{url_for('upload_results', fname = folders[folder]['file'~i], folder = folder)}}">
+                    <p id="uploadhint">
+                      Upload
+                      <span class="tooltiptext">
+                        Click to Upload
+                      </span>
+                    </p>
+                  </a>
+
+                  {% endif %}
+                </div>
+              </td>
+
+              <!-- Value of the column "Download":
+              Displays : A link to download the highlighted files along with bar graphs in the zip format -->
+              <td>
+                <a id="download_link" href="{{url_for('download_zip', fname = folders[folder]['file'~i], folder = folder)}}">
+                  Download Zip
+                  <img id="download_icon" src="../static/download.png" height="20px" width="20px">
+                </a>
+              </td>
+
+              <!-- Value of the column "Group" 
+              Displays : The group number - Segregates the documents into groups in the way it was uplaoded -->
+              <td>
+                <div id = "group_no">
+                  <p> Group {{ group_ids[session.group[folder]]}} </p>
+                </div>
+              </td>
+
+            </tr>
+            {% endfor %}
+            {% endfor %}
+          </tbody>
+        </table>
+
+        <!-- When no results are present in the session -->
+        {% else %}
+        <p class="ntd" id="ntdchg"> Nothing to display</p>
+        {% endif %}
+      </div>
+    </div>
+
+    <!-- This is the "Result" section. Initially with no results, this section is hidden -->
+    <div id="pdfdiv" style="display: none;">
+      <!-- "Close" button to hide the results. The button is visible when the result section is displayed -->
+      <button id="closebtn" onclick="closeFunc()"> Close </button>
+      
+      <!-- Dropdown menu to display the similarity chart for each class -->
+      <img id="similarity_chart" src="" />
+      <div class="dropdown">
+        <span id="classtxt">Class</span>
+        <button id="classname" onclick="showClasses()" class="dropbtn">
+          Click here to select class
+        </button>
+        <div id="myDropdown" class="dropdown-content">
+          <a href="javascript:showCharts({ class: 'feasibility' })">Feasibility</a>
+          <a href="javascript:showCharts({ class: 'critically' })">Critically</a>
+          <a href="javascript:showCharts({ class: 'affording' })">Affording</a>
+          <a href="javascript:showCharts({ class: 'needing' })">Needing</a>
+          <a href="javascript:showCharts({ class: 'reformed' })">Reformed</a>
+          <a href="javascript:showCharts({ class: 'standardize' })">Standardize</a>
+          <a href="javascript:showCharts({ class: 'sets' })">Sets</a>
+          <a href="javascript:showCharts({ class: 'continuing' })">Continuing</a>
+          <a href="javascript:showCharts({ class: 'incorporating' })">Incorporating</a>
+        </div>
+      </div>
+
+      <!-- Space to display the similarity bar graph -->
+      <img id="class_similarity" src="" width="45%" />
+      <!-- Space to display the highlighted document -->
+      <embed id="doc" src="" type="application/pdf" />
+      <div class="clear"></div>
+    </div>
+  </div> <!-- End of the main content -->
+
+  {{dropzone.config()}}
+  <script>
+    var iPageTabID = sessionStorage.getItem("tabID");
+    // if it is the first time that this page is loaded
+    if (iPageTabID == null) {
+      var iLocalTabID = localStorage.getItem("tabID");
+      // if tabID is not yet defined in localStorage it is initialized to 1
+      // else tabId counter is incremented by 1
+      var iPageTabID = (iLocalTabID == null) ? 1 : Number(iLocalTabID) + 1;
+      // new computed value is saved in localStorage and in sessionStorage
+      localStorage.setItem("tabID", iPageTabID);
+      sessionStorage.setItem("tabID", iPageTabID);
+    }
+    if (iPageTabID > 1) {
+      window.location.replace("http://localhost:8000/restricted/")
+    }
+    // console.log("local", localStorage.getItem("tabID"))
+    // console.log("session", sessionStorage.getItem("tabID"))
+
+
+    Dropzone.options.myDropzone = { 
+      autoProcessQueue: false,
+      uploadMultiple: true,
+      parallelUploads: 100,
+      maxFiles: 100,
+      addRemoveLinks: true,
+
+      // The setting up of the dropzone
+      init: function () {
+        var myDropzone = this;
+        this.previewsContainer = document.getElementById("previews");
+        this.on("addedfile", function (file) {
+          document.getElementsByClassName('dz-default')[0].style.display = "None";
+        });
+        // First change the button to actually tell Dropzone to process the queue.
+        this.element.querySelector("button[id=upload-btn]").addEventListener("click", function (e) {
+          // Make sure that the form isn't actually being sent.
+          e.preventDefault();
+          e.stopPropagation();
+          myDropzone.processQueue();
+        });
+
+        // Listen to the sendingmultiple event. In this case, it's the sendingmultiple event instead
+        // of the sending event because uploadMultiple is set to true.
+        this.on("sendingmultiple", function () {
+          // Gets triggered when the form is actually being sent.
+          // Hide the success button or the complete form.
+        });
+        this.on("successmultiple", function (files, response) {
+          // Gets triggered when the files have successfully been sent.
+          // Redirect user or notify of success.
+        });
+        this.on("errormultiple", function (files, response) {
+          // Gets triggered when there was an error sending the files.
+          // Maybe show form again, and notify user of error
+        });
+        // Disables the submit button if the dropzone is empty
+        var submit2 = document.getElementById("submitbtn");
+        submit2.disabled = true;
+        this.on("complete", function(files){
+          submit2.disabled = false;
+        })
+      }
+    }
+
+    // function myFunction() {
+    //   if (document.getElementById("results").style.display == "block") {
+    //     document.getElementById("results").style.display = "None"
+    //     $("#loading").show();
+    //     document.getElementById("ntdchg").innerHTML = "Processing..."
+    //   } else {
+    //     document.getElementById("results").style.display = "block"
+    //   };
+    // }
+
+    // Setting up the DataTable to group the documents
+    $(document).ready(function () {
+      var groupColumn = 3;
+      $('#usertable').DataTable({
+        columns : [
+          {"width":"70%"},
+          {"width":"20%"},
+          {"width":"10%"}
+        ],
+        columnDefs: [{ visible: false, targets: groupColumn }],
+        order: [[groupColumn, 'asc']],
+        displayLength: 25,
+        drawCallback: function (settings) {
+            var api = this.api();
+            var rows = api.rows({ page: 'current' }).nodes();
+            var last = null;
+ 
+            api
+                .column(groupColumn, { page: 'current' })
+                .data()
+                .each(function (group, i) {
+                    if (last !== group) {
+                        $(rows)
+                            .eq(i)
+                            .before('<tr class="group"><td colspan="3">' + group + '</td></tr>');
+                        last = group;
+                    }
+                });
+        },
+    });
+    });
+
+
+    $(document).ready(function () {
+      $('select').removeClass('form-select form-select-sm');
+    });
+
+    function loading() {
+      $("#loading").show();
+      document.getElementById("ntdchg").style.display = "none";
+      document.getElementById("submit_btn").style.pointerEvents = "none";
+    }
+
+    
+    function show_processing() {
+      document.getElementById("processing_file").style.display = "block";
+      document.getElementById("process_file_link").style.display = "none";
+      document.getElementById("upload_status").style.display = "none";
+    }
+
+    // Function that triggers when "View Result" button is clicked
+    function showResults(res) {
+      window.curr_dir = res.reschart;
+      window.curr_file = res.file
+      document.getElementById("doc").setAttribute("src", res.resfile);
+      document.getElementById("similarity_chart").setAttribute("src", res.reschart.concat("overall_sim.png"));
+      class_ = document.getElementById("classname").innerHTML;
+      if (class_ != "Click here to select class") {
+        showCharts({ class: class_ });
+      }
+      var x = document.getElementById("pdfdiv");
+      if (x.style.display === "none") {
+        x.style.display = "block";
+      }
+      window.scrollTo(0, 800);
+    }
+    // Function that triggers when "Close" button in the result section is clicked
+    function closeFunc() {
+      document.getElementById("doc").setAttribute("src", "");
+      document.getElementById("similarity_chart").setAttribute("src", "");
+      var x = document.getElementById("pdfdiv");
+      if (x.style.display === "block") {
+        x.style.display = "none";
+      }
+    }
+
+    // Dropdown menu functionality to show classes in result section
+    function showClasses() {
+      document.getElementById("myDropdown").classList.toggle("show");
+    }
+    // Close the dropdown if the user clicks outside of it
+    window.onclick = function (event) {
+      if (!event.target.matches('.dropbtn')) {
+        var dropdowns = document.getElementsByClassName("dropdown-content");
+        var i;
+        for (i = 0; i < dropdowns.length; i++) {
+          var openDropdown = dropdowns[i];
+          if (openDropdown.classList.contains('show')) {
+            openDropdown.classList.remove('show');
+          }
+        }
+      }
+    }
+
+    // Displays the bar graph of a particular class when selected from Dropdown menu
+    function showCharts(param) {
+      document.getElementById('class_similarity').setAttribute("src", curr_dir.concat(curr_file, "_plot_", param.class.charAt(0).toLowerCase() + param.class.slice(1), ".png"));
+      document.getElementById('classname').innerHTML = param.class.charAt(0).toUpperCase() + param.class.slice(1);
+    }
+
+    // Function that triggers the "Processing" Modal
+    function processing_file() {
+      var modal = document.getElementById("myModal");
+      modal.style.display = "block";
+      // document.getElementById("msg").innerHTML = fname.fname;
+      window.onclick = function (event) {
+        if (event.target == modal) {
+          modal.style.display = "none";
+        }
+      }
+      span.onclick = function () {
+        modal.style.display = "none";
+      }
+
+    }
+
+  </script>
+  {% endblock %}
+</body>
+</html>

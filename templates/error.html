@@ -1,0 +1,22 @@
+{% extends "loginbase.html" %}
+    
+{% block content %}
+<div id = "request_denied">
+   <p id="rqtxt"> Request Denied...</p>
+   <div class="alert">
+    <img src="/static/complain.png"/>
+   </div>
+   <p id="reqtxt_msg">This section cannot be accessed as it is already active on different tab</p>
+   <!-- <span>Click here to </span><a href="/">Login</a> -->
+</div>
+
+<script>
+    console.log("session",sessionStorage.getItem("tabID"))
+    console.log("local", localStorage.getItem("tabID"))
+    homepagetab = sessionStorage.getItem("tabID") - 1
+    
+    window.onbeforeunload = function(){
+        sessionStorage.setItem("tabID", homepagetab);
+    }
+</script>
+{% endblock %}
